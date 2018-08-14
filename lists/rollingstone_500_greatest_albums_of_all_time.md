@@ -1,7 +1,6 @@
 # Rolling Stone: 500 Greatest Albums of All Time
 ### Rolling Stone’s definitive list of the 500 greatest albums of all time.
-
-###1: The Beatles, ‘Sgt. Pepper’s Lonely Hearts Club Band’
+### 1: The Beatles, ‘Sgt. Pepper’s Lonely Hearts Club Band’
 
 Capitol, 1967
 
@@ -9,7 +8,7 @@ Sgt. Pepper’s Lonely Hearts Club Band is the most important rock & roll album 
 
 ![The Beatles, ‘Sgt. Pepper’s Lonely Hearts Club Band’](https://www.rollingstone.com/wp-content/uploads/2018/06/sgt-peppers-e4860c12-4da1-4e6d-bb86-81698a88dbde.jpg?crop=1240:1240&width=300 "The Beatles, ‘Sgt. Pepper’s Lonely Hearts Club Band’")
 
-###2: The Beach Boys, ‘Pet Sounds’
+### 2: The Beach Boys, ‘Pet Sounds’
 
 Capitol, 1966
 
@@ -17,7 +16,7 @@ Capitol, 1966
 
 ![The Beach Boys, ‘Pet Sounds’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136791-eafbc592120358b4d3d14cda5acebf62ae50a522.jpg?crop=1240:1240&width=300 "The Beach Boys, ‘Pet Sounds’")
 
-###3: The Beatles, ‘Revolver’
+### 3: The Beatles, ‘Revolver’
 
 Capitol, 1966
 
@@ -25,7 +24,7 @@ Capitol, 1966
 
 ![The Beatles, ‘Revolver’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136792-daa031ec00ad83a2da305fe583d746d030fa46ca.jpg?crop=1240:1240&width=300 "The Beatles, ‘Revolver’")
 
-###4: Bob Dylan, ‘Highway 61 Revisited’
+### 4: Bob Dylan, ‘Highway 61 Revisited’
 
 Columbia, 1965
 
@@ -33,7 +32,7 @@ Bruce Springsteen described the beginning of "Like a Rolling Stone," the opening
 
 ![Bob Dylan, ‘Highway 61 Revisited’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136793-3dbec55509cc2ca2776a37e27102718700790947.jpg?crop=1240:1240&width=300 "Bob Dylan, ‘Highway 61 Revisited’")
 
-###5: The Beatles, ‘Rubber Soul’
+### 5: The Beatles, ‘Rubber Soul’
 
 Capitol, 1965
 
@@ -41,7 +40,7 @@ In 1965, radios were abuzz with such groundbreaking singles as "(I Can't Get No)
 
 ![The Beatles, ‘Rubber Soul’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136794-6a2b508760f8dfca2260822c63640baa769795b4.jpg?crop=1240:1240&width=300 "The Beatles, ‘Rubber Soul’")
 
-###6: Marvin Gaye, ‘What’s Going On’
+### 6: Marvin Gaye, ‘What’s Going On’
 
 Motown, 1971
 
@@ -49,7 +48,7 @@ Motown, 1971
 
 ![Marvin Gaye, ‘What’s Going On’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136795-89f4e4079e43af44a80043f496eebfc562e3c9ec.jpg?crop=1240:1240&width=300 "Marvin Gaye, ‘What’s Going On’")
 
-###7: The Rolling Stones, ‘Exile on Main Street’
+### 7: The Rolling Stones, ‘Exile on Main Street’
 
 Rolling Stones Records, 1972
 
@@ -57,7 +56,7 @@ A dirty whirl of blues and boogie, the Rolling Stones' 1972 double LP "was the f
 
 ![The Rolling Stones, ‘Exile on Main Street’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136796-a79e314b8bb4a44886afc91cf2db9b0e6f4a1526.jpg?crop=1240:1240&width=300 "The Rolling Stones, ‘Exile on Main Street’")
 
-###8: The Clash, ‘London Calling’
+### 8: The Clash, ‘London Calling’
 
 Epic, 1980
 
@@ -65,7 +64,7 @@ Recorded in 1979 in London, which was then wrenched by surging unemployment and 
 
 ![The Clash, ‘London Calling’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136797-692d99af3ab2207de3a7757ad3eb2fc65644ed49.jpg?crop=1240:1240&width=300 "The Clash, ‘London Calling’")
 
-###9: Bob Dylan, ‘Blonde on Blonde’
+### 9: Bob Dylan, ‘Blonde on Blonde’
 
 Columbia, 1966
 
@@ -73,7 +72,7 @@ Released on May 16th, 1966, rock's first studio double LP by a major artist was,
 
 ![Bob Dylan, ‘Blonde on Blonde’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136798-c659072c7a5fd09b178fc73b1cc6c03bc9c5763b.jpg?crop=1240:1240&width=300 "Bob Dylan, ‘Blonde on Blonde’")
 
-###10: The Beatles, ‘The White Album’
+### 10: The Beatles, ‘The White Album’
 
 Capitol, 1968
 
@@ -81,7 +80,7 @@ They wrote the songs while on retreat with the Maharishi Mahesh Yogi in India, t
 
 ![The Beatles, ‘The White Album’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136799-c851b340c6dccdeafaeb8d147ea084cba2e06236.jpg?crop=1240:1240&width=300 "The Beatles, ‘The White Album’")
 
-###11: Elvis Presley, ‘The Sun Sessions’
+### 11: Elvis Presley, ‘The Sun Sessions’
 
 RCA, 1999
 
@@ -89,7 +88,7 @@ Many believe rock & roll was born on July 5th, 1954, at Sun Studio in Memphis. E
 
 ![Elvis Presley, ‘The Sun Sessions’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136800-7a33165e92d530dd0f7c190f9dd46f81b95c5913.jpg?crop=1240:1240&width=300 "Elvis Presley, ‘The Sun Sessions’")
 
-###12: Miles Davis, ‘Kind of Blue’
+### 12: Miles Davis, ‘Kind of Blue’
 
 Columbia, 1959
 
@@ -97,7 +96,7 @@ This painterly masterpiece would become one of the most important, influential a
 
 ![Miles Davis, ‘Kind of Blue’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136801-7d7508478e8e401003325d5d0aaac731560d13ab.jpg?crop=1240:1240&width=300 "Miles Davis, ‘Kind of Blue’")
 
-###13: The Velvet Underground and Nico, ‘The Velvet Underground’
+### 13: The Velvet Underground and Nico, ‘The Velvet Underground’
 
 Verve, 1967
 
@@ -105,7 +104,7 @@ Verve, 1967
 
 ![The Velvet Underground and Nico, ‘The Velvet Underground’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136802-99e8a590fe492cdd130f7debb20f934748fbc4b7.jpg?crop=1240:1240&width=300 "The Velvet Underground and Nico, ‘The Velvet Underground’")
 
-###14: The Beatles, ‘Abbey Road’
+### 14: The Beatles, ‘Abbey Road’
 
 Capitol, 1969
 
@@ -113,7 +112,7 @@ Capitol, 1969
 
 ![The Beatles, ‘Abbey Road’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136803-0921fbfa76c66953268f4bdeee9410ef7ef02536.jpg?crop=1240:1240&width=300 "The Beatles, ‘Abbey Road’")
 
-###15: The Jimi Hendrix Experience, ‘Are You Experienced?’
+### 15: The Jimi Hendrix Experience, ‘Are You Experienced?’
 
 Reprise, 1967
 
@@ -121,7 +120,7 @@ This is what Britain sounded like in late 1966 and early 1967: ablaze with rainb
 
 ![The Jimi Hendrix Experience, ‘Are You Experienced?’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136804-5c60b6f07182074469636bb45da1fd26b8d2a04f.jpg?crop=1240:1240&width=300 "The Jimi Hendrix Experience, ‘Are You Experienced?’")
 
-###16: Bob Dylan, ‘Blood on the Tracks’
+### 16: Bob Dylan, ‘Blood on the Tracks’
 
 Columbia, 1975
 
@@ -129,7 +128,7 @@ Bob Dylan once introduced this album's opening song, "Tangled Up in Blue," onsta
 
 ![Bob Dylan, ‘Blood on the Tracks’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136805-d7f732b2975aa5f48929bab82e158620c28021ee.jpg?crop=1240:1240&width=300 "Bob Dylan, ‘Blood on the Tracks’")
 
-###17: Nirvana, ‘Nevermind’
+### 17: Nirvana, ‘Nevermind’
 
 Geffen, 1991
 
@@ -137,7 +136,7 @@ The overnight-success story of the 1990s, Nirvana's second album and its totemic
 
 ![Nirvana, ‘Nevermind’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136806-21ccd83b5593ecaed7b7b09b5bcfa2aed935b208.jpg?crop=1240:1240&width=300 "Nirvana, ‘Nevermind’")
 
-###18: Bruce Springsteen, ‘Born to Run’
+### 18: Bruce Springsteen, ‘Born to Run’
 
 Columbia, 1975
 
@@ -145,7 +144,7 @@ Bruce Springsteen spent everything he had – patience, energy, studio time, the
 
 ![Bruce Springsteen, ‘Born to Run’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136807-1ccdff7c10d78ca236e7272be46db2562737945a.jpg?crop=1240:1240&width=300 "Bruce Springsteen, ‘Born to Run’")
 
-###19: Van Morrison, ‘Astral Weeks’
+### 19: Van Morrison, ‘Astral Weeks’
 
 Warner Bros., 1968
 
@@ -153,7 +152,7 @@ Van Morrison never sounded more warm and ecstatic, more sensual and vulnerable, 
 
 ![Van Morrison, ‘Astral Weeks’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136808-6f9fc2c6fadb5ba8118b7baa2cd016ddebee2f26.jpg?crop=1240:1240&width=300 "Van Morrison, ‘Astral Weeks’")
 
-###20: Michael Jackson, ‘Thriller’
+### 20: Michael Jackson, ‘Thriller’
 
 Epic, 1982
 
@@ -161,7 +160,7 @@ Michael Jackson towered over the 1980s the way Elvis Presley dominated the 1950s
 
 ![Michael Jackson, ‘Thriller’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136809-5f1d3499fb3eed91d03d8c94213829d42fb87658.jpg?crop=1240:1240&width=300 "Michael Jackson, ‘Thriller’")
 
-###21: Chuck Berry, ‘The Great Twenty-Eight’
+### 21: Chuck Berry, ‘The Great Twenty-Eight’
 
 Chess, 1982
 
@@ -169,7 +168,7 @@ In the latter half of the Fifties, Chuck Berry released a string of singles that
 
 ![Chuck Berry, ‘The Great Twenty-Eight’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136810-fc435e4ac67a99344a3f87b874346a03bb864a0d.jpg?crop=1240:1240&width=300 "Chuck Berry, ‘The Great Twenty-Eight’")
 
-###22: Robert Johnson, ‘The Complete Recordings’
+### 22: Robert Johnson, ‘The Complete Recordings’
 
 Columbia, 1990
 
@@ -177,7 +176,7 @@ Columbia, 1990
 
 ![Robert Johnson, ‘The Complete Recordings’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136811-d728ac46e2ce3da52113fcb8e4e593dac64015d6.jpg?crop=1240:1240&width=300 "Robert Johnson, ‘The Complete Recordings’")
 
-###23: John Lennon, ‘Plastic Ono Band’
+### 23: John Lennon, ‘Plastic Ono Band’
 
 Capitol, 1970
 
@@ -185,7 +184,7 @@ Also known as the "primal scream" album, referring to the painful therapy that g
 
 ![John Lennon, ‘Plastic Ono Band’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136812-3de737814351d39eb4854aed81106f8b2f7564e3.jpg?crop=1240:1240&width=300 "John Lennon, ‘Plastic Ono Band’")
 
-###24: Stevie Wonder, ‘Innervisons’
+### 24: Stevie Wonder, ‘Innervisons’
 
 Tamala, 1973
 
@@ -193,7 +192,7 @@ Stevie Wonder's high-flying musical experimentation and penetrating lyrical insi
 
 ![Stevie Wonder, ‘Innervisons’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136813-cd9ed0f8f7ee429ef0f61b2e111a7bbce304f001.jpg?crop=1240:1240&width=300 "Stevie Wonder, ‘Innervisons’")
 
-###25: James Brown, ‘Live at the Apollo’
+### 25: James Brown, ‘Live at the Apollo’
 
 King, 1963
 
@@ -201,7 +200,7 @@ Perhaps the greatest live album ever recorded. From the breathless buildup of th
 
 ![James Brown, ‘Live at the Apollo’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136814-b56e02aec79042fa9b1af99d683ded0c8a2bd461.jpg?crop=1240:1240&width=300 "James Brown, ‘Live at the Apollo’")
 
-###26: Fleetwood Mac, ‘Rumours’
+### 26: Fleetwood Mac, ‘Rumours’
 
 Warner Bros., 1977
 
@@ -209,7 +208,7 @@ On Rumours, Fleetwood Mac turned private turmoil into gleaming, melodic public a
 
 ![Fleetwood Mac, ‘Rumours’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136815-cbb03ec26a73d7619600851e27bddf3511abf4de.jpg?crop=1240:1240&width=300 "Fleetwood Mac, ‘Rumours’")
 
-###27: U2, ‘The Joshua Tree’
+### 27: U2, ‘The Joshua Tree’
 
 Island, 1987
 
@@ -217,7 +216,7 @@ Island, 1987
 
 ![U2, ‘The Joshua Tree’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136816-520bddc06d6e0cc15e5e664403130b7f82c647ed.jpg?crop=1240:1240&width=300 "U2, ‘The Joshua Tree’")
 
-###28: The Who, ‘Who’s Next’
+### 28: The Who, ‘Who’s Next’
 
 Decca, 1971
 
@@ -225,7 +224,7 @@ Pete Townshend said he suffered a nervous breakdown when his planned follow-up t
 
 ![The Who, ‘Who’s Next’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136817-8771b654101c38cee38046c90461899f4609dcc7.jpg?crop=1240:1240&width=300 "The Who, ‘Who’s Next’")
 
-###29: Led Zeppelin, ‘Led Zeppelin’
+### 29: Led Zeppelin, ‘Led Zeppelin’
 
 Atlantic, 1969
 
@@ -233,7 +232,7 @@ On their first album, Led Zeppelin were still in the process of inventing their 
 
 ![Led Zeppelin, ‘Led Zeppelin’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136818-f46de354cee13132e928bb4793b21bf466deddcf.jpg?crop=1240:1240&width=300 "Led Zeppelin, ‘Led Zeppelin’")
 
-###30: Joni Mitchell, ‘Blue’
+### 30: Joni Mitchell, ‘Blue’
 
 Reprise, 1971
 
@@ -241,7 +240,7 @@ Reprise, 1971
 
 ![Joni Mitchell, ‘Blue’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136819-028f49baec27d23d1cb2aab9039fd5c59cebcfa8.jpg?crop=1240:1240&width=300 "Joni Mitchell, ‘Blue’")
 
-###31: Bob Dylan, ‘Bringing It All Back Home’
+### 31: Bob Dylan, ‘Bringing It All Back Home’
 
 Columbia, 1965
 
@@ -249,7 +248,7 @@ Columbia, 1965
 
 ![Bob Dylan, ‘Bringing It All Back Home’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136820-269c3d6190e2dc0dc53c9692a3fccb1b0297d8ba.jpg?crop=1240:1240&width=300 "Bob Dylan, ‘Bringing It All Back Home’")
 
-###32: The Rolling Stones, ‘Let It Bleed’
+### 32: The Rolling Stones, ‘Let It Bleed’
 
 London, 1969
 
@@ -257,7 +256,7 @@ The Rolling Stones' final record of the Sixties kicks off with the terrifying "G
 
 ![The Rolling Stones, ‘Let It Bleed’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136821-33e6772d3021760a05f42698be40425d1e5302b3.jpg?crop=1240:1240&width=300 "The Rolling Stones, ‘Let It Bleed’")
 
-###33: Ramones, ‘Ramones’
+### 33: Ramones, ‘Ramones’
 
 Sire, 1976
 
@@ -265,7 +264,7 @@ Sire, 1976
 
 ![Ramones, ‘Ramones’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136822-e9c37a4eaa1dfdd20c30153be4966ef0059eea5b.jpg?crop=1240:1240&width=300 "Ramones, ‘Ramones’")
 
-###34: The Band, ‘Music From Big Pink’
+### 34: The Band, ‘Music From Big Pink’
 
 Capitol, 1968
 
@@ -273,7 +272,7 @@ Capitol, 1968
 
 ![The Band, ‘Music From Big Pink’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136824-53ea5be949478362759c48a2709486aa141fd212.jpg?crop=1240:1240&width=300 "The Band, ‘Music From Big Pink’")
 
-###35: David Bowie, ‘The Rise and Fall of Ziggy Stardust and the Spiders From Mars’
+### 35: David Bowie, ‘The Rise and Fall of Ziggy Stardust and the Spiders From Mars’
 
 RCA, 1972
 
@@ -281,7 +280,7 @@ This album documents one of the most elaborate self-mythologizing schemes in roc
 
 ![David Bowie, ‘The Rise and Fall of Ziggy Stardust and the Spiders From Mars’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136823-796577260b3b30587c896ff08e32c4b39c96e207.jpg?crop=1240:1240&width=300 "David Bowie, ‘The Rise and Fall of Ziggy Stardust and the Spiders From Mars’")
 
-###36: Carole King, ‘Tapestry’
+### 36: Carole King, ‘Tapestry’
 
 Ode, 1971
 
@@ -289,7 +288,7 @@ For nearly a decade, Carole King wrote Brill Building pop with her then-husband,
 
 ![Carole King, ‘Tapestry’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136825-665baaa4458af3052fe54e61b4f877ff0fdbfee4.jpg?crop=1240:1240&width=300 "Carole King, ‘Tapestry’")
 
-###37: The Eagles, ‘Hotel California’
+### 37: The Eagles, ‘Hotel California’
 
 Asylum, 1976
 
@@ -297,7 +296,7 @@ In pursuit of note-perfect Hollywood-cowboy ennui, the Eagles spent eight months
 
 ![The Eagles, ‘Hotel California’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136826-c1cb2fd484afdaff16cb9f5c0a397c120ff3f74a.jpg?crop=1240:1240&width=300 "The Eagles, ‘Hotel California’")
 
-###38: Muddy Waters, ‘The Anthology’
+### 38: Muddy Waters, ‘The Anthology’
 
 Chess/MCA, 2001
 
@@ -305,7 +304,7 @@ McKinley Morganfield – a.k.a. Muddy Waters – started out playing acoustic De
 
 ![Muddy Waters, ‘The Anthology’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136827-fe53e95b3d42bfba65bdf63893ac156bda42c4a9.jpg?crop=1240:1240&width=300 "Muddy Waters, ‘The Anthology’")
 
-###39: The Beatles, ‘Please Please Me’
+### 39: The Beatles, ‘Please Please Me’
 
 Parlophone, 1963
 
@@ -313,7 +312,7 @@ The Beatles recorded 10 of the 14 songs on their debut album at EMI's Abbey Road
 
 ![The Beatles, ‘Please Please Me’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136828-a98228297da2e4b977752517870aa0f0084a260d.jpg?crop=1240:1240&width=300 "The Beatles, ‘Please Please Me’")
 
-###40: Love, ‘Forever Changes’
+### 40: Love, ‘Forever Changes’
 
 Elektra, 1967
 
@@ -321,7 +320,7 @@ Elektra, 1967
 
 ![Love, ‘Forever Changes’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136829-98c7140da22f3d65f5af7dc59af391d8abd0ee52.jpg?crop=1240:1240&width=300 "Love, ‘Forever Changes’")
 
-###41: The Sex Pistols, ‘Never Mind the Bollocks, Here’s the Sex Pistols’
+### 41: The Sex Pistols, ‘Never Mind the Bollocks, Here’s the Sex Pistols’
 
 Warner Bros., 1977
 
@@ -329,7 +328,7 @@ Warner Bros., 1977
 
 ![The Sex Pistols, ‘Never Mind the Bollocks, Here’s the Sex Pistols’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136830-ad8c0086034df4e67974c150d0f4f8ec469584eb.jpg?crop=1240:1240&width=300 "The Sex Pistols, ‘Never Mind the Bollocks, Here’s the Sex Pistols’")
 
-###42: The Doors, ‘The Doors’
+### 42: The Doors, ‘The Doors’
 
 Elektra, 1967
 
@@ -337,7 +336,7 @@ After blowing minds as the house band at L.A.'s Whisky-a-Go-Go, where they got f
 
 ![The Doors, ‘The Doors’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136831-1ea331d7c82fbb8fa7071b77d4f657b109d1c788.jpg?crop=1240:1240&width=300 "The Doors, ‘The Doors’")
 
-###43: Pink Floyd, ‘The Dark Side of the Moon’
+### 43: Pink Floyd, ‘The Dark Side of the Moon’
 
 EMI, 1973
 
@@ -345,7 +344,7 @@ EMI, 1973
 
 ![Pink Floyd, ‘The Dark Side of the Moon’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136832-861c5694612fa245049704a6d3ab31387b19c834.jpg?crop=1240:1240&width=300 "Pink Floyd, ‘The Dark Side of the Moon’")
 
-###44: Patti Smith, ‘Horses’
+### 44: Patti Smith, ‘Horses’
 
 Arista, 1975
 
@@ -353,7 +352,7 @@ From its first defiant line, "Jesus died for somebody's sins, but not mine," the
 
 ![Patti Smith, ‘Horses’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136833-e7a996baf4047f8daed97e5f5bd4490fb7c1f697.jpg?crop=1240:1240&width=300 "Patti Smith, ‘Horses’")
 
-###45: The Band, ‘The Band’
+### 45: The Band, ‘The Band’
 
 Capitol, 1969
 
@@ -361,7 +360,7 @@ The Band were four-fifths Canadian – drummer Levon Helm was from Arkansas – 
 
 ![The Band, ‘The Band’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136834-0ac466eab206d17e99e3329c482993dab1bee18d.jpg?crop=1240:1240&width=300 "The Band, ‘The Band’")
 
-###46: Bob Marley and the Wailers, ‘Legend’
+### 46: Bob Marley and the Wailers, ‘Legend’
 
 Island, 1984
 
@@ -369,7 +368,7 @@ Bob Marley said, "Reggae music is too simple for [American musicians]. You must 
 
 ![Bob Marley and the Wailers, ‘Legend’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136835-96be4f1be7b743e59bc37c675556ee33492da56d.jpg?crop=1240:1240&width=300 "Bob Marley and the Wailers, ‘Legend’")
 
-###47: John Coltrane, ‘A Love Supreme’
+### 47: John Coltrane, ‘A Love Supreme’
 
 Impulse, 1964
 
@@ -377,7 +376,7 @@ Two important things happened to John Coltrane in 1957: The saxophonist left Mil
 
 ![John Coltrane, ‘A Love Supreme’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136836-02531855485466bc333d2947a4dd31f2b9f61748.jpg?crop=1240:1240&width=300 "John Coltrane, ‘A Love Supreme’")
 
-###48: Public Enemy, ‘It Takes a Nation of Millions to Hold Us Back’
+### 48: Public Enemy, ‘It Takes a Nation of Millions to Hold Us Back’
 
 Def Jam, 1988
 
@@ -385,7 +384,7 @@ Loud, obnoxious, funky, avant-garde, political, hilarious – Public Enemy's bri
 
 ![Public Enemy, ‘It Takes a Nation of Millions to Hold Us Back’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136837-0f1f21ff75e649209670aa34b650d8b0f3a7b9ef.jpg?crop=1240:1240&width=300 "Public Enemy, ‘It Takes a Nation of Millions to Hold Us Back’")
 
-###49: The Allman Brothers Band, ‘At Fillmore East’
+### 49: The Allman Brothers Band, ‘At Fillmore East’
 
 Mercury, 1971
 
@@ -393,7 +392,7 @@ Rock's greatest live double LP is an unbeatable testimony to the Allman Brothers
 
 ![The Allman Brothers Band, ‘At Fillmore East’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136838-effe20936e258567d11473ae17e244dac6b208d8.jpg?crop=1240:1240&width=300 "The Allman Brothers Band, ‘At Fillmore East’")
 
-###50: Little Richard, ‘Here’s Little Richard’
+### 50: Little Richard, ‘Here’s Little Richard’
 
 Specialty, 1957
 
@@ -401,7 +400,7 @@ Specialty, 1957
 
 ![Little Richard, ‘Here’s Little Richard’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136839-7a68ae240f7399bef642adb1c492ac20ab664b33.jpg?crop=1240:1240&width=300 "Little Richard, ‘Here’s Little Richard’")
 
-###51: Simon and Garfunkel, ‘Bridge Over Troubled Water’
+### 51: Simon and Garfunkel, ‘Bridge Over Troubled Water’
 
 Columbia, 1970
 
@@ -409,7 +408,7 @@ On their fifth and final studio album, Paul Simon and Art Garfunkel were pulling
 
 ![Simon and Garfunkel, ‘Bridge Over Troubled Water’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136840-0a328443dbf33f1e8724c5223b2d97fca48106c5.jpg?crop=1240:1240&width=300 "Simon and Garfunkel, ‘Bridge Over Troubled Water’")
 
-###52: Al Green, ‘Greatest Hits’
+### 52: Al Green, ‘Greatest Hits’
 
 Hi, 1975
 
@@ -417,7 +416,7 @@ Al Green made some of the most visionary soul music of the Seventies, in Memphis
 
 ![Al Green, ‘Greatest Hits’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136841-e9ed00227a28b80f6c6796798da58c5a6958eec2.jpg?crop=1240:1240&width=300 "Al Green, ‘Greatest Hits’")
 
-###53: The Beatles, ‘Meet the Beatles!’
+### 53: The Beatles, ‘Meet the Beatles!’
 
 Capitol, 1964
 
@@ -425,7 +424,7 @@ For Americans in the full grip of Beatlemania, this was the first album they cou
 
 ![The Beatles, ‘Meet the Beatles!’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136842-c567aea05a250999e7e2046d49200a11d83d290a.jpg?crop=1240:1240&width=300 "The Beatles, ‘Meet the Beatles!’")
 
-###54: Ray Charles, ‘The Birth of Soul: The Complete Atlantic Recordings’
+### 54: Ray Charles, ‘The Birth of Soul: The Complete Atlantic Recordings’
 
 Atlantic, 1991
 
@@ -433,7 +432,7 @@ Soul music is a blend of the holy and the filthy: gospel and blues rubbing up ag
 
 ![Ray Charles, ‘The Birth of Soul: The Complete Atlantic Recordings’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136843-7a56419fc667671522a7cb18f9a0fd66c0ca04ae.jpg?crop=1240:1240&width=300 "Ray Charles, ‘The Birth of Soul: The Complete Atlantic Recordings’")
 
-###55: The Jimi Hendrix Experience, ‘Electric Ladyland’
+### 55: The Jimi Hendrix Experience, ‘Electric Ladyland’
 
 Reprise, 1968
 
@@ -441,7 +440,7 @@ Hendrix's third album was the first he produced himself, a fever dream of underw
 
 ![The Jimi Hendrix Experience, ‘Electric Ladyland’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136844-876329989fb53101df678baaf238180b18820803.jpg?crop=1240:1240&width=300 "The Jimi Hendrix Experience, ‘Electric Ladyland’")
 
-###56: Elvis Presley, ‘Elvis Presley’
+### 56: Elvis Presley, ‘Elvis Presley’
 
 RCA, 1956
 
@@ -449,7 +448,7 @@ In November 1955, RCA Records bought Presley's contract, singles and unreleased 
 
 ![Elvis Presley, ‘Elvis Presley’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136845-3d96d5d6d9bcbc6282936dc1ffd06578cabebc32.jpg?crop=1240:1240&width=300 "Elvis Presley, ‘Elvis Presley’")
 
-###57: Stevie Wonder, ‘Songs in the Key of Life’
+### 57: Stevie Wonder, ‘Songs in the Key of Life’
 
 Motown/Universal, 1976
 
@@ -457,7 +456,7 @@ Making this record, Stevie Wonder would often stay in the studio 48 hours straig
 
 ![Stevie Wonder, ‘Songs in the Key of Life’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136846-1becb7e01d2771e049f1a09ffd58cd77f0e146a2.jpg?crop=1240:1240&width=300 "Stevie Wonder, ‘Songs in the Key of Life’")
 
-###58: The Rolling Stones, ‘Beggars Banquet’
+### 58: The Rolling Stones, ‘Beggars Banquet’
 
 ABKCO, 1968
 
@@ -465,7 +464,7 @@ ABKCO, 1968
 
 ![The Rolling Stones, ‘Beggars Banquet’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136847-ee1d802faf428f24bfdcf23cead8f5c9797f6ab4.jpg?crop=1240:1240&width=300 "The Rolling Stones, ‘Beggars Banquet’")
 
-###59: Creedence Clearwater Revival, ‘Chronicle Vol. 1’
+### 59: Creedence Clearwater Revival, ‘Chronicle Vol. 1’
 
 Fantasy, 1976
 
@@ -473,7 +472,7 @@ Between 1968 and early 1972, CCR rolled out 13 Top 40 songs, which still stand a
 
 ![Creedence Clearwater Revival, ‘Chronicle Vol. 1’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136848-c305a673692a96976fce8b404c1bf141b7db621e.jpg?crop=1240:1240&width=300 "Creedence Clearwater Revival, ‘Chronicle Vol. 1’")
 
-###60: Captain Beefheart and His Magic Band, ‘Trout Mask Replica’
+### 60: Captain Beefheart and His Magic Band, ‘Trout Mask Replica’
 
 Straight, 1969
 
@@ -481,7 +480,7 @@ On first listen, Trout Mask Replica sounds like a wild, incomprehensible rampage
 
 ![Captain Beefheart and His Magic Band, ‘Trout Mask Replica’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136849-a4b6f5b0e8e36b7180fdea278755bb4099099d14.jpg?crop=1240:1240&width=300 "Captain Beefheart and His Magic Band, ‘Trout Mask Replica’")
 
-###61: Sly and the Family Stone, ‘Greatest Hits’
+### 61: Sly and the Family Stone, ‘Greatest Hits’
 
 Epic, 1970
 
@@ -489,7 +488,7 @@ Sly and the Family Stone created a musical utopia: an interracial group of men a
 
 ![Sly and the Family Stone, ‘Greatest Hits’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136850-76aa8b1a1fec965275cf1bf6576217d5716f6f0a.jpg?crop=1240:1240&width=300 "Sly and the Family Stone, ‘Greatest Hits’")
 
-###62: Guns N’ Roses, ‘Appetite for Destruction’
+### 62: Guns N’ Roses, ‘Appetite for Destruction’
 
 Geffen, 1987
 
@@ -497,7 +496,7 @@ The biggest-selling debut album of all time, Appetite for Destruction, features 
 
 ![Guns N’ Roses, ‘Appetite for Destruction’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136851-4e6da25216527bf930346f52271b6eb2122a716d.jpg?crop=1240:1240&width=300 "Guns N’ Roses, ‘Appetite for Destruction’")
 
-###63: U2, ‘Achtung Baby’
+### 63: U2, ‘Achtung Baby’
 
 Island, 1991
 
@@ -505,7 +504,7 @@ After fostering a solemn public image for years, U2 loosened up on Achtung Baby,
 
 ![U2, ‘Achtung Baby’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136852-05c62e826eb9c0ef8fbf3e4e2d807a355efb0c94.jpg?crop=1240:1240&width=300 "U2, ‘Achtung Baby’")
 
-###64: The Rolling Stones, ‘Sticky Fingers’
+### 64: The Rolling Stones, ‘Sticky Fingers’
 
 Rolling Stones Records, 1971
 
@@ -513,7 +512,7 @@ Drummer Charlie Watts remembered the origin of Sticky Fingers as the songs Mick 
 
 ![The Rolling Stones, ‘Sticky Fingers’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136853-631aebeb7535cea014244f29a3852307841c56bb.jpg?crop=1240:1240&width=300 "The Rolling Stones, ‘Sticky Fingers’")
 
-###65: Phil Spector, ‘Back to Mono (1958-1969)’
+### 65: Phil Spector, ‘Back to Mono (1958-1969)’
 
 ABKCO, 1991
 
@@ -521,7 +520,7 @@ When the Righteous Brothers' Bobby Hatfield first heard their "You've Lost That 
 
 ![Phil Spector, ‘Back to Mono (1958-1969)’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136854-e2ebe7062791aa4ff3e0c5d93bf32d2d2a588f40.jpg?crop=1240:1240&width=300 "Phil Spector, ‘Back to Mono (1958-1969)’")
 
-###66: Van Morrison, ‘Moondance’
+### 66: Van Morrison, ‘Moondance’
 
 Warner Bros., 1970
 
@@ -529,7 +528,7 @@ Warner Bros., 1970
 
 ![Van Morrison, ‘Moondance’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136855-62fc0b0d65ef7c2f2a9a37cb66f1051e927bcd50.jpg?crop=1240:1240&width=300 "Van Morrison, ‘Moondance’")
 
-###67: Radiohead, ‘Kid A’
+### 67: Radiohead, ‘Kid A’
 
 Capitol, 2000
 
@@ -537,7 +536,7 @@ Capitol, 2000
 
 ![Radiohead, ‘Kid A’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136714-dc5847d14a98590646f38ff1bb045fe6e9523850.jpg?crop=1240:1240&width=300 "Radiohead, ‘Kid A’")
 
-###68: Michael Jackson, ‘Off the Wall’
+### 68: Michael Jackson, ‘Off the Wall’
 
 Epic, 1979
 
@@ -545,7 +544,7 @@ Epic, 1979
 
 ![Michael Jackson, ‘Off the Wall’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136856-8c1e5b0582a5b46fc80e0db97c87f48661e672e8.jpg?crop=1240:1240&width=300 "Michael Jackson, ‘Off the Wall’")
 
-###69: Led Zeppelin, ‘Led Zeppelin IV’
+### 69: Led Zeppelin, ‘Led Zeppelin IV’
 
 Atlantic, 1971
 
@@ -553,7 +552,7 @@ Atlantic, 1971
 
 ![Led Zeppelin, ‘Led Zeppelin IV’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136857-c4082fd6526f33db9b4e851a72d96784119fd52c.jpg?crop=1240:1240&width=300 "Led Zeppelin, ‘Led Zeppelin IV’")
 
-###70: Billy Joel, ‘The Stranger’
+### 70: Billy Joel, ‘The Stranger’
 
 Columbia, 1977
 
@@ -561,7 +560,7 @@ Billy Joel had been on the verge throughout the mid-Seventies. But his fifth alb
 
 ![Billy Joel, ‘The Stranger’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136858-ccdc7ef4844eea964e02ab50740e5cd4301a0ae9.jpg?crop=1240:1240&width=300 "Billy Joel, ‘The Stranger’")
 
-###71: Paul Simon, ‘Graceland’
+### 71: Paul Simon, ‘Graceland’
 
 Warner Bros., 1986
 
@@ -569,7 +568,7 @@ Frustrated by the experience of writing good songs that didn't come to life in t
 
 ![Paul Simon, ‘Graceland’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136859-2dabb95cffdc9f2d4e37b3157cec36e34b382598.jpg?crop=1240:1240&width=300 "Paul Simon, ‘Graceland’")
 
-###72: Curtis Mayfield, ‘Superfly’
+### 72: Curtis Mayfield, ‘Superfly’
 
 Curtom, 1972
 
@@ -577,7 +576,7 @@ Isaac Hayes' Shaft came first – but that rec­ord had one great single and a l
 
 ![Curtis Mayfield, ‘Superfly’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136860-c8bf4bb3309cfafe5b4bddece81a591e52fa2857.jpg?crop=1240:1240&width=300 "Curtis Mayfield, ‘Superfly’")
 
-###73: Led Zeppelin, ‘Physical Graffiti’
+### 73: Led Zeppelin, ‘Physical Graffiti’
 
 Swan Song, 1975
 
@@ -585,7 +584,7 @@ Swan Song, 1975
 
 ![Led Zeppelin, ‘Physical Graffiti’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136861-53a00c2335b36eb447e75ae2387e96b0e6ba6a20.jpg?crop=1240:1240&width=300 "Led Zeppelin, ‘Physical Graffiti’")
 
-###74: Neil Young, ‘After the Gold Rush’
+### 74: Neil Young, ‘After the Gold Rush’
 
 Reprise, 1970
 
@@ -593,7 +592,7 @@ For his third album, Neil Young fired Crazy Horse (the first of many times he wo
 
 ![Neil Young, ‘After the Gold Rush’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136862-7e03f32e7c9594a706f545a9c8cdd53e260bcafd.jpg?crop=1240:1240&width=300 "Neil Young, ‘After the Gold Rush’")
 
-###75: James Brown, ‘Star Time’
+### 75: James Brown, ‘Star Time’
 
 Polydor, 1991
 
@@ -601,7 +600,7 @@ So great is James Brown's impact that even the four-CD Star Time isn't quite com
 
 ![James Brown, ‘Star Time’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136863-a7b2521a515dc36ea56d181cada01ce0a27bbbb4.jpg?crop=1240:1240&width=300 "James Brown, ‘Star Time’")
 
-###76: Prince and the Revolution, ‘Purple Rain’
+### 76: Prince and the Revolution, ‘Purple Rain’
 
 Warner Bros., 1984
 
@@ -609,7 +608,7 @@ The blockbuster soundtrack to Prince's semiautobiographical movie was raunchy en
 
 ![Prince and the Revolution, ‘Purple Rain’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136864-2dae4591d79f7c29a18496926740d720908e3127.jpg?crop=1240:1240&width=300 "Prince and the Revolution, ‘Purple Rain’")
 
-###77: AC/DC, ‘Back in Black’
+### 77: AC/DC, ‘Back in Black’
 
 Atlantic, 1980
 
@@ -617,7 +616,7 @@ In the middle of album rehearsals, singer Bon Scott went on a drinking spree; he
 
 ![AC/DC, ‘Back in Black’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136865-06d9970eddbfbcae66ad664a73c6d52862d91d7c.jpg?crop=1240:1240&width=300 "AC/DC, ‘Back in Black’")
 
-###78: Otis Redding, ‘Otis Blue’
+### 78: Otis Redding, ‘Otis Blue’
 
 Volt, 1965
 
@@ -625,7 +624,7 @@ Otis Redding's third album includes covers of three songs by Sam Cooke, Redding'
 
 ![Otis Redding, ‘Otis Blue’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136866-93f4b651ac369f0603463d0c1a539ab7ccd05241.jpg?crop=1240:1240&width=300 "Otis Redding, ‘Otis Blue’")
 
-###79: Led Zeppelin, ‘Led Zeppelin II’
+### 79: Led Zeppelin, ‘Led Zeppelin II’
 
 Atlantic, 1969
 
@@ -633,7 +632,7 @@ This album – recorded on the fly while the band was touring – opens with one
 
 ![Led Zeppelin, ‘Led Zeppelin II’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136867-cb5312fe6a5648ee4441e580ad904c4600a8d45e.jpg?crop=1240:1240&width=300 "Led Zeppelin, ‘Led Zeppelin II’")
 
-###80: John Lennon, ‘Imagine’
+### 80: John Lennon, ‘Imagine’
 
 Apple, 1971
 
@@ -641,7 +640,7 @@ After the primal-scream therapy of Plastic Ono Band, John Lennon softened up and
 
 ![John Lennon, ‘Imagine’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136868-0b79ac312d1402b86d803ab464e58c456277e9fc.jpg?crop=1240:1240&width=300 "John Lennon, ‘Imagine’")
 
-###81: The Clash, ‘The Clash’
+### 81: The Clash, ‘The Clash’
 
 Epic, 1979
 
@@ -649,7 +648,7 @@ Epic, 1979
 
 ![The Clash, ‘The Clash’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136869-ce67282f913d3d9bc2433f7084a5f5d22bc1f38a.jpg?crop=1240:1240&width=300 "The Clash, ‘The Clash’")
 
-###82: Neil Young, ‘Harvest’
+### 82: Neil Young, ‘Harvest’
 
 Reprise, 1972
 
@@ -657,7 +656,7 @@ Harvest yielded Neil Young's only Number One hit, "Heart of Gold," and helped se
 
 ![Neil Young, ‘Harvest’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136870-ec319af29f5efd5d20d9633f0c535e0151e59a42.jpg?crop=1240:1240&width=300 "Neil Young, ‘Harvest’")
 
-###83: The Jimi Hendrix Experience, ‘Axis: Bold as Love’
+### 83: The Jimi Hendrix Experience, ‘Axis: Bold as Love’
 
 Reprise, 1968
 
@@ -665,7 +664,7 @@ Jimi Hendrix's first album remade rock & roll with guitar magic that no one had 
 
 ![The Jimi Hendrix Experience, ‘Axis: Bold as Love’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136871-8bd73526cc9968e358761e26e4fe42c641910802.jpg?crop=1240:1240&width=300 "The Jimi Hendrix Experience, ‘Axis: Bold as Love’")
 
-###84: Aretha Franklin, ‘I Never Loved a Man the Way I Loved You’
+### 84: Aretha Franklin, ‘I Never Loved a Man the Way I Loved You’
 
 Atlantic, 1967
 
@@ -673,7 +672,7 @@ Aretha Franklin's Atlantic debut is the place where gospel collided with R&B and
 
 ![Aretha Franklin, ‘I Never Loved a Man the Way I Loved You’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136890-2ae6552932d20ce4bdc5c361c7f57797c8ba2217.jpg?crop=1240:1240&width=300 "Aretha Franklin, ‘I Never Loved a Man the Way I Loved You’")
 
-###85: Aretha Franklin, ‘Lady Soul’
+### 85: Aretha Franklin, ‘Lady Soul’
 
 Atlantic, 1968
 
@@ -681,7 +680,7 @@ Aretha Franklin's third Atlantic album in less than two years is another classic
 
 ![Aretha Franklin, ‘Lady Soul’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136891-434330e80536d2bb420ca5ff91a6ed24651f0e69.jpg?crop=1240:1240&width=300 "Aretha Franklin, ‘Lady Soul’")
 
-###86: Bruce Springsteen, ‘Born in the U.S.A.’
+### 86: Bruce Springsteen, ‘Born in the U.S.A.’
 
 Columbia, 1984
 
@@ -689,7 +688,7 @@ Bruce Springsteen wrote many of these songs in a fit of inspiration that also ga
 
 ![Bruce Springsteen, ‘Born in the U.S.A.’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136893-942105f84afcbf3168dd9c0ad83f5130b368af82.jpg?crop=1240:1240&width=300 "Bruce Springsteen, ‘Born in the U.S.A.’")
 
-###87: Pink Floyd, ‘The Wall’
+### 87: Pink Floyd, ‘The Wall’
 
 Columbia, 1979
 
@@ -697,7 +696,7 @@ Pink Floyd's most elaborately theatrical album was inspired by their own success
 
 ![Pink Floyd, ‘The Wall’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136895-f4449616e18127542ce4b5534585068d30a10201.jpg?crop=1240:1240&width=300 "Pink Floyd, ‘The Wall’")
 
-###88: Johnny Cash, ‘At Folsom Prison’
+### 88: Johnny Cash, ‘At Folsom Prison’
 
 Columbia, 1968
 
@@ -705,7 +704,7 @@ By the late Sixties, Johnny Cash was ignored by country radio and struggling for
 
 ![Johnny Cash, ‘At Folsom Prison’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136897-af22084dc4088905a4eb9afab73bb7efc9ce780b.jpg?crop=1240:1240&width=300 "Johnny Cash, ‘At Folsom Prison’")
 
-###89: Dusty Springfield, ‘Dusty in Memphis’
+### 89: Dusty Springfield, ‘Dusty in Memphis’
 
 Atlantic, 1969
 
@@ -713,7 +712,7 @@ London-born Dusty Springfield was a great soul singer hidden inside a white Brit
 
 ![Dusty Springfield, ‘Dusty in Memphis’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136898-d40f4d4da2d9d7a419717c8344f1444281c98dc5.jpg?crop=1240:1240&width=300 "Dusty Springfield, ‘Dusty in Memphis’")
 
-###90: Stevie Wonder, ‘Talking Book’
+### 90: Stevie Wonder, ‘Talking Book’
 
 Tamla, 1972
 
@@ -721,7 +720,7 @@ Tamla, 1972
 
 ![Stevie Wonder, ‘Talking Book’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-stevie-wonder-50728d4d-55cb-4812-aa33-191f340866f1.jpg?crop=1240:1240&width=300 "Stevie Wonder, ‘Talking Book’")
 
-###91: Elton John, ‘Goodbye Yellow Brick Road’
+### 91: Elton John, ‘Goodbye Yellow Brick Road’
 
 MCA, 1973
 
@@ -729,7 +728,7 @@ Elton John compared this double album to the Beatles' White Album, and why not? 
 
 ![Elton John, ‘Goodbye Yellow Brick Road’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136900-62a6bb35e40a1315bcdb5a541492bc93fc3a7cfb.jpg?crop=1240:1240&width=300 "Elton John, ‘Goodbye Yellow Brick Road’")
 
-###92: Buddy Holly, ’20 Golden Greats’
+### 92: Buddy Holly, ’20 Golden Greats’
 
 MCA, 1978
 
@@ -737,7 +736,7 @@ The country-weened Texan put his trademark hiccup on springy rockabilly, tight r
 
 ![Buddy Holly, ’20 Golden Greats’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136901-a8a3f78f4dc628cd1451f8c5e38979d097e59fb5.jpg?crop=1240:1240&width=300 "Buddy Holly, ’20 Golden Greats’")
 
-###93: Prince, ‘Sign ‘o’ the Times’
+### 93: Prince, ‘Sign ‘o’ the Times’
 
 Paisley Park, 1987
 
@@ -745,7 +744,7 @@ The most expansive R&B record of the Eighties is best known for the apocalyptic 
 
 ![Prince, ‘Sign ‘o’ the Times’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136903-ffe7f8ac37e7fd481d268c3109ce8ade62f4e1d4.jpg?crop=1240:1240&width=300 "Prince, ‘Sign ‘o’ the Times’")
 
-###94: Hank Williams, ’40 Greatest Hits’
+### 94: Hank Williams, ’40 Greatest Hits’
 
 Polydor, 1978
 
@@ -753,7 +752,7 @@ When he died on New Year's Day 1953, at age 29, in the back of a Cadillac, Willi
 
 ![Hank Williams, ’40 Greatest Hits’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136904-9a14d7c339541e7fa0f9218a21a873e83ae3fece.jpg?crop=1240:1240&width=300 "Hank Williams, ’40 Greatest Hits’")
 
-###95: Miles Davis, ‘Bitches Brew’
+### 95: Miles Davis, ‘Bitches Brew’
 
 Columbia, 1970
 
@@ -761,7 +760,7 @@ Davis wanted to connect his music to the audience of Jimi Hendrix and Sly Stone.
 
 ![Miles Davis, ‘Bitches Brew’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136905-1aa850852a50d38f55ae0b0c688b2d4f4403c70b.jpg?crop=1240:1240&width=300 "Miles Davis, ‘Bitches Brew’")
 
-###96: The Who, ‘Tommy’
+### 96: The Who, ‘Tommy’
 
 Decca, 1969
 
@@ -769,7 +768,7 @@ Decca, 1969
 
 ![The Who, ‘Tommy’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136907-70195a5c116bff799265d42788bc73ca1fbfe622.jpg?crop=1240:1240&width=300 "The Who, ‘Tommy’")
 
-###97: Bob Dylan, ‘The Freewheelin’ Bob Dylan’
+### 97: Bob Dylan, ‘The Freewheelin’ Bob Dylan’
 
 Columbia, 1963
 
@@ -777,7 +776,7 @@ On Dylan's second album, the poetry and articulate fury of his lyrics and the si
 
 ![Bob Dylan, ‘The Freewheelin’ Bob Dylan’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136908-8e33d65973df4e70e8fbf8bd0dbdaace59293e68.jpg?crop=1240:1240&width=300 "Bob Dylan, ‘The Freewheelin’ Bob Dylan’")
 
-###98: Elvis Costello, ‘This Year’s Model’
+### 98: Elvis Costello, ‘This Year’s Model’
 
 Columbia, 1978
 
@@ -785,7 +784,7 @@ Costello's second album, and his first with the Attractions, is his most "punk" 
 
 ![Elvis Costello, ‘This Year’s Model’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136909-b1c40d0c34e89fa14f600ba775f425e52bd08224.jpg?crop=1240:1240&width=300 "Elvis Costello, ‘This Year’s Model’")
 
-###99: Sly and the Family Stone, ‘There’s a Riot Goin’ On’
+### 99: Sly and the Family Stone, ‘There’s a Riot Goin’ On’
 
 Epic, 1971
 
@@ -793,7 +792,7 @@ Sly's 1969 album Stand! burst with optimism. But he met the Seventies with implo
 
 ![Sly and the Family Stone, ‘There’s a Riot Goin’ On’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136910-c11fbdd3d1d1efe83f84ba5ea1ae7ceb24d1928d.jpg?crop=1240:1240&width=300 "Sly and the Family Stone, ‘There’s a Riot Goin’ On’")
 
-###100: The Zombies, ‘Odessey and Oracle’
+### 100: The Zombies, ‘Odessey and Oracle’
 
 Columbia, 1969
 
@@ -801,7 +800,7 @@ Odessey and Oracle wasn't released in the U.S. until 1969 – two years after it
 
 ![The Zombies, ‘Odessey and Oracle’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136911-4e049f07b395009537a0950b9ad5c9463042a78f.jpg?crop=1240:1240&width=300 "The Zombies, ‘Odessey and Oracle’")
 
-###101: Frank Sinatra, ‘In the Wee Small Hours’
+### 101: Frank Sinatra, ‘In the Wee Small Hours’
 
 Captiol, 1955
 
@@ -809,7 +808,7 @@ The first set of songs Sinatra recorded specifically for an LP sustains a midnig
 
 ![Frank Sinatra, ‘In the Wee Small Hours’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136912-66b38c578b55322f778406517690732daecca182.jpg?crop=1240:1240&width=300 "Frank Sinatra, ‘In the Wee Small Hours’")
 
-###102: Cream, ‘Fresh Cream’
+### 102: Cream, ‘Fresh Cream’
 
 ATCO, 1966
 
@@ -817,7 +816,7 @@ Bassist Jack Bruce, drummer Ginger Baker and guitarist Eric Clapton – rock's f
 
 ![Cream, ‘Fresh Cream’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136913-981c4b5aafd4f3e359c1a4db0edefc18580e1317.jpg?crop=1240:1240&width=300 "Cream, ‘Fresh Cream’")
 
-###103: John Coltrane, ‘Giant Steps’
+### 103: John Coltrane, ‘Giant Steps’
 
 Atlantic, 1960
 
@@ -825,7 +824,7 @@ Coltrane made two giant steps in 1959: playing on Miles Davis' Kind of Blue and 
 
 ![John Coltrane, ‘Giant Steps’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136914-a70d84fe2a3b2f41f446397a357d3abbbe9bb4a1.jpg?crop=1240:1240&width=300 "John Coltrane, ‘Giant Steps’")
 
-###104: James Taylor, ‘Sweet Baby James’
+### 104: James Taylor, ‘Sweet Baby James’
 
 Warner Bros., 1970
 
@@ -833,7 +832,7 @@ Taylor went through a private hell on the way to recording his hugely successful
 
 ![James Taylor, ‘Sweet Baby James’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136915-500a68798b57abe3376e3309db498e1561846fd7.jpg?crop=1240:1240&width=300 "James Taylor, ‘Sweet Baby James’")
 
-###105: Ray Charles, ‘Modern Sounds in Country and Western Music’
+### 105: Ray Charles, ‘Modern Sounds in Country and Western Music’
 
 ABC-Paramount, 1962
 
@@ -841,7 +840,7 @@ Charles' biggest-selling record was the audacious racial-boundary-smasher its ti
 
 ![Ray Charles, ‘Modern Sounds in Country and Western Music’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136916-ae787c41341d7da5bf9200bf626eb37cadcdc153.jpg?crop=1240:1240&width=300 "Ray Charles, ‘Modern Sounds in Country and Western Music’")
 
-###106: Ramones, ‘Rocket to Russia’
+### 106: Ramones, ‘Rocket to Russia’
 
 Sire, 1977
 
@@ -849,7 +848,7 @@ The Ramones' third album took the gospel of three chords, a jackhammer beat and 
 
 ![Ramones, ‘Rocket to Russia’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136917-e2d4cb96825747e05cef632168acc0f7d15133cf.jpg?crop=1240:1240&width=300 "Ramones, ‘Rocket to Russia’")
 
-###107: Sam Cooke, ‘Portrait of a Legend’
+### 107: Sam Cooke, ‘Portrait of a Legend’
 
 ABKCO, 2003
 
@@ -857,7 +856,7 @@ Cooke was a gospel star who crossed over to rock & roll, helping to invent soul 
 
 ![Sam Cooke, ‘Portrait of a Legend’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136918-232ae686660178f6470d997bbd116d2b0bfb496d.jpg?crop=1240:1240&width=300 "Sam Cooke, ‘Portrait of a Legend’")
 
-###108: David Bowie, ‘Hunky Dory’
+### 108: David Bowie, ‘Hunky Dory’
 
 RCA, 1971
 
@@ -865,7 +864,7 @@ Recorded when he was 24, Bowie's first great album was a visionary blend of gay 
 
 ![David Bowie, ‘Hunky Dory’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136919-d1e8785e80fdff5251025f3b639ac3a74faef5a9.jpg?crop=1240:1240&width=300 "David Bowie, ‘Hunky Dory’")
 
-###109: The Rolling Stones, ‘Aftermath’
+### 109: The Rolling Stones, ‘Aftermath’
 
 London, 1966
 
@@ -873,7 +872,7 @@ The first Stones album completely written by Jagger–Richards was full of bad-b
 
 ![The Rolling Stones, ‘Aftermath’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136920-7241fdf3c9872428a8b9dcbe5e44d4b5e0113f13.jpg?crop=1240:1240&width=300 "The Rolling Stones, ‘Aftermath’")
 
-###110: The Velvet Underground, ‘Loaded’
+### 110: The Velvet Underground, ‘Loaded’
 
 Cotillion, 1970
 
@@ -881,7 +880,7 @@ Lou Reed quit the Velvets just before their fourth album was finished. But he le
 
 ![The Velvet Underground, ‘Loaded’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136921-2f318fd6b97e0844a1246f079709718388025c6b.jpg?crop=1240:1240&width=300 "The Velvet Underground, ‘Loaded’")
 
-###111: Radiohead, ‘The Bends’
+### 111: Radiohead, ‘The Bends’
 
 Capitol, 1995
 
@@ -889,7 +888,7 @@ The first half of Nineties rock was shaped by Nirvana, and the second half was d
 
 ![Radiohead, ‘The Bends’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136922-ade473553eca8fd0931d1267c4c5304e1b7b2b91.jpg?crop=1240:1240&width=300 "Radiohead, ‘The Bends’")
 
-###112: The Mamas and the Papas, ‘If You Can Believe Your Eyes and Ears’
+### 112: The Mamas and the Papas, ‘If You Can Believe Your Eyes and Ears’
 
 MCA, 1966
 
@@ -897,7 +896,7 @@ The First Family of Cali-folk rode their gorgeous four-part harmonies to pop sta
 
 ![The Mamas and the Papas, ‘If You Can Believe Your Eyes and Ears’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136923-0a7d9f94defe0b8483b04211500547df08eb9336.jpg?crop=1240:1240&width=300 "The Mamas and the Papas, ‘If You Can Believe Your Eyes and Ears’")
 
-###113: Joni Mitchell, ‘Court and Spark’
+### 113: Joni Mitchell, ‘Court and Spark’
 
 Asylum, 1974
 
@@ -905,7 +904,7 @@ Smooth and straight-ahead, Court and Spark is the biggest record of Mitchell's c
 
 ![Joni Mitchell, ‘Court and Spark’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136924-b3bc278a848e93f60c50e3ae4394606fa727a3fd.jpg?crop=1240:1240&width=300 "Joni Mitchell, ‘Court and Spark’")
 
-###114: Cream, ‘Disraeli Gears’
+### 114: Cream, ‘Disraeli Gears’
 
 ATCO, 1967
 
@@ -913,7 +912,7 @@ Cream's sharpest, most linear album focused its instrumental explorations into c
 
 ![Cream, ‘Disraeli Gears’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136925-6fb81add58786303921950c76af20b09c499b7ae.jpg?crop=1240:1240&width=300 "Cream, ‘Disraeli Gears’")
 
-###115: The Who, ‘The Who Sell Out’
+### 115: The Who, ‘The Who Sell Out’
 
 Decca, 1968
 
@@ -921,7 +920,7 @@ The Who's first concept album was a tribute to the U.K.'s offshore pirate-radio 
 
 ![The Who, ‘The Who Sell Out’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136926-32aad95405f335c71ece94145ecba72ddb6a3224.jpg?crop=1240:1240&width=300 "The Who, ‘The Who Sell Out’")
 
-###116: The Rolling Stones, ‘Out of Our Heads’
+### 116: The Rolling Stones, ‘Out of Our Heads’
 
 ABKCO, 1965
 
@@ -929,7 +928,7 @@ Here's where the Stones started to leave the R&B and blues covers behind. Their 
 
 ![The Rolling Stones, ‘Out of Our Heads’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136927-2c801a57639a6568f50b90326f47666c3353a3f1.jpg?crop=1240:1240&width=300 "The Rolling Stones, ‘Out of Our Heads’")
 
-###117: Derek and the Dominos, ‘Layla and Other Assorted Love Songs’
+### 117: Derek and the Dominos, ‘Layla and Other Assorted Love Songs’
 
 ATCO, 1970
 
@@ -937,7 +936,7 @@ Deeply in love with his best friend George Harrison's wife, Eric Clapton came up
 
 ![Derek and the Dominos, ‘Layla and Other Assorted Love Songs’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136928-42edaac7d4afb0bfd51e3d394f2ad20e17cc65ca.jpg?crop=1240:1240&width=300 "Derek and the Dominos, ‘Layla and Other Assorted Love Songs’")
 
-###118: Kanye West, ‘Late Registration’
+### 118: Kanye West, ‘Late Registration’
 
 Roc-A-Fella/Def Jam, 2005
 
@@ -945,7 +944,7 @@ Here, Kanye really started showing off. Ranging from triumphal autobiography ("T
 
 ![Kanye West, ‘Late Registration’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136929-520fc83abbdd1d1611981bdf3b1bbda188a57842.jpg?crop=1240:1240&width=300 "Kanye West, ‘Late Registration’")
 
-###119: Etta James, ‘At Last!’
+### 119: Etta James, ‘At Last!’
 
 Argo, 1961
 
@@ -953,7 +952,7 @@ Argo, 1961
 
 ![Etta James, ‘At Last!’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136930-c0078c0893f748597681f424bf33738dcdd55352.jpg?crop=1240:1240&width=300 "Etta James, ‘At Last!’")
 
-###120: The Byrds, ‘Sweetheart of the Rodeo’
+### 120: The Byrds, ‘Sweetheart of the Rodeo’
 
 Columbia, 1968
 
@@ -961,7 +960,7 @@ Driven by new member Gram Parsons, the Byrds nailed a bold Nashville classicism,
 
 ![The Byrds, ‘Sweetheart of the Rodeo’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136931-d92f6b1f408047f947dd0ea5d9f9f1c88f314e13.jpg?crop=1240:1240&width=300 "The Byrds, ‘Sweetheart of the Rodeo’")
 
-###121: Sly and the Family Stone, ‘Stand!’
+### 121: Sly and the Family Stone, ‘Stand!’
 
 Epic, 1969
 
@@ -969,7 +968,7 @@ Funk-rock-soul party politics at its most inclusive and exciting – Sly Stone r
 
 ![Sly and the Family Stone, ‘Stand!’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136932-32d46af59a4ead4a6277252c340e54357a55fef4.jpg?crop=1240:1240&width=300 "Sly and the Family Stone, ‘Stand!’")
 
-###122: Original Soundtrack, ‘The Harder They Come’
+### 122: Original Soundtrack, ‘The Harder They Come’
 
 Mango, 1973
 
@@ -977,7 +976,7 @@ This album took reggae worldwide. The film's star, Jimmy Cliff, sings four songs
 
 ![Original Soundtrack, ‘The Harder They Come’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136933-dbecb9848670f38dc1dc0960f993b5a045fa41f5.jpg?crop=1240:1240&width=300 "Original Soundtrack, ‘The Harder They Come’")
 
-###123: Run-DMC, ‘Raising Hell’
+### 123: Run-DMC, ‘Raising Hell’
 
 Arista, 1986
 
@@ -985,7 +984,7 @@ Working with producer Rick Rubin, the Queens crew made an undeniable album that 
 
 ![Run-DMC, ‘Raising Hell’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136934-afbfe0e975813f14225b847c2406727305921cec.jpg?crop=1240:1240&width=300 "Run-DMC, ‘Raising Hell’")
 
-###124: Moby Grape, ‘Moby Grape’
+### 124: Moby Grape, ‘Moby Grape’
 
 Columbia, 1967
 
@@ -993,7 +992,7 @@ San Francisco rock at its '67 peak, this is genuine hippie power pop. Moby Grape
 
 ![Moby Grape, ‘Moby Grape’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136935-1b27a1b9aa49d21d6b8f9d5d3aafb469bbf47031.jpg?crop=1240:1240&width=300 "Moby Grape, ‘Moby Grape’")
 
-###125: Janis Joplin, ‘Pearl’
+### 125: Janis Joplin, ‘Pearl’
 
 Columbia, 1971
 
@@ -1001,7 +1000,7 @@ On Pearl, Joplin made a solo album worthy of her Texas blues-mama wail. Whether 
 
 ![Janis Joplin, ‘Pearl’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136936-3f4d3c4bde8c7ca887b4440bc6e59062b7e627e7.jpg?crop=1240:1240&width=300 "Janis Joplin, ‘Pearl’")
 
-###126: Bob Marley and the Wailers, ‘Catch a Fire’
+### 126: Bob Marley and the Wailers, ‘Catch a Fire’
 
 Island, 1973
 
@@ -1009,7 +1008,7 @@ Marley's major-label debut expanded his audience beyond Jamaica without diluting
 
 ![Bob Marley and the Wailers, ‘Catch a Fire’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136937-b7c87eeaf5e4b89b33984871df9258bd6568b088.jpg?crop=1240:1240&width=300 "Bob Marley and the Wailers, ‘Catch a Fire’")
 
-###127: The Byrds, ‘Younger Than Yesterday’
+### 127: The Byrds, ‘Younger Than Yesterday’
 
 Columbia, 1967
 
@@ -1017,7 +1016,7 @@ Amid internal strife, the former Next Beatles made their first mature album, a b
 
 ![The Byrds, ‘Younger Than Yesterday’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136938-8e43f465b606df2225800a6332f920afc4882997.jpg?crop=1240:1240&width=300 "The Byrds, ‘Younger Than Yesterday’")
 
-###128: Iggy and the Stooges, ‘Raw Power’
+### 128: Iggy and the Stooges, ‘Raw Power’
 
 Columbia, 1973
 
@@ -1025,7 +1024,7 @@ Iggy Pop had dyed silver hair and a hard-drug habit when David Bowie helped get 
 
 ![Iggy and the Stooges, ‘Raw Power’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136939-d119fb2e68a8714a8539f3bab3d6ce80c385cbd0.jpg?crop=1240:1240&width=300 "Iggy and the Stooges, ‘Raw Power’")
 
-###129: Talking Heads, ‘Remain in Light’
+### 129: Talking Heads, ‘Remain in Light’
 
 Sire, 1980
 
@@ -1033,7 +1032,7 @@ On this New Wave watershed, the avant-punk avatars became polyrhythmic pop magic
 
 ![Talking Heads, ‘Remain in Light’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136940-5e82a123eb478e5e075fca70395841a15c42cbd9.jpg?crop=1240:1240&width=300 "Talking Heads, ‘Remain in Light’")
 
-###130: Television, ‘Marquee Moon’
+### 130: Television, ‘Marquee Moon’
 
 Elektra, 1977
 
@@ -1041,7 +1040,7 @@ Television were the guitar mystics on the CBGB scene, mixing the howl of the Vel
 
 ![Television, ‘Marquee Moon’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136945-496f60e7abeaaa10781d8ed0937bdd14e132fa89.jpg?crop=1240:1240&width=300 "Television, ‘Marquee Moon’")
 
-###131: Black Sabbath, ‘Paranoid’
+### 131: Black Sabbath, ‘Paranoid’
 
 Warner Bros., 1970
 
@@ -1049,7 +1048,7 @@ Sabbath ruled for bummed-out Seventies kids, and nearly every metal and extreme 
 
 ![Black Sabbath, ‘Paranoid’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136947-a30d2ee6659f73b96bf8bee257f2afaf1436bb63.jpg?crop=1240:1240&width=300 "Black Sabbath, ‘Paranoid’")
 
-###132: Original Soundtrack, ‘Saturday Night Fever’
+### 132: Original Soundtrack, ‘Saturday Night Fever’
 
 RSO, 1977
 
@@ -1057,7 +1056,7 @@ Disco at its megaplatinum apex: The Bee Gees' silvery-helium harmonies melt into
 
 ![Original Soundtrack, ‘Saturday Night Fever’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136948-5ab24eca30e6533f552c8839c217e6643541b91d.jpg?crop=1240:1240&width=300 "Original Soundtrack, ‘Saturday Night Fever’")
 
-###133: Bruce Springsteen, ‘The Wild, the Innocent & the E Street Shuffle’
+### 133: Bruce Springsteen, ‘The Wild, the Innocent & the E Street Shuffle’
 
 Columbia, 1973
 
@@ -1065,7 +1064,7 @@ Springsteen's second album shook the "New Dylan" tag and applied his Jersey-bar-
 
 ![Bruce Springsteen, ‘The Wild, the Innocent & the E Street Shuffle’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136950-5c1389223a1bbcaf57bee307144fb925785336b7.jpg?crop=1240:1240&width=300 "Bruce Springsteen, ‘The Wild, the Innocent & the E Street Shuffle’")
 
-###134: The Notorious B.I.G., ‘Ready to Die’
+### 134: The Notorious B.I.G., ‘Ready to Die’
 
 Bad Boy, 1994
 
@@ -1073,7 +1072,7 @@ B.I.G. (a.k.a. Biggie Smalls) took the gritty life experience of his hard-knock 
 
 ![The Notorious B.I.G., ‘Ready to Die’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136952-c8b83cb3c7734857e0da090c7c1862b6e043e3af.jpg?crop=1240:1240&width=300 "The Notorious B.I.G., ‘Ready to Die’")
 
-###135: Pavement, ‘Slanted and Enchanted’
+### 135: Pavement, ‘Slanted and Enchanted’
 
 Matador, 1992
 
@@ -1081,7 +1080,7 @@ The quintessential American indie-rock album. The playing is relaxed, the produc
 
 ![Pavement, ‘Slanted and Enchanted’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136956-0d2d43a0fd06acf874ba237df24fa9c3678f9ec5.jpg?crop=1240:1240&width=300 "Pavement, ‘Slanted and Enchanted’")
 
-###136: Elton John, ‘Greatest Hits’
+### 136: Elton John, ‘Greatest Hits’
 
 MCA, 1974
 
@@ -1089,7 +1088,7 @@ This single-disc collection – released during John's creative and commercial p
 
 ![Elton John, ‘Greatest Hits’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136957-b9dbb58356493c95cc471a2e2d69f0bd80f16868.jpg?crop=1240:1240&width=300 "Elton John, ‘Greatest Hits’")
 
-###137: The Replacements, ‘Tim’
+### 137: The Replacements, ‘Tim’
 
 Sire, 1985
 
@@ -1097,7 +1096,7 @@ On the Mats' major-label debut, singer-guitarist Paul Westerberg segues brillian
 
 ![The Replacements, ‘Tim’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136958-fca34fadbbafc4a556232a5d7a249f717ab70b8b.jpg?crop=1240:1240&width=300 "The Replacements, ‘Tim’")
 
-###138: Dr. Dre, ‘The Chronic’
+### 138: Dr. Dre, ‘The Chronic’
 
 Death Row, 1992
 
@@ -1105,7 +1104,7 @@ Dr. Dre had already taken gangsta rap mainstream with N.W.A. On The Chronic, he 
 
 ![Dr. Dre, ‘The Chronic’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136960-cd9cdff34a0d80df7074d683c5b266b910b8096c.jpg?crop=1240:1240&width=300 "Dr. Dre, ‘The Chronic’")
 
-###139: The Meters, ‘Rejuvenation’
+### 139: The Meters, ‘Rejuvenation’
 
 Reprise, 1974
 
@@ -1113,7 +1112,7 @@ New Orleans producer Allen Toussaint built hit records with a taut Morse-code st
 
 ![The Meters, ‘Rejuvenation’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136961-21e5174fa655499d6090b35ba8a1a98428afb8be.jpg?crop=1240:1240&width=300 "The Meters, ‘Rejuvenation’")
 
-###140: Blondie, ‘Parallel Lines’
+### 140: Blondie, ‘Parallel Lines’
 
 Chrysalis, 1978
 
@@ -1121,7 +1120,7 @@ New Wave's big pop breakthrough, Parallel Lines is a perfect synthesis of raw pu
 
 ![Blondie, ‘Parallel Lines’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136962-5c8611e46309aa38800a1743947341dea1c582bb.jpg?crop=1240:1240&width=300 "Blondie, ‘Parallel Lines’")
 
-###141: B.B. King, ‘Live at the Regal’
+### 141: B.B. King, ‘Live at the Regal’
 
 ABC, 1965
 
@@ -1129,7 +1128,7 @@ Recorded in Chicago in 1964, as a new audience of white rock fans was discoverin
 
 ![B.B. King, ‘Live at the Regal’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136964-44c7484e5e780cc4f367838b07e04615432d3e16.jpg?crop=1240:1240&width=300 "B.B. King, ‘Live at the Regal’")
 
-###142: Phil Spector, ‘A Christmas Gift for You’
+### 142: Phil Spector, ‘A Christmas Gift for You’
 
 Philles, 1963
 
@@ -1137,7 +1136,7 @@ The best holiday album in pop-music history. Ronnie Spector melts "Frosty the Sn
 
 ![Phil Spector, ‘A Christmas Gift for You’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136966-c436d4eb58194c861107475b35e599e63ef5cf23.jpg?crop=1240:1240&width=300 "Phil Spector, ‘A Christmas Gift for You’")
 
-###143: Dr. John, ‘GRIS-Gris’
+### 143: Dr. John, ‘GRIS-Gris’
 
 ATCO, 1968
 
@@ -1145,7 +1144,7 @@ In the Sixties, New Orleans piano player Mac Rebennack moved to L.A., encountere
 
 ![Dr. John, ‘GRIS-Gris’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136968-3ef238fae7224a7c17198eb85a102889020ce202.jpg?crop=1240:1240&width=300 "Dr. John, ‘GRIS-Gris’")
 
-###144: N.W.A., ‘Straight Outta Compton’
+### 144: N.W.A., ‘Straight Outta Compton’
 
 Ruthless, 1998
 
@@ -1153,7 +1152,7 @@ Ruthless, 1998
 
 ![N.W.A., ‘Straight Outta Compton’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136970-ac105c4e3e6a73f6289579b17b7a17f84b127f48.jpg?crop=1240:1240&width=300 "N.W.A., ‘Straight Outta Compton’")
 
-###145: Steely Dan, ‘Aja’
+### 145: Steely Dan, ‘Aja’
 
 ABC, 1977
 
@@ -1161,7 +1160,7 @@ Steely Dan's meticulously crafted sixth album was Walter Becker and Donald Fagen
 
 ![Steely Dan, ‘Aja’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136972-adca3ede95e7cbe50e9c06c660b940632827ec56.jpg?crop=1240:1240&width=300 "Steely Dan, ‘Aja’")
 
-###146: Jefferson Airplane, ‘Surrealistic Pillow’
+### 146: Jefferson Airplane, ‘Surrealistic Pillow’
 
 RCA, 1967
 
@@ -1169,7 +1168,7 @@ The Airplane's heady debut is a hallucinatory distillation of folk-blues vocals,
 
 ![Jefferson Airplane, ‘Surrealistic Pillow’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136973-c95d17d91b5bb68e83bc51ce3461537b8e9e9645.jpg?crop=1240:1240&width=300 "Jefferson Airplane, ‘Surrealistic Pillow’")
 
-###147: Crosby, Stills, Nash and Young, ‘Deja Vu’
+### 147: Crosby, Stills, Nash and Young, ‘Deja Vu’
 
 Atlantic, 1970
 
@@ -1177,7 +1176,7 @@ Neil Young transformed the folk-rock CSN into a powerhouse – offering pop idea
 
 ![Crosby, Stills, Nash and Young, ‘Deja Vu’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136974-a269b69452cce5e2da99c774b99f482a2e2b9bc5.jpg?crop=1240:1240&width=300 "Crosby, Stills, Nash and Young, ‘Deja Vu’")
 
-###148: Led Zeppelin, ‘Houses of the Holy’
+### 148: Led Zeppelin, ‘Houses of the Holy’
 
 Atlantic, 1973
 
@@ -1185,7 +1184,7 @@ On Album Five, Zeppelin got into a groove. "D'yer Mak'er" is their version of re
 
 ![Led Zeppelin, ‘Houses of the Holy’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137067-641116c1e4684ff5d9e7388111c81e45a38d6e23.jpg?crop=1240:1240&width=300 "Led Zeppelin, ‘Houses of the Holy’")
 
-###149: Santana, ‘Santana’
+### 149: Santana, ‘Santana’
 
 Columbia, 1969
 
@@ -1193,7 +1192,7 @@ This debut unveiled Carlos Santana's singular mix of Latin rhythms, rock guitar 
 
 ![Santana, ‘Santana’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136977-f8de33bd808ef6916df5f600d1b531c4183a24b8.jpg?crop=1240:1240&width=300 "Santana, ‘Santana’")
 
-###150: Bruce Springsteen, ‘Darkness on the Edge of Town’
+### 150: Bruce Springsteen, ‘Darkness on the Edge of Town’
 
 Columbia, 1978
 
@@ -1201,7 +1200,7 @@ This was the sound of Springsteen's hard-won realism breaking through, chronicli
 
 ![Bruce Springsteen, ‘Darkness on the Edge of Town’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136979-bace58ad06cfbbb2807f088520db227434da0055.jpg?crop=1240:1240&width=300 "Bruce Springsteen, ‘Darkness on the Edge of Town’")
 
-###151: Arcade Fire, ‘Funeral’
+### 151: Arcade Fire, ‘Funeral’
 
 Merge, 2004
 
@@ -1209,7 +1208,7 @@ Love, loss, forced coming-of-age and fragile hope: The debut from this seven-­m
 
 ![Arcade Fire, ‘Funeral’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136980-5343d2b30b06e311af390a3829caf34d135d376f.jpg?crop=1240:1240&width=300 "Arcade Fire, ‘Funeral’")
 
-###152: The B-52’s, ‘The B-52’s’
+### 152: The B-52’s, ‘The B-52’s’
 
 Warner Bros., 1979
 
@@ -1217,7 +1216,7 @@ The B-52's sounds like high school friends cramming their in-jokes, wacky sounds
 
 ![The B-52’s, ‘The B-52’s’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136983-7a6f091f8960439498a814bf708c863f9d50fc4b.jpg?crop=1240:1240&width=300 "The B-52’s, ‘The B-52’s’")
 
-###153: A Tribe Called Quest, ‘The Low End Theory’
+### 153: A Tribe Called Quest, ‘The Low End Theory’
 
 Jive, 1991
 
@@ -1225,7 +1224,7 @@ Many connected the dots between hip-hop and jazz, but this LP drew the whole pic
 
 ![A Tribe Called Quest, ‘The Low End Theory’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136986-4f01e5c3e610dd7203a79b40c8473bec50fac412.jpg?crop=1240:1240&width=300 "A Tribe Called Quest, ‘The Low End Theory’")
 
-###154: Howlin’ Wolf, ‘Moanin’ in the Moonlight’
+### 154: Howlin’ Wolf, ‘Moanin’ in the Moonlight’
 
 Chess, 1959
 
@@ -1233,7 +1232,7 @@ Wolf's sound – a fierce growl mixed with explosive playing by guitar geniuses 
 
 ![Howlin’ Wolf, ‘Moanin’ in the Moonlight’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136988-add682f521b995c3a37cd1a63f8de6d9ed76cdee.jpg?crop=1240:1240&width=300 "Howlin’ Wolf, ‘Moanin’ in the Moonlight’")
 
-###155: The Pretenders, ‘Pretenders’
+### 155: The Pretenders, ‘Pretenders’
 
 Sire, 1980
 
@@ -1241,7 +1240,7 @@ After years of writing record reviews and hanging with the Sex Pistols, Chrissie
 
 ![The Pretenders, ‘Pretenders’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136990-4c2a4e14a210f722f564828d1283cbb5edfb8937.jpg?crop=1240:1240&width=300 "The Pretenders, ‘Pretenders’")
 
-###156: The Beastie Boys, ‘Paul’s Boutique’
+### 156: The Beastie Boys, ‘Paul’s Boutique’
 
 Capitol, 1989
 
@@ -1249,7 +1248,7 @@ For their second album, the Beasties hired the Dust Brothers, a production team 
 
 ![The Beastie Boys, ‘Paul’s Boutique’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136992-d1b604b7c3629c94ea412bd54a9a9ef2df0c60d5.jpg?crop=1240:1240&width=300 "The Beastie Boys, ‘Paul’s Boutique’")
 
-###157: Joy Division, ‘Closer’
+### 157: Joy Division, ‘Closer’
 
 Factory, 1981
 
@@ -1257,7 +1256,7 @@ This is one of the most chilling albums ever made, with droning guitars, icy bas
 
 ![Joy Division, ‘Closer’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136993-dbd6ecb3421a67a4cdc2411ea62f1dda9ae1524f.jpg?crop=1240:1240&width=300 "Joy Division, ‘Closer’")
 
-###158: Elton John, ‘Captain Fantastic and the Brown Dirt Cowboy’
+### 158: Elton John, ‘Captain Fantastic and the Brown Dirt Cowboy’
 
 MCA, 1975
 
@@ -1265,7 +1264,7 @@ This self-mythologizing spectacle about John and lyricist Bernie Taupin features
 
 ![Elton John, ‘Captain Fantastic and the Brown Dirt Cowboy’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136994-ec7bcffc88dd8cf9e62108eb1d4572e187180e13.jpg?crop=1240:1240&width=300 "Elton John, ‘Captain Fantastic and the Brown Dirt Cowboy’")
 
-###159: Kiss, ‘Alive!’
+### 159: Kiss, ‘Alive!’
 
 Casablanca, 1975
 
@@ -1273,7 +1272,7 @@ A double live LP, cut largely in Detroit (plus studio overdubs), Alive! was Kiss
 
 ![Kiss, ‘Alive!’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136995-e176bd50a0dbe730c390f3e918371b9337c34c42.jpg?crop=1240:1240&width=300 "Kiss, ‘Alive!’")
 
-###160: T. Rex, ‘Electric Warrior’
+### 160: T. Rex, ‘Electric Warrior’
 
 Reprise, 1971
 
@@ -1281,7 +1280,7 @@ Marc Bolan cast a spell over all of England with this album, giving his Tolkiene
 
 ![T. Rex, ‘Electric Warrior’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136996-03ea80b452a2ff1119b77ae12163240dee8128a3.jpg?crop=1240:1240&width=300 "T. Rex, ‘Electric Warrior’")
 
-###161: Otis Redding, ‘The Dock of the Bay’
+### 161: Otis Redding, ‘The Dock of the Bay’
 
 Atlantic, 1968
 
@@ -1289,7 +1288,7 @@ Redding recorded his Monterey Pop-inspired "soul-folk" experiment "(Sittin' on) 
 
 ![Otis Redding, ‘The Dock of the Bay’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136997-a66d2173f0da4ba69a1614b7642468abdc151b69.jpg?crop=1240:1240&width=300 "Otis Redding, ‘The Dock of the Bay’")
 
-###162: Radiohead, ‘OK Computer’
+### 162: Radiohead, ‘OK Computer’
 
 Capitol, 1997
 
@@ -1297,7 +1296,7 @@ OK is where Radiohead began pulling at their sound like taffy, not worrying if i
 
 ![Radiohead, ‘OK Computer’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136998-89fbef0a78eb3ca4cd34933c7b87ce21980a0a76.jpg?crop=1240:1240&width=300 "Radiohead, ‘OK Computer’")
 
-###163: Prince, ‘1999’
+### 163: Prince, ‘1999’
 
 Warner Bros., 1982
 
@@ -1305,7 +1304,7 @@ Warner Bros., 1982
 
 ![Prince, ‘1999’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136999-fc7ea1216fedc9d712bb18b7a1b1fa3f94b81ee1.jpg?crop=1240:1240&width=300 "Prince, ‘1999’")
 
-###164: Linda Ronstadt, ‘The Very Best of Linda Ronstadt’
+### 164: Linda Ronstadt, ‘The Very Best of Linda Ronstadt’
 
 Rhino, 2002
 
@@ -1313,7 +1312,7 @@ So very SoCal (her band became the ­Eagles), Ronstadt was more empathetic inter
 
 ![Linda Ronstadt, ‘The Very Best of Linda Ronstadt’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137000-6998c82d0b50b7cb6920512f4dd4bd41bdfd380d.jpg?crop=1240:1240&width=300 "Linda Ronstadt, ‘The Very Best of Linda Ronstadt’")
 
-###165: Marvin Gaye, ‘Let’s Get It On’
+### 165: Marvin Gaye, ‘Let’s Get It On’
 
 Motown, 1973
 
@@ -1321,7 +1320,7 @@ On this album, Gaye meditated on the gap between sex and love and how to reconci
 
 ![Marvin Gaye, ‘Let’s Get It On’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137001-ea2dbb71c177de9aaa11ecc2a03c190c1e3f960c.jpg?crop=1240:1240&width=300 "Marvin Gaye, ‘Let’s Get It On’")
 
-###166: Elvis Costello and the Attractions, ‘Imperial Bedroom’
+### 166: Elvis Costello and the Attractions, ‘Imperial Bedroom’
 
 Chess, 1982
 
@@ -1329,7 +1328,7 @@ Costello wanted his music to be as complex as his lyrics (which increasingly doc
 
 ![Elvis Costello and the Attractions, ‘Imperial Bedroom’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137002-7f164cbcaf8beb57da58539db514d3cddb2151c8.jpg?crop=1240:1240&width=300 "Elvis Costello and the Attractions, ‘Imperial Bedroom’")
 
-###167: Metallica, ‘Master of Puppets’
+### 167: Metallica, ‘Master of Puppets’
 
 Elektra, 1986
 
@@ -1337,7 +1336,7 @@ Metallica's third album has a lyrical theme: manipulation. "Drugs controlling yo
 
 ![Metallica, ‘Master of Puppets’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137003-3e0b377899b1e58701ea6a80c0e4225d0a2b2eb7.jpg?crop=1240:1240&width=300 "Metallica, ‘Master of Puppets’")
 
-###168: Elvis Costello, ‘My Aim Is True’
+### 168: Elvis Costello, ‘My Aim Is True’
 
 Columbia, 1977
 
@@ -1345,7 +1344,7 @@ Costello obsessively listened to The Clash while recording his debut. And though
 
 ![Elvis Costello, ‘My Aim Is True’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137004-20986a045e5f7266ee13b1db2109c8dab4aa445a.jpg?crop=1240:1240&width=300 "Elvis Costello, ‘My Aim Is True’")
 
-###169: Bob Marley and the Wailers’ ‘Exodus’
+### 169: Bob Marley and the Wailers’ ‘Exodus’
 
 Island, 1977
 
@@ -1353,7 +1352,7 @@ As the title suggests, this album wasn't recorded in Jamaica; after Marley took 
 
 ![Bob Marley and the Wailers’ ‘Exodus’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137005-8d7182b68d355cd094f49438fc03c2e0c8fa6d95.jpg?crop=1240:1240&width=300 "Bob Marley and the Wailers’ ‘Exodus’")
 
-###170: The Who, ‘Live at Leeds’
+### 170: The Who, ‘Live at Leeds’
 
 Decca, 1970
 
@@ -1361,7 +1360,7 @@ Faced with the task of following up Tommy [see No. 96], the Who just cranked up 
 
 ![The Who, ‘Live at Leeds’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137006-e1ce35e0d71564006aba92cb207f464ceb05f0e6.jpg?crop=1240:1240&width=300 "The Who, ‘Live at Leeds’")
 
-###171: The Byrds, ‘The Notorious Byrd Brothers’
+### 171: The Byrds, ‘The Notorious Byrd Brothers’
 
 Columbia, 1968
 
@@ -1369,7 +1368,7 @@ The horse on the cover (reportedly) replaced David Crosby, who'd just been fired
 
 ![The Byrds, ‘The Notorious Byrd Brothers’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137007-f2f8eab73c27a5aee6945f783d85ff0f45f7cf95.jpg?crop=1240:1240&width=300 "The Byrds, ‘The Notorious Byrd Brothers’")
 
-###172: Rod Stewart, ‘Every Picture Tells a Story’
+### 172: Rod Stewart, ‘Every Picture Tells a Story’
 
 Mercury, 1971
 
@@ -1377,7 +1376,7 @@ Stewart's best disc is loose and warm, rocking hard with mostly acoustic instrum
 
 ![Rod Stewart, ‘Every Picture Tells a Story’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137008-3aff0ca6dcb9e1514ed531f344123ef903f08df9.jpg?crop=1240:1240&width=300 "Rod Stewart, ‘Every Picture Tells a Story’")
 
-###173: Todd Rundgren, ‘Something/Anything?’
+### 173: Todd Rundgren, ‘Something/Anything?’
 
 Bearsville, 1972
 
@@ -1385,7 +1384,7 @@ On this tour-de-force double album, Rundgren demonstrates his command of the stu
 
 ![Todd Rundgren, ‘Something/Anything?’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137009-cdbd58d4ba8bce384d4289bacd656033e44f8291.jpg?crop=1240:1240&width=300 "Todd Rundgren, ‘Something/Anything?’")
 
-###174: Bob Dylan, ‘Desire’
+### 174: Bob Dylan, ‘Desire’
 
 Columbia, 1976
 
@@ -1393,7 +1392,7 @@ In typical Dylan style, the follow-up to Blood on the Tracks was mostly bashed o
 
 ![Bob Dylan, ‘Desire’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137010-ab8670ecec420e5b91896c22d1b767f91c076f9e.jpg?crop=1240:1240&width=300 "Bob Dylan, ‘Desire’")
 
-###175: The Carpenters, ‘Close to You’
+### 175: The Carpenters, ‘Close to You’
 
 A&M, 1970
 
@@ -1401,7 +1400,7 @@ With their lush music and thoroughly wholesome image, Richard and Karen Carpente
 
 ![The Carpenters, ‘Close to You’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137068-826f397847f039ba624bb3caf1f54cad76506172.jpg?crop=1240:1240&width=300 "The Carpenters, ‘Close to You’")
 
-###176: Aerosmith, ‘Rocks’
+### 176: Aerosmith, ‘Rocks’
 
 Columbia, 1976
 
@@ -1409,7 +1408,7 @@ After Toys in the Attic proved that Aerosmith were more than a Stones caricature
 
 ![Aerosmith, ‘Rocks’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137069-ed3f8f0c0cc2c464043de047797ddf657deb565c.jpg?crop=1240:1240&width=300 "Aerosmith, ‘Rocks’")
 
-###177: Funkadelic, ‘One Nation Under a Groove’
+### 177: Funkadelic, ‘One Nation Under a Groove’
 
 Warner Bros., 1978
 
@@ -1417,7 +1416,7 @@ Funkadelic's first million-seller perfectly distills George Clinton's gospel of 
 
 ![Funkadelic, ‘One Nation Under a Groove’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137070-fc31c04cba57f0ec09d6c691cfd918f40cc13f1e.jpg?crop=1240:1240&width=300 "Funkadelic, ‘One Nation Under a Groove’")
 
-###178: Curtis Mayfield and the Impressions, ‘The Anthology 1961-1977’
+### 178: Curtis Mayfield and the Impressions, ‘The Anthology 1961-1977’
 
 MCA, 1992
 
@@ -1425,7 +1424,7 @@ Mayfield taught sociocultural awareness while dispensing fine ballads ("Gypsy Wo
 
 ![Curtis Mayfield and the Impressions, ‘The Anthology 1961-1977’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137071-2f8ddd2b510fd607e58385da76eafb58876f50e9.jpg?crop=1240:1240&width=300 "Curtis Mayfield and the Impressions, ‘The Anthology 1961-1977’")
 
-###179: Abba, ‘The Definitive Collection’
+### 179: Abba, ‘The Definitive Collection’
 
 Universal, 2001
 
@@ -1433,7 +1432,7 @@ These Swedish pop stars became the world's biggest group in the Seventies. Globa
 
 ![Abba, ‘The Definitive Collection’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137072-9648298a147c9ddfe65d5a196beb92223816ebd5.jpg?crop=1240:1240&width=300 "Abba, ‘The Definitive Collection’")
 
-###180: The Rolling Stones, ‘The Rolling Stones, Now!’
+### 180: The Rolling Stones, ‘The Rolling Stones, Now!’
 
 London, 1965
 
@@ -1441,7 +1440,7 @@ A charming exuberance pervades the Stones' third U.S. release, with its hot-rod 
 
 ![The Rolling Stones, ‘The Rolling Stones, Now!’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137073-f3c63567387f2cea2fc6aaa764ba98ccf63a3962.jpg?crop=1240:1240&width=300 "The Rolling Stones, ‘The Rolling Stones, Now!’")
 
-###181: Bob Marley and the Wailers, ‘Natty Dread’
+### 181: Bob Marley and the Wailers, ‘Natty Dread’
 
 Island, 1974
 
@@ -1449,7 +1448,7 @@ The first Wailers album to give Marley top billing was multifaceted rebel music 
 
 ![Bob Marley and the Wailers, ‘Natty Dread’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137074-7fec3e453c2fffb0e8de364d17a3910b655efc63.jpg?crop=1240:1240&width=300 "Bob Marley and the Wailers, ‘Natty Dread’")
 
-###182: Fleetwood Mac, ‘Fleetwood Mac’
+### 182: Fleetwood Mac, ‘Fleetwood Mac’
 
 Reprise, 1975
 
@@ -1457,7 +1456,7 @@ Mick Fleetwood, John McVie and his missis Christine's first album with Californi
 
 ![Fleetwood Mac, ‘Fleetwood Mac’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137075-2fa87cff28334ae1dc3b123239844e0de7df7e6f.jpg?crop=1240:1240&width=300 "Fleetwood Mac, ‘Fleetwood Mac’")
 
-###183: Willie Nelson, ‘Red Headed Stranger’
+### 183: Willie Nelson, ‘Red Headed Stranger’
 
 Columbia, 1975
 
@@ -1465,7 +1464,7 @@ This trailblazing concept album became one of Nelson's biggest hits – a lyrica
 
 ![Willie Nelson, ‘Red Headed Stranger’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137076-1c7a3ec602053fb3d9dd9f543b6b0c3ed405464a.jpg?crop=1240:1240&width=300 "Willie Nelson, ‘Red Headed Stranger’")
 
-###184: Madonna, ‘The Immaculate Collection’
+### 184: Madonna, ‘The Immaculate Collection’
 
 Sire/Warner Bros., 1990
 
@@ -1473,7 +1472,7 @@ A perfect Madonna CD: You get timeless pop such as "Holiday," provocations lik
 
 ![Madonna, ‘The Immaculate Collection’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137077-f36997c31775158de4d2177a604e7b40c14dad97.jpg?crop=1240:1240&width=300 "Madonna, ‘The Immaculate Collection’")
 
-###185: The Stooges, ‘The Stooges’
+### 185: The Stooges, ‘The Stooges’
 
 Elektra, 1969
 
@@ -1481,7 +1480,7 @@ Fueled by "a little marijuana and a lotta alienation," Michigan's Stooges savage
 
 ![The Stooges, ‘The Stooges’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137078-c7d3159a43ea8f8dd5dc1606db030325f157d95a.jpg?crop=1240:1240&width=300 "The Stooges, ‘The Stooges’")
 
-###186: Sly and the Family Stone, ‘Fresh’
+### 186: Sly and the Family Stone, ‘Fresh’
 
 Epic, 1973
 
@@ -1489,7 +1488,7 @@ As the Seventies unfurled, Stone became progressively dissolute. But he had one 
 
 ![Sly and the Family Stone, ‘Fresh’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137079-51029f1f69c6cf97a9723fa2364cfa48969b6266.jpg?crop=1240:1240&width=300 "Sly and the Family Stone, ‘Fresh’")
 
-###187: Peter Gabriel, ‘So’
+### 187: Peter Gabriel, ‘So’
 
 Geffen, 1986
 
@@ -1497,7 +1496,7 @@ Gabriel got funky on the 1982 single "Shock the Monkey." It took him four years 
 
 ![Peter Gabriel, ‘So’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137080-c514c0ee0516ee5c8c4c2be8ec3c7b127d9ac4b0.jpg?crop=1240:1240&width=300 "Peter Gabriel, ‘So’")
 
-###188: Buffalo Springfield, ‘Buffalo Springfield Again’
+### 188: Buffalo Springfield, ‘Buffalo Springfield Again’
 
 ATCO, 1967
 
@@ -1505,7 +1504,7 @@ Their second record has masterful L.A. folk rock from Stephen Stills, pioneering
 
 ![Buffalo Springfield, ‘Buffalo Springfield Again’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137081-f237e262cb972b3c83464d81a2025a2fdf02c583.jpg?crop=1240:1240&width=300 "Buffalo Springfield, ‘Buffalo Springfield Again’")
 
-###189: Quicksilver Messenger Service, ‘Happy Trails’
+### 189: Quicksilver Messenger Service, ‘Happy Trails’
 
 Capitol, 1969
 
@@ -1513,7 +1512,7 @@ The definitive live recording of the late-Sixties ballroom experience: This San 
 
 ![Quicksilver Messenger Service, ‘Happy Trails’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137189-2aa18d0ae7b3279f15347ce7e2f00b7c051bc14e.jpg?crop=1240:1240&width=300 "Quicksilver Messenger Service, ‘Happy Trails’")
 
-###190: Elvis Presley, ‘From Elvis in Memphis’
+### 190: Elvis Presley, ‘From Elvis in Memphis’
 
 RCA Victor, 1969
 
@@ -1521,7 +1520,7 @@ RCA Victor, 1969
 
 ![Elvis Presley, ‘From Elvis in Memphis’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137190-5edf00a082efe3ef23c1385bc10079a82d268c75.jpg?crop=1240:1240&width=300 "Elvis Presley, ‘From Elvis in Memphis’")
 
-###191: The Stooges, ‘Fun House’
+### 191: The Stooges, ‘Fun House’
 
 Elektra, 1970
 
@@ -1529,7 +1528,7 @@ With garage-savvy ex-Kingsmen keyboardist Don Gallucci producing their second al
 
 ![The Stooges, ‘Fun House’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137191-72ab0de08f21bb55ef5f4dff665cf842cab0b3ac.jpg?crop=1240:1240&width=300 "The Stooges, ‘Fun House’")
 
-###192: The Flying Burrito Brothers, ‘The Gilded Palace of Sin’
+### 192: The Flying Burrito Brothers, ‘The Gilded Palace of Sin’
 
 A&M, 1969
 
@@ -1537,7 +1536,7 @@ A hugely influential country-rock statement – concocted by ex-Byrds Gram Parso
 
 ![The Flying Burrito Brothers, ‘The Gilded Palace of Sin’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137192-f6d253766c32fd44f7f17737334e6b32a92a8e50.jpg?crop=1240:1240&width=300 "The Flying Burrito Brothers, ‘The Gilded Palace of Sin’")
 
-###193: Green Day, ‘Dookie’
+### 193: Green Day, ‘Dookie’
 
 Reprise, 1994
 
@@ -1545,7 +1544,7 @@ The album that jump-started the Nineties punk-pop revival. Singer-guitarist Bill
 
 ![Green Day, ‘Dookie’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137193-1a86a16c15d4687ce36f84aee7ba5a42fa75ccb6.jpg?crop=1240:1240&width=300 "Green Day, ‘Dookie’")
 
-###194: Lou Reed, ‘Transformer’
+### 194: Lou Reed, ‘Transformer’
 
 RCA, 1972
 
@@ -1553,7 +1552,7 @@ David Bowie counted the former Velvet Underground leader as a major inspiration 
 
 ![Lou Reed, ‘Transformer’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137194-b382fe62cef6d8fa7a57f04bf89413db4c5de90e.jpg?crop=1240:1240&width=300 "Lou Reed, ‘Transformer’")
 
-###195: John Mayall With Eric Clapton, ‘Blues Breakers’
+### 195: John Mayall With Eric Clapton, ‘Blues Breakers’
 
 London, 1966
 
@@ -1561,7 +1560,7 @@ Ex-Yardbird Eric Clapton's solos here inspired his "Clapton Is God" cult. The ba
 
 ![John Mayall With Eric Clapton, ‘Blues Breakers’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137195-7f5ad31d9aa00cfbd3d73742a2acaaaf63949163.jpg?crop=1240:1240&width=300 "John Mayall With Eric Clapton, ‘Blues Breakers’")
 
-###196: Various Artists, ‘Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968’
+### 196: Various Artists, ‘Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968’
 
 Elektra, 1972
 
@@ -1569,7 +1568,7 @@ This 27-song collection of short, fun brutally simple Sixties garage rock, compi
 
 ![Various Artists, ‘Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137196-5cab807202a546622c0d7cfb5c0c969ed1ef287a.jpg?crop=1240:1240&width=300 "Various Artists, ‘Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968’")
 
-###197: R.E.M., ‘Murmur’
+### 197: R.E.M., ‘Murmur’
 
 I.R.S., 1983
 
@@ -1577,7 +1576,7 @@ The founding document of alternative rock, released just as Gen X was heading of
 
 ![R.E.M., ‘Murmur’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137197-30aaeebf53eda57967c29512e6448d02ea6bdab8.jpg?crop=1240:1240&width=300 "R.E.M., ‘Murmur’")
 
-###198: Little Walter, ‘The Best Of’
+### 198: Little Walter, ‘The Best Of’
 
 Chess, 1957
 
@@ -1585,7 +1584,7 @@ This Muddy Waters sideman attacked the harmonica with the authority of the bop s
 
 ![Little Walter, ‘The Best Of’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137198-ad523efecbf62caaf2a5d82e0a311ad3337a77f9.jpg?crop=1240:1240&width=300 "Little Walter, ‘The Best Of’")
 
-###199: The Strokes, ‘Is This It’
+### 199: The Strokes, ‘Is This It’
 
 RCA, 2001
 
@@ -1593,7 +1592,7 @@ The debut from these mod ragamuffins was a blast of guitar-combo racket that mad
 
 ![The Strokes, ‘Is This It’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136763-5c9c3c6f4f8da14e4e6bf24a4f0a522618eb15e0.jpg?crop=1240:1240&width=300 "The Strokes, ‘Is This It’")
 
-###200: AC/DC, ‘Highway to Hell’
+### 200: AC/DC, ‘Highway to Hell’
 
 Atlantic, 1979
 
@@ -1601,7 +1600,7 @@ Bon Scott was a bourbon-swilling force of nature, and by AC/DC's fourth LP, he 
 
 ![AC/DC, ‘Highway to Hell’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137199-5ad7acae2ccc56922fc6b6711ac703caf706aab3.jpg?crop=1240:1240&width=300 "AC/DC, ‘Highway to Hell’")
 
-###201: Nine Inch Nails, ‘The Downward Spiral’
+### 201: Nine Inch Nails, ‘The Downward Spiral’
 
 Nothing/Interscope, 1994
 
@@ -1609,7 +1608,7 @@ Holing up in the one-time home of Manson-family victim Sharon Tate, Trent Reznor
 
 ![Nine Inch Nails, ‘The Downward Spiral’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137200-9d6e9604c257bcc20d49ffc9548cd63a9199ee3f.jpg?crop=1240:1240&width=300 "Nine Inch Nails, ‘The Downward Spiral’")
 
-###202: Simon and Garfunkel, ‘Parsley, Sage, Rosemary and Thyme’
+### 202: Simon and Garfunkel, ‘Parsley, Sage, Rosemary and Thyme’
 
 Columbia, 1966
 
@@ -1617,7 +1616,7 @@ The duo's third album yielded uptempo hits like "The 59th Street Bridge Song" an
 
 ![Simon and Garfunkel, ‘Parsley, Sage, Rosemary and Thyme’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137201-9759a4cb99234a160cf217e4b279e3d5ce27e82e.jpg?crop=1240:1240&width=300 "Simon and Garfunkel, ‘Parsley, Sage, Rosemary and Thyme’")
 
-###203: Michael Jackson, ‘Bad’
+### 203: Michael Jackson, ‘Bad’
 
 Epic, 1987
 
@@ -1625,7 +1624,7 @@ The feverishly anticipated follow-up to Thriller added more hits to Jackson's co
 
 ![Michael Jackson, ‘Bad’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137202-a97b2991a5a2ae92ea3b798b24a32fb81d63d388.jpg?crop=1240:1240&width=300 "Michael Jackson, ‘Bad’")
 
-###204: Bob Dylan, ‘Modern Times’
+### 204: Bob Dylan, ‘Modern Times’
 
 Columbia, 2006
 
@@ -1633,7 +1632,7 @@ This is history repeating itself – in Dylan's specific echoes of Slim Harpo an
 
 ![Bob Dylan, ‘Modern Times’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137203-2cad69129f7e060e4f879af2421ae1df7531144d.jpg?crop=1240:1240&width=300 "Bob Dylan, ‘Modern Times’")
 
-###205: Cream, ‘Wheels of Fire’
+### 205: Cream, ‘Wheels of Fire’
 
 Polydor, 1968
 
@@ -1641,7 +1640,7 @@ Half studio album, half live album, Wheels of Fire not only has the definitive C
 
 ![Cream, ‘Wheels of Fire’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137204-df0dc3068da42efa2b8933d40c4558eea7ffc7be.jpg?crop=1240:1240&width=300 "Cream, ‘Wheels of Fire’")
 
-###206: Prince, ‘Dirty Mind’
+### 206: Prince, ‘Dirty Mind’
 
 Warner Bros., 1980
 
@@ -1649,7 +1648,7 @@ A mix of slinky funk, synth-driven rock, jittery pop and sexual innuendo, Dirty 
 
 ![Prince, ‘Dirty Mind’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137205-c968ace333b274deeed7e7652b22181e5ee3c798.jpg?crop=1240:1240&width=300 "Prince, ‘Dirty Mind’")
 
-###207: Santana, ‘Abraxas’
+### 207: Santana, ‘Abraxas’
 
 Columbia, 1970
 
@@ -1657,7 +1656,7 @@ Columbia, 1970
 
 ![Santana, ‘Abraxas’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137206-c9c34c7d8f0c291ca067506a3d8baecc89274a77.jpg?crop=1240:1240&width=300 "Santana, ‘Abraxas’")
 
-###208: Cat Stevens, ‘Tea for the Tillerman’
+### 208: Cat Stevens, ‘Tea for the Tillerman’
 
 A&M, 1970
 
@@ -1665,7 +1664,7 @@ Chamber-pop arrangements made this the British folkie's most ambitious album. An
 
 ![Cat Stevens, ‘Tea for the Tillerman’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137207-42563253e6ef248fca9b0bc4cc928083538231af.jpg?crop=1240:1240&width=300 "Cat Stevens, ‘Tea for the Tillerman’")
 
-###209: Pearl Jam, ‘Ten’
+### 209: Pearl Jam, ‘Ten’
 
 Epic, 1991
 
@@ -1673,7 +1672,7 @@ When their debut came out, Pearl Jam were competing with Nirvana in a grunge pop
 
 ![Pearl Jam, ‘Ten’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137208-57cc70aef9c387904d3f9e0492979c9bf4938a73.jpg?crop=1240:1240&width=300 "Pearl Jam, ‘Ten’")
 
-###210: Neil Young With Crazy Horse, ‘Everybody Knows This Is Nowhere’
+### 210: Neil Young With Crazy Horse, ‘Everybody Knows This Is Nowhere’
 
 Reprise, 1969
 
@@ -1681,7 +1680,7 @@ Young and Crazy Horse had been together for only a couple of months when they cu
 
 ![Neil Young With Crazy Horse, ‘Everybody Knows This Is Nowhere’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137209-98b310386437c0cced4f0b63108501c26f7b5973.jpg?crop=1240:1240&width=300 "Neil Young With Crazy Horse, ‘Everybody Knows This Is Nowhere’")
 
-###211: Pink Floyd, ‘Wish You Were Here’
+### 211: Pink Floyd, ‘Wish You Were Here’
 
 Columbia, 1975
 
@@ -1689,7 +1688,7 @@ The follow-up to The Dark Side of the Moon was another essay on everyday lunacy 
 
 ![Pink Floyd, ‘Wish You Were Here’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137210-5616923efa1a95975da080a67752021ac1b8aaea.jpg?crop=1240:1240&width=300 "Pink Floyd, ‘Wish You Were Here’")
 
-###212: Pavement, ‘Crooked Rain, Crooked Rain’
+### 212: Pavement, ‘Crooked Rain, Crooked Rain’
 
 Matador, 1994
 
@@ -1697,7 +1696,7 @@ Pavement's second album was about love and rock & roll, with bouncy pop, stretch
 
 ![Pavement, ‘Crooked Rain, Crooked Rain’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137211-822fa826c6df519feb25c36853bd0a7badcea999.jpg?crop=1240:1240&width=300 "Pavement, ‘Crooked Rain, Crooked Rain’")
 
-###213: The Rolling Stones, ‘Tattoo You’
+### 213: The Rolling Stones, ‘Tattoo You’
 
 Virgin, 1981
 
@@ -1705,7 +1704,7 @@ Tattoo You was lean, tough and bluesy – the Stones relying on their strengths,
 
 ![The Rolling Stones, ‘Tattoo You’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137188-1328aa8bc9d4eb484d1453db939bd6dc42b11af6.jpg?crop=1240:1240&width=300 "The Rolling Stones, ‘Tattoo You’")
 
-###214: Ike and Tina Turner, ‘Proud Mary: The Best of Ike and Tina Turner’
+### 214: Ike and Tina Turner, ‘Proud Mary: The Best of Ike and Tina Turner’
 
 EMI, 1991
 
@@ -1713,7 +1712,7 @@ On early singles like "A Fool in Love," Tina Turner has wild power and raw vulne
 
 ![Ike and Tina Turner, ‘Proud Mary: The Best of Ike and Tina Turner’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137187-c0513b6c65f222b951c5e7028339d2c8c5ba850d.jpg?crop=1240:1240&width=300 "Ike and Tina Turner, ‘Proud Mary: The Best of Ike and Tina Turner’")
 
-###215: New York Dolls, ‘New York Dolls’
+### 215: New York Dolls, ‘New York Dolls’
 
 Mercury, 1973
 
@@ -1721,7 +1720,7 @@ Mercury, 1973
 
 ![New York Dolls, ‘New York Dolls’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137186-e50229cead5e19d8fa5f801017371d065ebf622a.jpg?crop=1240:1240&width=300 "New York Dolls, ‘New York Dolls’")
 
-###216: Bo Diddley, ‘Bo Diddley/Go Bo Diddley’
+### 216: Bo Diddley, ‘Bo Diddley/Go Bo Diddley’
 
 MCA, 1990
 
@@ -1729,7 +1728,7 @@ Diddley's influence is inestimable, from the off-kilter thump of "Pretty Thing" 
 
 ![Bo Diddley, ‘Bo Diddley/Go Bo Diddley’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137185-23a6886ba0ebb4d79673624c6afd739520399e6d.jpg?crop=1240:1240&width=300 "Bo Diddley, ‘Bo Diddley/Go Bo Diddley’")
 
-###217: Bobby Bland, ‘Two Steps From the Blues’
+### 217: Bobby Bland, ‘Two Steps From the Blues’
 
 Duke, 1961
 
@@ -1737,7 +1736,7 @@ Bland's stirring, guttural howl is epitomized by "Little Boy Blue" and "Cry, Cry
 
 ![Bobby Bland, ‘Two Steps From the Blues’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137184-b808d4745b09589397a0dc0af138173999a0043c.jpg?crop=1240:1240&width=300 "Bobby Bland, ‘Two Steps From the Blues’")
 
-###218: The Smiths, ‘The Queen Is Dead’
+### 218: The Smiths, ‘The Queen Is Dead’
 
 Sire/Rough Trade, 1986
 
@@ -1745,7 +1744,7 @@ The original kings of British mope rock could have earned that title on the basi
 
 ![The Smiths, ‘The Queen Is Dead’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137183-c4e71e16346110ed60d7a40efbc970336cb4a81b.jpg?crop=1240:1240&width=300 "The Smiths, ‘The Queen Is Dead’")
 
-###219: Beastie Boys, ‘License to Ill’
+### 219: Beastie Boys, ‘License to Ill’
 
 Def Jam, 1986
 
@@ -1753,7 +1752,7 @@ Recorded when the New York rap trio were barely out of high school, Licensed to 
 
 ![Beastie Boys, ‘License to Ill’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137182-be2aada48a74d440667291a694c0e66626e2e849.jpg?crop=1240:1240&width=300 "Beastie Boys, ‘License to Ill’")
 
-###220: The Meters, ‘Look-Ka Py Py’
+### 220: The Meters, ‘Look-Ka Py Py’
 
 Josie, 1970
 
@@ -1761,7 +1760,7 @@ The New Orleans rhythm killers' second album exemplifies their foundational groo
 
 ![The Meters, ‘Look-Ka Py Py’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137181-39218fdb60c61789aa0f41a23a3141db7a817b48.jpg?crop=1240:1240&width=300 "The Meters, ‘Look-Ka Py Py’")
 
-###221: My Bloody Valentine, ‘Loveless’
+### 221: My Bloody Valentine, ‘Loveless’
 
 Sire, 1991
 
@@ -1769,7 +1768,7 @@ A shoegazer masterpiece, the fourth MBV album reportedly cost £250,000 to make.
 
 ![My Bloody Valentine, ‘Loveless’](https://www.rollingstone.com/wp-content/uploads/2018/06/my-bloody-valentine-loveless-cover-3e79b904-6e0d-4a74-ad82-28a6afa8f858.jpg?crop=1240:1240&width=300 "My Bloody Valentine, ‘Loveless’")
 
-###222: Professor Longhair, ‘New Orleans Piano’
+### 222: Professor Longhair, ‘New Orleans Piano’
 
 Atlantic, 1972
 
@@ -1777,7 +1776,7 @@ There may never have been a funnier, sunnier piano player. His rolling, rumba-ti
 
 ![Professor Longhair, ‘New Orleans Piano’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137179-8d44944bbcc158675cde8148e3830d8fe3b0f40d.jpg?crop=1240:1240&width=300 "Professor Longhair, ‘New Orleans Piano’")
 
-###223: U2, ‘War’
+### 223: U2, ‘War’
 
 Island, 1983
 
@@ -1785,7 +1784,7 @@ U2 were on the cusp of becoming one of the Eighties' most important groups when 
 
 ![U2, ‘War’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137178-88deed8e0c556bcd1f11b03f5fe955b2745cd539.jpg?crop=1240:1240&width=300 "U2, ‘War’")
 
-###224: Neil Diamond, ‘The Neil Diamond Collection’
+### 224: Neil Diamond, ‘The Neil Diamond Collection’
 
 MCA, 1999
 
@@ -1793,7 +1792,7 @@ This pop-rock star's melodramatic delivery is a guilty pleasure that never gets 
 
 ![Neil Diamond, ‘The Neil Diamond Collection’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137177-9a6f9cc6718608142dc7ed89d21d4fee3cd64c2e.jpg?crop=1240:1240&width=300 "Neil Diamond, ‘The Neil Diamond Collection’")
 
-###225: Green Day, ‘American Idiot’
+### 225: Green Day, ‘American Idiot’
 
 Reprise, 2004
 
@@ -1801,7 +1800,7 @@ The Nineties' irrepressible punk brats grew up with a bang, proving they could t
 
 ![Green Day, ‘American Idiot’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137176-f4d84a32a2d245213e1d10336ff92436358c501e.jpg?crop=1240:1240&width=300 "Green Day, ‘American Idiot’")
 
-###226: Bruce Springsteen, ‘Nebraska’
+### 226: Bruce Springsteen, ‘Nebraska’
 
 Columbia, 1982
 
@@ -1809,7 +1808,7 @@ Recorded on a four-track in Springsteen's bedroom, the songs on Nebraska were st
 
 ![Bruce Springsteen, ‘Nebraska’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137175-3aa14a4e1021a9f5ce6ddab868dc132d5a2f2b33.jpg?crop=1240:1240&width=300 "Bruce Springsteen, ‘Nebraska’")
 
-###227: Pixies, ‘Doolittle’
+### 227: Pixies, ‘Doolittle’
 
 4AD/Elektra, 1989
 
@@ -1817,7 +1816,7 @@ Kurt Cobain himself acknowledged the Pixies' influence on the soft/loud dynamic 
 
 ![Pixies, ‘Doolittle’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137174-696d41503fd5713db781bb51bbcd5f2e323b0044.jpg?crop=1240:1240&width=300 "Pixies, ‘Doolittle’")
 
-###228: Eric B. and Rakim, ‘Paid in Full’
+### 228: Eric B. and Rakim, ‘Paid in Full’
 
 4th and Broadway/Island, 1987
 
@@ -1825,7 +1824,7 @@ Laid-back, diamond-sharp: Old-school titan Rakim may still lead the race for Bes
 
 ![Eric B. and Rakim, ‘Paid in Full’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137173-0ca495502e690095dca8623f3694d1b5c57cf09c.jpg?crop=1240:1240&width=300 "Eric B. and Rakim, ‘Paid in Full’")
 
-###229: Aerosmith, ‘Toys in the Attic’
+### 229: Aerosmith, ‘Toys in the Attic’
 
 Columbia, 1975
 
@@ -1833,7 +1832,7 @@ This is where Aerosmith perfected their raunchy blues-rock sound, with guitarist
 
 ![Aerosmith, ‘Toys in the Attic’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137172-deabd8133b00f4b6fa41e24210c16823302ec03d.jpg?crop=1240:1240&width=300 "Aerosmith, ‘Toys in the Attic’")
 
-###230: Bonnie Raitt, ‘Nick of Time’
+### 230: Bonnie Raitt, ‘Nick of Time’
 
 Captiol, 1989
 
@@ -1841,7 +1840,7 @@ After being dumped by her previous label, veteran blues rocker Raitt exacted rev
 
 ![Bonnie Raitt, ‘Nick of Time’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137171-cf1ad16e8540d7d7d8583179a1630bf20aeb5e41.jpg?crop=1240:1240&width=300 "Bonnie Raitt, ‘Nick of Time’")
 
-###231: Queen, ‘A Night at the Opera’
+### 231: Queen, ‘A Night at the Opera’
 
 Elektra, 1975
 
@@ -1849,7 +1848,7 @@ Freddie Mercury wanted Queen to be "the Cecil B. DeMille of rock," and this is w
 
 ![Queen, ‘A Night at the Opera’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137170-a06e502b76d71130a7c2802037590b01519505a2.jpg?crop=1240:1240&width=300 "Queen, ‘A Night at the Opera’")
 
-###232: The Kinks, ‘The Kink Kronikles’
+### 232: The Kinks, ‘The Kink Kronikles’
 
 Reprise, 1972
 
@@ -1857,7 +1856,7 @@ Covering 1966 to 1970, this double-disc set anthologizes the second act in the K
 
 ![The Kinks, ‘The Kink Kronikles’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137169-c01e007f81474bb49a9191f067eecc267d44ac41.jpg?crop=1240:1240&width=300 "The Kinks, ‘The Kink Kronikles’")
 
-###233: The Byrds, ‘Mr. Tambourine Man’
+### 233: The Byrds, ‘Mr. Tambourine Man’
 
 Columbia, 1965
 
@@ -1865,7 +1864,7 @@ Columbia, 1965
 
 ![The Byrds, ‘Mr. Tambourine Man’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137168-6988e4aead2b277a7e0554b03ad483875c056504.jpg?crop=1240:1240&width=300 "The Byrds, ‘Mr. Tambourine Man’")
 
-###234: Simon and Garfunkel, ‘Bookends’
+### 234: Simon and Garfunkel, ‘Bookends’
 
 Columbia, 1968
 
@@ -1873,7 +1872,7 @@ Paul Simon called this "the quintessential Simon and Garfunkel album." It is cer
 
 ![Simon and Garfunkel, ‘Bookends’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137167-928bb33a8aa733d5fabcc6c66bbe8704827b0dd5.jpg?crop=1240:1240&width=300 "Simon and Garfunkel, ‘Bookends’")
 
-###235: Patsy Cline, ‘The Ultimate Collection’
+### 235: Patsy Cline, ‘The Ultimate Collection’
 
 UTV, 2000
 
@@ -1881,7 +1880,7 @@ She died in a plane crash at 30, but Cline made her mark as one of country's gre
 
 ![Patsy Cline, ‘The Ultimate Collection’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137166-f88abd6f48a3ab92d656884d045b9635a39149eb.jpg?crop=1240:1240&width=300 "Patsy Cline, ‘The Ultimate Collection’")
 
-###236: Jackie Wilson, ‘Mr. Excitement!’
+### 236: Jackie Wilson, ‘Mr. Excitement!’
 
 Rhino, 1992
 
@@ -1889,7 +1888,7 @@ Wilson was a knockout live performer who made R&B that rocked and sang ballads w
 
 ![Jackie Wilson, ‘Mr. Excitement!’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137165-ae5633b52b6d34b3ef2e48cc0216b28f04e982a0.jpg?crop=1240:1240&width=300 "Jackie Wilson, ‘Mr. Excitement!’")
 
-###237: The Who, ‘The Who Sings My Generation’
+### 237: The Who, ‘The Who Sings My Generation’
 
 Decca, 1966
 
@@ -1897,7 +1896,7 @@ The Who debuted in maximum R&B mode: power-chorded reductions of James Brown bal
 
 ![The Who, ‘The Who Sings My Generation’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137164-8dcc7d229827603559709d89ad4858b774da77f9.jpg?crop=1240:1240&width=300 "The Who, ‘The Who Sings My Generation’")
 
-###238: Howlin’ Wolf, ‘Howlin’ Wolf’
+### 238: Howlin’ Wolf, ‘Howlin’ Wolf’
 
 Chess, 1962
 
@@ -1905,7 +1904,7 @@ Chicago blues at its raunchy best, "The Rocking Chair Album" features an outrage
 
 ![Howlin’ Wolf, ‘Howlin’ Wolf’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137163-b1a0be14bad2bbb5e1e35e6487e657bbf8a9921e.jpg?crop=1240:1240&width=300 "Howlin’ Wolf, ‘Howlin’ Wolf’")
 
-###239: Madonna, ‘Like a Prayer’
+### 239: Madonna, ‘Like a Prayer’
 
 Sire, 1989
 
@@ -1913,7 +1912,7 @@ Sire, 1989
 
 ![Madonna, ‘Like a Prayer’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137162-283c0cc163f5599f86c97484316bddbb4bde5592.jpg?crop=1240:1240&width=300 "Madonna, ‘Like a Prayer’")
 
-###240: Steely Dan, ‘Can’t Buy a Thrill’
+### 240: Steely Dan, ‘Can’t Buy a Thrill’
 
 MCA, 1972
 
@@ -1921,7 +1920,7 @@ Working as hired songwriters by day, Donald Fagen and Walter Becker rehearsed th
 
 ![Steely Dan, ‘Can’t Buy a Thrill’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137161-0764d9ed29f2dea208850e6fb1a176ef801e4e34.jpg?crop=1240:1240&width=300 "Steely Dan, ‘Can’t Buy a Thrill’")
 
-###241: The Replacements, ‘Let It Be’
+### 241: The Replacements, ‘Let It Be’
 
 Twin/Tone, 1984
 
@@ -1929,7 +1928,7 @@ Copping a Beatles title was cheeky; attaching it to a post-punk masterpiece was 
 
 ![The Replacements, ‘Let It Be’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137160-a3b8352a8ac12d482424f564271da2503d1ec52a.jpg?crop=1240:1240&width=300 "The Replacements, ‘Let It Be’")
 
-###242: Run-D.M.C., ‘Run-D.M.C.’
+### 242: Run-D.M.C., ‘Run-D.M.C.’
 
 Profile, 1984
 
@@ -1937,7 +1936,7 @@ Profile, 1984
 
 ![Run-D.M.C., ‘Run-D.M.C.’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137159-92abc912ee3fde246ac093cbf9b5d906f5184feb.jpg?crop=1240:1240&width=300 "Run-D.M.C., ‘Run-D.M.C.’")
 
-###243: Black Sabbath, ‘Black Sabbath’
+### 243: Black Sabbath, ‘Black Sabbath’
 
 Warner Bros., 1970
 
@@ -1945,7 +1944,7 @@ Recorded in a single 12-hour blurt by a hippie-leaning former blues band, this l
 
 ![Black Sabbath, ‘Black Sabbath’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137158-213718676e5a54875d4e48bfe1da9de91a7a24a4.jpg?crop=1240:1240&width=300 "Black Sabbath, ‘Black Sabbath’")
 
-###244: Eminem, ‘The Marshall Mathers LP’
+### 244: Eminem, ‘The Marshall Mathers LP’
 
 Aftermath, 2000
 
@@ -1953,7 +1952,7 @@ Before his second major-label LP, Eminem was a shock rapper with a sense of humo
 
 ![Eminem, ‘The Marshall Mathers LP’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137157-40e08fde0c565650a2bc208974960d71dfeec2ef.jpg?crop=1240:1240&width=300 "Eminem, ‘The Marshall Mathers LP’")
 
-###245: Jerry Lee Lewis, ‘All Killer, No Filler!’
+### 245: Jerry Lee Lewis, ‘All Killer, No Filler!’
 
 Rhino, 1993
 
@@ -1961,7 +1960,7 @@ Lewis is famous for his frenzied, piano-pumping Sun sides of the late Fifties, y
 
 ![Jerry Lee Lewis, ‘All Killer, No Filler!’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137156-373e059300c1e4cde01c7e1d7d53124a87e63f73.jpg?crop=1240:1240&width=300 "Jerry Lee Lewis, ‘All Killer, No Filler!’")
 
-###246: The Mothers of Invention, ‘Freak Out!’
+### 246: The Mothers of Invention, ‘Freak Out!’
 
 Verve, 1966
 
@@ -1969,7 +1968,7 @@ A master guitarist and provocateur, Frank Zappa made more than 60 albums, but th
 
 ![The Mothers of Invention, ‘Freak Out!’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137155-aaa4b9dbc59d741375e942dbd7f3ccec3f6dabf2.jpg?crop=1240:1240&width=300 "The Mothers of Invention, ‘Freak Out!’")
 
-###247: Grateful Dead, ‘Live Dead’
+### 247: Grateful Dead, ‘Live Dead’
 
 Warner Bros., 1969
 
@@ -1977,7 +1976,7 @@ After two expensive studio albums put them $100,000 in debt, this live set was m
 
 ![Grateful Dead, ‘Live Dead’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137154-34f35c2fe196d291ae425f9ef6ec25736031dd37.jpg?crop=1240:1240&width=300 "Grateful Dead, ‘Live Dead’")
 
-###248: Ornette Coleman, ‘The Shape of Jazz to Come’
+### 248: Ornette Coleman, ‘The Shape of Jazz to Come’
 
 Atlantic, 1959
 
@@ -1985,7 +1984,7 @@ Coleman's sound was so out-there, one audience at an early gig threw his sax ove
 
 ![Ornette Coleman, ‘The Shape of Jazz to Come’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137153-6fdf7b366410eb1442737a629e573119b7ae2969.jpg?crop=1240:1240&width=300 "Ornette Coleman, ‘The Shape of Jazz to Come’")
 
-###249: R.E.M., ‘Automatic for the People’
+### 249: R.E.M., ‘Automatic for the People’
 
 Warner Bros., 1992
 
@@ -1993,7 +1992,7 @@ Warner Bros., 1992
 
 ![R.E.M., ‘Automatic for the People’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137152-dac5f9d5eda7e806047d3f8c04d1690ed6f485c5.jpg?crop=1240:1240&width=300 "R.E.M., ‘Automatic for the People’")
 
-###250: Jay-Z, ‘Reasonable Doubt’
+### 250: Jay-Z, ‘Reasonable Doubt’
 
 Roc-A-Fella, 1996
 
@@ -2001,7 +2000,7 @@ Roc-A-Fella, 1996
 
 ![Jay-Z, ‘Reasonable Doubt’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137151-f491a039f4a74515ae55e2db1a0a6d1e201dc6a9.jpg?crop=1240:1240&width=300 "Jay-Z, ‘Reasonable Doubt’")
 
-###251: David Bowie, ‘Low’
+### 251: David Bowie, ‘Low’
 
 RCA, 1977
 
@@ -2009,13 +2008,13 @@ Moving to West Berlin to kick cocaine, Bowie hooked up with producer Brian Eno. 
 
 ![David Bowie, ‘Low’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137150-d5f3dfde2e432f3096f0c155eee1a360ed27513a.jpg?crop=1240:1240&width=300 "David Bowie, ‘Low’")
 
-###252: Jay-Z, ‘The Blueprint’
+### 252: Jay-Z, ‘The Blueprint’
 
 If Frank Sinatra had been born a Brooklyn rapper, The Blueprint is the album he would have made. It's all flash and bravado, with Jay-Z dissing rivals, talking smack about his troubles with the cops and flossing hard with ladies all around the world.
 
 ![Jay-Z, ‘The Blueprint’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136683-e14b0f89cf479eb8da5db3d2ea15fcc6c0a68611.jpg?crop=1240:1240&width=300 "Jay-Z, ‘The Blueprint’")
 
-###253: Bruce Springsteen, ‘The River’
+### 253: Bruce Springsteen, ‘The River’
 
 Columbia, 1980
 
@@ -2023,7 +2022,7 @@ Springsteen said it took him five albums to begin writing about real relationshi
 
 ![Bruce Springsteen, ‘The River’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137149-366c312375247c1b04b184e20855934a8df1abc4.jpg?crop=1240:1240&width=300 "Bruce Springsteen, ‘The River’")
 
-###254: Otis Redding, ‘Dictionary of Soul’
+### 254: Otis Redding, ‘Dictionary of Soul’
 
 Volt, 1966
 
@@ -2031,7 +2030,7 @@ Volt, 1966
 
 ![Otis Redding, ‘Dictionary of Soul’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137148-c059a250040668ee96d16602411685a34846c918.jpg?crop=1240:1240&width=300 "Otis Redding, ‘Dictionary of Soul’")
 
-###255: Metallica, ‘Metallica’
+### 255: Metallica, ‘Metallica’
 
 Elektra, 1991
 
@@ -2039,7 +2038,7 @@ One of the bestselling metal albums ever, created with Bon Jovi producer Bob Roc
 
 ![Metallica, ‘Metallica’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137147-a5b6a7deda60d004c776a40c7649cd31b837b09e.jpg?crop=1240:1240&width=300 "Metallica, ‘Metallica’")
 
-###256: Kraftwerk, ‘Trans-Europe Express’
+### 256: Kraftwerk, ‘Trans-Europe Express’
 
 Capitol, 1977
 
@@ -2047,7 +2046,7 @@ This German group's robotic synthesizer grooves influenced electro-disco hitmake
 
 ![Kraftwerk, ‘Trans-Europe Express’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137146-733e7a2b4446e981d036a63caf2cf7de51d44431.jpg?crop=1240:1240&width=300 "Kraftwerk, ‘Trans-Europe Express’")
 
-###257: Whitney Houston, ‘Whitney Houston’
+### 257: Whitney Houston, ‘Whitney Houston’
 
 Arista, 1985
 
@@ -2055,7 +2054,7 @@ She had been a model and a nightclub singer when she cut this smooth R&B debut. 
 
 ![Whitney Houston, ‘Whitney Houston’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137145-49adbd2611a827725c3d4825ceec479e0ccb0ab2.jpg?crop=1240:1240&width=300 "Whitney Houston, ‘Whitney Houston’")
 
-###258: The Kinks, ‘The Village Green Preservation Society’
+### 258: The Kinks, ‘The Village Green Preservation Society’
 
 Reprise, 1968
 
@@ -2063,7 +2062,7 @@ Having shed their early garage-rock grit in favor of more baroque arrangements, 
 
 ![The Kinks, ‘The Village Green Preservation Society’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137144-fae5871f88f0787651b2ebe1c8303afeb69d7558.jpg?crop=1240:1240&width=300 "The Kinks, ‘The Village Green Preservation Society’")
 
-###259: Janet Jackson, ‘The Velvet Rope’
+### 259: Janet Jackson, ‘The Velvet Rope’
 
 Virgin, 1997
 
@@ -2071,7 +2070,7 @@ Janet Jackson left behind her girl-next-door image forever with The Velvet Rope,
 
 ![Janet Jackson, ‘The Velvet Rope’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137143-c9104bb880785d4d9009b0d9b48d6723c8e420c8.jpg?crop=1240:1240&width=300 "Janet Jackson, ‘The Velvet Rope’")
 
-###260: Willie Nelson, ‘Stardust’
+### 260: Willie Nelson, ‘Stardust’
 
 Columbia, 1978
 
@@ -2079,7 +2078,7 @@ Stardust is Nelson's love song to old-time American music: At the height of his 
 
 ![Willie Nelson, ‘Stardust’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137142-f16f858af7e91904db107c74ce4664bd37a579c8.jpg?crop=1240:1240&width=300 "Willie Nelson, ‘Stardust’")
 
-###261: Grateful Dead, ‘American Beauty’
+### 261: Grateful Dead, ‘American Beauty’
 
 Warner Bros., 1970
 
@@ -2087,7 +2086,7 @@ The Dead were never better in the studio than on the down-home stoner country of
 
 ![Grateful Dead, ‘American Beauty’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137141-cffd8a1aefca1b2772fba81402690e6f26067ad6.jpg?crop=1240:1240&width=300 "Grateful Dead, ‘American Beauty’")
 
-###262: Crosby, Stills and Nash, ‘Crosby, Stills and Nash’
+### 262: Crosby, Stills and Nash, ‘Crosby, Stills and Nash’
 
 Atlantic, 1969
 
@@ -2095,7 +2094,7 @@ Jimi Hendrix called CSN "groovy, Western-sky music." The trio first combined the
 
 ![Crosby, Stills and Nash, ‘Crosby, Stills and Nash’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137139-1fab6f85f603f1b9530a3f3a361ff25459ed5a6b.jpg?crop=1240:1240&width=300 "Crosby, Stills and Nash, ‘Crosby, Stills and Nash’")
 
-###263: Tracy Chapman, ‘Tracy Chapman’
+### 263: Tracy Chapman, ‘Tracy Chapman’
 
 Elektra, 1988
 
@@ -2103,7 +2102,7 @@ Somehow, this young folk singer caught everyone's ear in the hair-metal late Eig
 
 ![Tracy Chapman, ‘Tracy Chapman’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137140-cd8268e7b96520a83fdeb0d36dd990d1e641c8bd.jpg?crop=1240:1240&width=300 "Tracy Chapman, ‘Tracy Chapman’")
 
-###264: Grateful Dead, ‘Workingman’s Dead’
+### 264: Grateful Dead, ‘Workingman’s Dead’
 
 Warner Bros., 1970
 
@@ -2111,7 +2110,7 @@ The Dead strip down for eight spooky country and folk tunes that rival the best 
 
 ![Grateful Dead, ‘Workingman’s Dead’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137138-08264dc54f2fcfe2735b640823a84431ef6a6edf.jpg?crop=1240:1240&width=300 "Grateful Dead, ‘Workingman’s Dead’")
 
-###265: Ray Charles, ‘The Genius of Ray Charles’
+### 265: Ray Charles, ‘The Genius of Ray Charles’
 
 Atlantic, 1959
 
@@ -2119,7 +2118,7 @@ Charles spent the Fifties working hard to pioneer his own sound: fusing jazz, go
 
 ![Ray Charles, ‘The Genius of Ray Charles’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137137-f2a052c134f979b74b650c1c50ad7bb35307daf5.jpg?crop=1240:1240&width=300 "Ray Charles, ‘The Genius of Ray Charles’")
 
-###266: Blood, Sweat and Tears, ‘Child Is Father to the Man’
+### 266: Blood, Sweat and Tears, ‘Child Is Father to the Man’
 
 Columbia, 1968
 
@@ -2127,7 +2126,7 @@ Organist Al Kooper formed this eclectic rock-jazz collective, putting horns up f
 
 ![Blood, Sweat and Tears, ‘Child Is Father to the Man’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137136-1cd68790abc0e0c7344303b5e21c7f930565d58f.jpg?crop=1240:1240&width=300 "Blood, Sweat and Tears, ‘Child Is Father to the Man’")
 
-###267: The Who, ‘Quadrophenia’
+### 267: The Who, ‘Quadrophenia’
 
 MCA, 1973
 
@@ -2135,7 +2134,7 @@ The album that brought back Vespa scooters, parkas and uppers: Pete Townshend dr
 
 ![The Who, ‘Quadrophenia’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137135-c772d02b91c9f9d96fc2f194deac497e2c555d11.jpg?crop=1240:1240&width=300 "The Who, ‘Quadrophenia’")
 
-###268: Paul Simon, ‘Paul Simon’
+### 268: Paul Simon, ‘Paul Simon’
 
 Columbia, 1972
 
@@ -2143,7 +2142,7 @@ Simon's first album after the breakup of Simon and Garfunkel was a tour de force
 
 ![Paul Simon, ‘Paul Simon’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137134-50884d3fff031dd146a1625bab38bd00dfa1d99c.jpg?crop=1240:1240&width=300 "Paul Simon, ‘Paul Simon’")
 
-###269: The Jesus and Mary Chain, ‘Psychocandy’
+### 269: The Jesus and Mary Chain, ‘Psychocandy’
 
 Reprise, 1985
 
@@ -2151,7 +2150,7 @@ Pretty Scottish boys surfing a wave of doom and gloom and enjoying every moment 
 
 ![The Jesus and Mary Chain, ‘Psychocandy’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137133-aa53e447aa3db9f3a8b57124f58839aa67dc1510.jpg?crop=1240:1240&width=300 "The Jesus and Mary Chain, ‘Psychocandy’")
 
-###270: The Rolling Stones, ‘Some Girls’
+### 270: The Rolling Stones, ‘Some Girls’
 
 Rolling Stones, 1978
 
@@ -2159,7 +2158,7 @@ Rolling Stones, 1978
 
 ![The Rolling Stones, ‘Some Girls’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137132-3f6d2901349be691e5e3954bebdcf945fa8a662f.jpg?crop=1240:1240&width=300 "The Rolling Stones, ‘Some Girls’")
 
-###271: The Beach Boys, ‘The Beach Boys Today!’
+### 271: The Beach Boys, ‘The Beach Boys Today!’
 
 Capitol, 1965
 
@@ -2167,7 +2166,7 @@ The Beach Boys were still into cars, girls and surfboards, but Brian Wilson was 
 
 ![The Beach Boys, ‘The Beach Boys Today!’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137131-6bd88dcbf93095718cce48d75e76e1047007c1c7.jpg?crop=1240:1240&width=300 "The Beach Boys, ‘The Beach Boys Today!’")
 
-###272: Sleater-Kinney, ‘Dig Me Out’
+### 272: Sleater-Kinney, ‘Dig Me Out’
 
 Kill Rock Stars, 1997
 
@@ -2175,7 +2174,7 @@ When drummer Janet Weiss joined singer-guitarists Corin Tucker and Carrie Browns
 
 ![Sleater-Kinney, ‘Dig Me Out’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137130-d5bb0902aa196dbbe212e30ae796bdaa36caf0c8.jpg?crop=1240:1240&width=300 "Sleater-Kinney, ‘Dig Me Out’")
 
-###273: Smokey Robinson and the Miracles, ‘Going to a Go-Go’
+### 273: Smokey Robinson and the Miracles, ‘Going to a Go-Go’
 
 Tamla, 1965
 
@@ -2183,7 +2182,7 @@ Motown at its most debonair and sexy. Robinson works his sweeping soul falsetto 
 
 ![Smokey Robinson and the Miracles, ‘Going to a Go-Go’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137129-471adc6adf04ee4a2d78cf3bc6254f9028971d08.jpg?crop=1240:1240&width=300 "Smokey Robinson and the Miracles, ‘Going to a Go-Go’")
 
-###274: Labelle, ‘Nightbirds’
+### 274: Labelle, ‘Nightbirds’
 
 Epic, 1974
 
@@ -2191,7 +2190,7 @@ Epic, 1974
 
 ![Labelle, ‘Nightbirds’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137128-ca5feb5e9907130b20ec88c9905edc9d82eebd91.jpg?crop=1240:1240&width=300 "Labelle, ‘Nightbirds’")
 
-###275: Eminem, ‘The Slim Shady LP’
+### 275: Eminem, ‘The Slim Shady LP’
 
 Aftermath, 1999
 
@@ -2199,7 +2198,7 @@ Here's where Eminem introduced himself as a crazy white geek, the "class-clown f
 
 ![Eminem, ‘The Slim Shady LP’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137127-8b4cbc3d4348242b64946d981f7ca09f7959812b.jpg?crop=1240:1240&width=300 "Eminem, ‘The Slim Shady LP’")
 
-###276: Parliament, ‘Mothership Connection’
+### 276: Parliament, ‘Mothership Connection’
 
 Casablanca, 1975
 
@@ -2207,7 +2206,7 @@ George Clinton leads his Detroit crew of extraterrestrial brothers through a vis
 
 ![Parliament, ‘Mothership Connection’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137126-c5604941cd959fe1954ef8227321f927e5bedd73.jpg?crop=1240:1240&width=300 "Parliament, ‘Mothership Connection’")
 
-###277: Janet Jackson, ‘Rhythm Nation 1814’
+### 277: Janet Jackson, ‘Rhythm Nation 1814’
 
 A&M, 1989
 
@@ -2215,7 +2214,7 @@ Jackson bought a military suit and ruled the radio for two years with this album
 
 ![Janet Jackson, ‘Rhythm Nation 1814’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137125-907d9bcc53b0e610725e8ad5af63b83f1cb11a88.jpg?crop=1240:1240&width=300 "Janet Jackson, ‘Rhythm Nation 1814’")
 
-###278: Harry Smith, Ed., ‘Anthology of American Folk Music’
+### 278: Harry Smith, Ed., ‘Anthology of American Folk Music’
 
 Folkways, 1952
 
@@ -2223,7 +2222,7 @@ This influential compilation inspired folkies like Pete Seeger and the early Bob
 
 ![Harry Smith, Ed., ‘Anthology of American Folk Music’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137124-88efd17762f6c895f466641ac456ed1f66ac5347.jpg?crop=1240:1240&width=300 "Harry Smith, Ed., ‘Anthology of American Folk Music’")
 
-###279: David Bowie, ‘Aladdin Sane’
+### 279: David Bowie, ‘Aladdin Sane’
 
 RCA, 1973
 
@@ -2231,7 +2230,7 @@ RCA, 1973
 
 ![David Bowie, ‘Aladdin Sane’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137123-37af3e0c4e80dd918ca9ace19cd612fa62f1dc9f.jpg?crop=1240:1240&width=300 "David Bowie, ‘Aladdin Sane’")
 
-###280: U2, ‘All That You Can’t Leave Behind’
+### 280: U2, ‘All That You Can’t Leave Behind’
 
 Interscope, 2000
 
@@ -2239,7 +2238,7 @@ Interscope, 2000
 
 ![U2, ‘All That You Can’t Leave Behind’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137122-0426ee36584969704e8b5934cd9f5cc5e463e9f7.jpg?crop=1240:1240&width=300 "U2, ‘All That You Can’t Leave Behind’")
 
-###281: Mary J. Blige, ‘My Life’
+### 281: Mary J. Blige, ‘My Life’
 
 MCA, 1994
 
@@ -2247,7 +2246,7 @@ Graced by soulful samples and revisions of classic R&B, this Puff Daddy-helmed s
 
 ![Mary J. Blige, ‘My Life’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137121-74e117929e9bbcaf195c08b9f85619b39908b10a.jpg?crop=1240:1240&width=300 "Mary J. Blige, ‘My Life’")
 
-###282: Muddy Waters, ‘Folk Singer’
+### 282: Muddy Waters, ‘Folk Singer’
 
 Chess, 1964
 
@@ -2255,7 +2254,7 @@ Worried that the folk-music fad was luring listeners away from the blues, Chess 
 
 ![Muddy Waters, ‘Folk Singer’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137120-e89d9808af9b8731335c902f6b9f247347eaa091.jpg?crop=1240:1240&width=300 "Muddy Waters, ‘Folk Singer’")
 
-###283: Barry White, ‘Can’t Get Enough’
+### 283: Barry White, ‘Can’t Get Enough’
 
 20th Century, 1974
 
@@ -2263,7 +2262,7 @@ In 1974, White had three albums on the charts simultaneously, all containing orc
 
 ![Barry White, ‘Can’t Get Enough’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137119-b9e3f7d1a08ea157c0c1a7d0f936a5836d67e6f0.jpg?crop=1240:1240&width=300 "Barry White, ‘Can’t Get Enough’")
 
-###284: The Cars, ‘The Cars’
+### 284: The Cars, ‘The Cars’
 
 Elektra, 1978
 
@@ -2271,7 +2270,7 @@ Elektra, 1978
 
 ![The Cars, ‘The Cars’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137118-2c6baa2c235357b0ecc7b8d569d6a89ecb719010.jpg?crop=1240:1240&width=300 "The Cars, ‘The Cars’")
 
-###285: Stevie Wonder, ‘Music of My Mind’
+### 285: Stevie Wonder, ‘Music of My Mind’
 
 Tamla, 1972
 
@@ -2279,7 +2278,7 @@ Recording after an onerous contract with Motown had expired, a newly empowered W
 
 ![Stevie Wonder, ‘Music of My Mind’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137117-2cad69129f7e060e4f879af2421ae1df7531144d.jpg?crop=1240:1240&width=300 "Stevie Wonder, ‘Music of My Mind’")
 
-###286: Al Green, ‘I’m Still in Love With You’
+### 286: Al Green, ‘I’m Still in Love With You’
 
 Hi, 1972
 
@@ -2287,7 +2286,7 @@ After topping the charts with Let's Stay Together, Green released his second LP 
 
 ![Al Green, ‘I’m Still in Love With You’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137105-7758a01921f4faa051902b83ce69cb25cdda8ba6.jpg?crop=1240:1240&width=300 "Al Green, ‘I’m Still in Love With You’")
 
-###287: X, ‘Los Angeles’
+### 287: X, ‘Los Angeles’
 
 Slash, 1980
 
@@ -2295,7 +2294,7 @@ The quintessential L.A. punk band made the first great West Coast punk album wit
 
 ![X, ‘Los Angeles’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137104-100850085af0de754732c8590e5dfe7f8f83d803.jpg?crop=1240:1240&width=300 "X, ‘Los Angeles’")
 
-###288: Grateful Dead, ‘Anthem of the Sun’
+### 288: Grateful Dead, ‘Anthem of the Sun’
 
 Warner Bros., 1968
 
@@ -2303,7 +2302,7 @@ The Dead's second album was built from multiple live performances and studio tak
 
 ![Grateful Dead, ‘Anthem of the Sun’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137103-56178bfc050c470513b01b475dbb7b7057245d2e.jpg?crop=1240:1240&width=300 "Grateful Dead, ‘Anthem of the Sun’")
 
-###289: The Kinks, ‘Something Else by the Kinks’
+### 289: The Kinks, ‘Something Else by the Kinks’
 
 Reprise, 1968
 
@@ -2311,7 +2310,7 @@ The Kinks' most tuneful, reflective album is anchored by two of their greatest s
 
 ![The Kinks, ‘Something Else by the Kinks’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137102-191d29afede686a0cb7110687760d6a62e16956d.jpg?crop=1240:1240&width=300 "The Kinks, ‘Something Else by the Kinks’")
 
-###290: Al Green, ‘Call Me’
+### 290: Al Green, ‘Call Me’
 
 Hi, 1973
 
@@ -2319,7 +2318,7 @@ By the time they recorded the graceful, almost perfectly rendered Call Me, Green
 
 ![Al Green, ‘Call Me’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137101-f0c0d4eddf3d74c2489388afca3544cf9a8cbf4d.jpg?crop=1240:1240&width=300 "Al Green, ‘Call Me’")
 
-###291: Talking Heads, ‘Talking Heads: 77’
+### 291: Talking Heads, ‘Talking Heads: 77’
 
 Sire, 1977
 
@@ -2327,7 +2326,7 @@ The Heads wore button-down shirts and embraced a tightly wound normality as rebe
 
 ![Talking Heads, ‘Talking Heads: 77’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137100-00902a438c105f822ab4880c767e9e9fddee826b.jpg?crop=1240:1240&width=300 "Talking Heads, ‘Talking Heads: 77’")
 
-###292: Bob Dylan and the Band, ‘The Basement Tapes’
+### 292: Bob Dylan and the Band, ‘The Basement Tapes’
 
 Columbia, 1975
 
@@ -2335,7 +2334,7 @@ A folk-rock free-for-all recorded in 1967 at the Band's house near Woodstock, Ne
 
 ![Bob Dylan and the Band, ‘The Basement Tapes’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137099-d87e80ddb9903e4b5328a6135076215d1b1e61a6.jpg?crop=1240:1240&width=300 "Bob Dylan and the Band, ‘The Basement Tapes’")
 
-###293: The Velvet Underground, ‘White Light/White Heat’
+### 293: The Velvet Underground, ‘White Light/White Heat’
 
 Verve, 1968
 
@@ -2343,7 +2342,7 @@ Drowning their songs in guitar fuzz and drone, VU made the most extreme disc in 
 
 ![The Velvet Underground, ‘White Light/White Heat’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137098-812a226875c09c79cbc70ee1b6376a0c2737962f.jpg?crop=1240:1240&width=300 "The Velvet Underground, ‘White Light/White Heat’")
 
-###294: MC5, ‘Kick Out the Jams’
+### 294: MC5, ‘Kick Out the Jams’
 
 Elektra, 1969
 
@@ -2351,7 +2350,7 @@ It's the ultimate rock salute: "Kick out the jams, motherfuckers!" Recorded live
 
 ![MC5, ‘Kick Out the Jams’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137097-0bbe27cc13c562d86f4cb7ea6c44dabc9d370f48.jpg?crop=1240:1240&width=300 "MC5, ‘Kick Out the Jams’")
 
-###295: Leonard Cohen, ‘Songs of Love and Hate’
+### 295: Leonard Cohen, ‘Songs of Love and Hate’
 
 Columbia, 1971
 
@@ -2359,7 +2358,7 @@ The Montreal poet-turned-songwriter's most intense album. Cohen strums an acoust
 
 ![Leonard Cohen, ‘Songs of Love and Hate’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137096-86a3f3bb9740de18935dcb44838126437dae714f.jpg?crop=1240:1240&width=300 "Leonard Cohen, ‘Songs of Love and Hate’")
 
-###296: The Smiths, ‘Meat Is Murder’
+### 296: The Smiths, ‘Meat Is Murder’
 
 Sire, 1985
 
@@ -2367,7 +2366,7 @@ Inspired by Can riffs and bookended by lengthy, brutal songs about corporal puni
 
 ![The Smiths, ‘Meat Is Murder’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137095-bd954fb9e4c0b42cc1ad5639cb057e1ccb4bc709.jpg?crop=1240:1240&width=300 "The Smiths, ‘Meat Is Murder’")
 
-###297: The Mothers of Invention, ‘We’re Only in It for the Money’
+### 297: The Mothers of Invention, ‘We’re Only in It for the Money’
 
 Verve, 1968
 
@@ -2375,7 +2374,7 @@ A milestone of studio mischief and a merciless satire of anything that pissed Fr
 
 ![The Mothers of Invention, ‘We’re Only in It for the Money’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137094-0adb633d8d246de8f3814ca782a3158b4928a4e6.jpg?crop=1240:1240&width=300 "The Mothers of Invention, ‘We’re Only in It for the Money’")
 
-###298: Kanye West, ‘The College Dropout’
+### 298: Kanye West, ‘The College Dropout’
 
 Roc-A-Fella, 2004
 
@@ -2383,7 +2382,7 @@ On his debut, the self-proclaimed "first [rapper] with a Benz and a backpack" be
 
 ![Kanye West, ‘The College Dropout’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137093-1b99c8dcba97db5d61c339d047cb4a7c478cf1bb.jpg?crop=1240:1240&width=300 "Kanye West, ‘The College Dropout’")
 
-###299: Weezer, ‘Weezer’
+### 299: Weezer, ‘Weezer’
 
 DGC, 1994
 
@@ -2391,7 +2390,7 @@ When it came out, Weezer's debut was merely a cool, quirky power-pop album with 
 
 ![Weezer, ‘Weezer’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137092-4a32eeb2b9b5a1826835965249982b7c1596d7b6.jpg?crop=1240:1240&width=300 "Weezer, ‘Weezer’")
 
-###300: Black Sabbath, ‘Master of Reality’
+### 300: Black Sabbath, ‘Master of Reality’
 
 Warner Bros., 1971
 
@@ -2399,7 +2398,7 @@ The greatest sludge-metal band of them all in its prime. Paranoid may have bigge
 
 ![Black Sabbath, ‘Master of Reality’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137091-473edff6fecaf2247d1e8abd564c5bd43919cf8e.jpg?crop=1240:1240&width=300 "Black Sabbath, ‘Master of Reality’")
 
-###301: Dolly Parton, ‘Coat of Many Colors’
+### 301: Dolly Parton, ‘Coat of Many Colors’
 
 RCA Victor, 1971
 
@@ -2407,7 +2406,7 @@ Parton's starkest, most affecting album. The title track is about wearing rags b
 
 ![Dolly Parton, ‘Coat of Many Colors’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137090-07c0fc1a32777459d688a91e4b119e09a4567e4f.jpg?crop=1240:1240&width=300 "Dolly Parton, ‘Coat of Many Colors’")
 
-###302: Public Enemy, ‘Fear of a Black Planet’
+### 302: Public Enemy, ‘Fear of a Black Planet’
 
 Def Jam, 1990
 
@@ -2415,7 +2414,7 @@ Public Enemy expanded their widescreen vision of hip-hop on their third album, w
 
 ![Public Enemy, ‘Fear of a Black Planet’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137089-bdf51aba1d7ed043c7ce6fd7886a760537018859.jpg?crop=1240:1240&width=300 "Public Enemy, ‘Fear of a Black Planet’")
 
-###303: Bob Dylan, ‘John Wesley Harding’
+### 303: Bob Dylan, ‘John Wesley Harding’
 
 Columbia, 1967
 
@@ -2423,7 +2422,7 @@ Recovering from his 1966 motorcycle crash, Dylan took a left turn into country m
 
 ![Bob Dylan, ‘John Wesley Harding’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137088-c082c593392308e286e68b1f1a8130b732b0e1fb.jpg?crop=1240:1240&width=300 "Bob Dylan, ‘John Wesley Harding’")
 
-###304: Jeff Buckley, ‘Grace’
+### 304: Jeff Buckley, ‘Grace’
 
 Columbia, 1994
 
@@ -2431,7 +2430,7 @@ Buckley had a voice like an oversexed angel, and the songs here shimmer and twis
 
 ![Jeff Buckley, ‘Grace’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137087-8e43cf7dfe33960c8b4b5611e126526e250025ab.jpg?crop=1240:1240&width=300 "Jeff Buckley, ‘Grace’")
 
-###305: Lucinda Williams, ‘Car Wheels on a Gravel Road’
+### 305: Lucinda Williams, ‘Car Wheels on a Gravel Road’
 
 Mercury, 1998
 
@@ -2439,7 +2438,7 @@ It took three torturous years to finish this alt-country masterwork, but it was 
 
 ![Lucinda Williams, ‘Car Wheels on a Gravel Road’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137086-33ac9e7a3254dcfd26fc236670255f9a3c1e8dc2.jpg?crop=1240:1240&width=300 "Lucinda Williams, ‘Car Wheels on a Gravel Road’")
 
-###306: Beck, ‘Odelay’
+### 306: Beck, ‘Odelay’
 
 DGC, 1996
 
@@ -2447,7 +2446,7 @@ Burrowing into the studio with sampledelic producers the Dust Brothers, Beck cam
 
 ![Beck, ‘Odelay’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137085-bd86f3d05ed38fc4ae4ea425c8577bcc748a0bd5.jpg?crop=1240:1240&width=300 "Beck, ‘Odelay’")
 
-###307: The Beatles, ‘A Hard Day’s Night’
+### 307: The Beatles, ‘A Hard Day’s Night’
 
 Parlophone, 1964
 
@@ -2455,7 +2454,7 @@ The Richard Lester film showed the Beatles' charm. The soundtrack deepened liste
 
 ![The Beatles, ‘A Hard Day’s Night’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136746-6e5c3ad5db903eaa7700e4b1783f45e1a226ecd4.jpg?crop=1240:1240&width=300 "The Beatles, ‘A Hard Day’s Night’")
 
-###308: Frank Sinatra, ‘Songs for Swingin’ Lovers!’
+### 308: Frank Sinatra, ‘Songs for Swingin’ Lovers!’
 
 Capitol, 1956
 
@@ -2463,7 +2462,7 @@ An album that meant to deny the rock & roll that was then changing America – a
 
 ![Frank Sinatra, ‘Songs for Swingin’ Lovers!’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137084-66f036bbce97f7103a6678431288837eafbbdd22.jpg?crop=1240:1240&width=300 "Frank Sinatra, ‘Songs for Swingin’ Lovers!’")
 
-###309: Creedence Clearwater Revival, ‘Willy and the Poor Boys’
+### 309: Creedence Clearwater Revival, ‘Willy and the Poor Boys’
 
 Fantasy, 1969
 
@@ -2471,7 +2470,7 @@ The best of the six albums CCR released between 1968 and 1970; John Fogerty is y
 
 ![Creedence Clearwater Revival, ‘Willy and the Poor Boys’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136742-cdd78a507f2f5f195bbe5c1e4ff0e6decd7d7a6d.jpg?crop=1240:1240&width=300 "Creedence Clearwater Revival, ‘Willy and the Poor Boys’")
 
-###310: Red Hot Chili Peppers, ‘Blood Sugar Sex Magik’
+### 310: Red Hot Chili Peppers, ‘Blood Sugar Sex Magik’
 
 Warner Bros., 1991
 
@@ -2479,7 +2478,7 @@ The Peppers' high point – with John Frusciante's energizing, soulful guitar ri
 
 ![Red Hot Chili Peppers, ‘Blood Sugar Sex Magik’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137083-2788f292b719280e7bae5068f6c945748f38efa0.jpg?crop=1240:1240&width=300 "Red Hot Chili Peppers, ‘Blood Sugar Sex Magik’")
 
-###311: Various Artists, ‘The Sun Records Collection’
+### 311: Various Artists, ‘The Sun Records Collection’
 
 Rhino/RCA, 1994
 
@@ -2487,7 +2486,7 @@ Blues without polish, country without corn, and rockabilly played with brainless
 
 ![Various Artists, ‘The Sun Records Collection’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137082-33ddcee01ff6cf9b392777c439f070aa80918948.jpg?crop=1240:1240&width=300 "Various Artists, ‘The Sun Records Collection’")
 
-###312: Jane’s Addiction, ‘Nothing’s Shocking’
+### 312: Jane’s Addiction, ‘Nothing’s Shocking’
 
 Warner Bros., 1988
 
@@ -2495,7 +2494,7 @@ They thought Led Zeppelin were a funk band, and when they learned this was not t
 
 ![Jane’s Addiction, ‘Nothing’s Shocking’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137040-76cf0240139299cded020f3f0ce00e9509e60ed4.jpg?crop=1240:1240&width=300 "Jane’s Addiction, ‘Nothing’s Shocking’")
 
-###313: Nirvana, ‘Unplugged’
+### 313: Nirvana, ‘Unplugged’
 
 Geffen, 1994
 
@@ -2503,7 +2502,7 @@ Nirvana shine brightly on this striking live set because the volume is turned do
 
 ![Nirvana, ‘Unplugged’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137041-c9b48b0ba2092f8bb49c7190e90cf54da87cb409.jpg?crop=1240:1240&width=300 "Nirvana, ‘Unplugged’")
 
-###314: Lauryn Hill, ‘The Miseducation of Lauryn Hill’
+### 314: Lauryn Hill, ‘The Miseducation of Lauryn Hill’
 
 Ruffhouse, 1998
 
@@ -2511,7 +2510,7 @@ Hill took Seventies soul and made it boom and signify to the hip-hop generation 
 
 ![Lauryn Hill, ‘The Miseducation of Lauryn Hill’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137042-e204a7d0ec7f1b48ee818f3d20ae97a4e4cd1fb5.jpg?crop=1240:1240&width=300 "Lauryn Hill, ‘The Miseducation of Lauryn Hill’")
 
-###315: Tom Petty and the Heartbreakers, ‘Damn the Torpedoes’
+### 315: Tom Petty and the Heartbreakers, ‘Damn the Torpedoes’
 
 Backstreet, 1979
 
@@ -2519,7 +2518,7 @@ With hair like Mick Jagger's and a voice like Bob Dylan's in tune, Petty and his
 
 ![Tom Petty and the Heartbreakers, ‘Damn the Torpedoes’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137043-e720e2ab97e6a906d10cd48c14ba0d4bddb8f7ac.jpg?crop=1240:1240&width=300 "Tom Petty and the Heartbreakers, ‘Damn the Torpedoes’")
 
-###316: The Velvet Underground, ‘The Velvet Underground’
+### 316: The Velvet Underground, ‘The Velvet Underground’
 
 MGM, 1969
 
@@ -2527,7 +2526,7 @@ The album that turned folk music inside out. VU began as a black-booted antidote
 
 ![The Velvet Underground, ‘The Velvet Underground’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137044-2d5d8aba024aef2b982eba694497142d9c9da4cb.jpg?crop=1240:1240&width=300 "The Velvet Underground, ‘The Velvet Underground’")
 
-###317: Pixies, ‘Surfer Rosa’
+### 317: Pixies, ‘Surfer Rosa’
 
 4AD/Elektra, 1988
 
@@ -2535,7 +2534,7 @@ Smack in between hardcore punk and alternative, it was difficult to make sense 
 
 ![Pixies, ‘Surfer Rosa’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137045-80d6bb5106dc0670120c06ac6e808f78ceb1b74c.jpg?crop=1240:1240&width=300 "Pixies, ‘Surfer Rosa’")
 
-###318: The O’Jays, ‘Back Stabbers’
+### 318: The O’Jays, ‘Back Stabbers’
 
 Philadelphia International, 1972
 
@@ -2543,7 +2542,7 @@ After Vietnam and Watergate, soul music slipped into darkness in the early Seven
 
 ![The O’Jays, ‘Back Stabbers’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137046-7d85815107309d7f4c4f3304d450ba43c6bb23a8.jpg?crop=1240:1240&width=300 "The O’Jays, ‘Back Stabbers’")
 
-###319: The Wailers, ‘Burnin’ ‘
+### 319: The Wailers, ‘Burnin’ ‘
 
 Island, 1973
 
@@ -2551,7 +2550,7 @@ Righteous and seriously in the pocket, this is the last Wailers album with Peter
 
 ![The Wailers, ‘Burnin’ ‘](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137047-0e962d1d840dd9afce49cfd5a3330a333efa8068.jpg?crop=1240:1240&width=300 "The Wailers, ‘Burnin’ ‘")
 
-###320: Radiohead, ‘Amnesiac’
+### 320: Radiohead, ‘Amnesiac’
 
 Capitol, 2001
 
@@ -2559,7 +2558,7 @@ The greatest sequel since The Godfather: Part II. The second half of the one-two
 
 ![Radiohead, ‘Amnesiac’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137048-2391a7040c74d817c932baf081b5a44e4f67ef6e.jpg?crop=1240:1240&width=300 "Radiohead, ‘Amnesiac’")
 
-###321: Nick Drake, ‘Pink Moon’
+### 321: Nick Drake, ‘Pink Moon’
 
 Island, 1972
 
@@ -2567,7 +2566,7 @@ Drake recorded his last album in a couple of nights, delivered the tapes to Isla
 
 ![Nick Drake, ‘Pink Moon’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137049-b93a0f0b8c81e527a4f00d7bb6042f82e83f3d44.jpg?crop=1240:1240&width=300 "Nick Drake, ‘Pink Moon’")
 
-###322: Randy Newman, ‘Sail Away’
+### 322: Randy Newman, ‘Sail Away’
 
 Reprise, 1972
 
@@ -2575,7 +2574,7 @@ Producer Lenny Waronker called him the King of the Suburban Blues Singers. This 
 
 ![Randy Newman, ‘Sail Away’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137050-67ca9fac857ebe429f076a2814ddccd157266213.jpg?crop=1240:1240&width=300 "Randy Newman, ‘Sail Away’")
 
-###323: The Police, ‘Ghost in the Machine’
+### 323: The Police, ‘Ghost in the Machine’
 
 A&M, 1981
 
@@ -2583,7 +2582,7 @@ Here, the previously punkish trio added synth strings and politics, and blew up 
 
 ![The Police, ‘Ghost in the Machine’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137051-3c124fb81356cc6739b0c0c374d742e3a4a42472.jpg?crop=1240:1240&width=300 "The Police, ‘Ghost in the Machine’")
 
-###324: David Bowie, ‘Station to Station’
+### 324: David Bowie, ‘Station to Station’
 
 RCA, 1976
 
@@ -2591,7 +2590,7 @@ The Kraut-disco title track is where Bowie proclaims himself the Thin White Duke
 
 ![David Bowie, ‘Station to Station’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137052-351ff161424883f85c4db9fa80e56888d3cd77d3.jpg?crop=1240:1240&width=300 "David Bowie, ‘Station to Station’")
 
-###325: Eric Clapton, ‘Slowhand’
+### 325: Eric Clapton, ‘Slowhand’
 
 RSO, 1977
 
@@ -2599,7 +2598,7 @@ RSO, 1977
 
 ![Eric Clapton, ‘Slowhand’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137053-92b3c1b8ac077ed9e729bbaf598332a9857d73b2.jpg?crop=1240:1240&width=300 "Eric Clapton, ‘Slowhand’")
 
-###326: The Cure, ‘Disintegration’
+### 326: The Cure, ‘Disintegration’
 
 Elektra, 1989
 
@@ -2607,7 +2606,7 @@ According to the kids on South Park, this is the best album ever made. According
 
 ![The Cure, ‘Disintegration’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137054-eb2d0bbfc8b18d9536b1abc2c972b981693df4db.jpg?crop=1240:1240&width=300 "The Cure, ‘Disintegration’")
 
-###327: Liz Phair, ‘Exile in Guyville’
+### 327: Liz Phair, ‘Exile in Guyville’
 
 Matador, 1993
 
@@ -2615,7 +2614,7 @@ A studio expansion of Phair's homemade Girlysound cassettes, Exile's frank sex t
 
 ![Liz Phair, ‘Exile in Guyville’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137055-a6f7b945ff985fd7f33e6a70305cdc4a3c1adf29.jpg?crop=1240:1240&width=300 "Liz Phair, ‘Exile in Guyville’")
 
-###328: Sonic Youth, ‘Daydream Nation’
+### 328: Sonic Youth, ‘Daydream Nation’
 
 Enigma, 1988
 
@@ -2623,7 +2622,7 @@ Sonic Youth have had a long, brilliant career making trippy art punk, and this i
 
 ![Sonic Youth, ‘Daydream Nation’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137056-d232b6e969cf4d23ed65348ac85265211da278ac.jpg?crop=1240:1240&width=300 "Sonic Youth, ‘Daydream Nation’")
 
-###329: James Brown, ‘In the Jungle Groove’
+### 329: James Brown, ‘In the Jungle Groove’
 
 Polydor, 1986
 
@@ -2631,7 +2630,7 @@ A compilation of Mr. Dynamite's singles from '69 to '70, including the endlessly
 
 ![James Brown, ‘In the Jungle Groove’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137057-d416392d008066e8b937afcf1b1189c60e13cd33.jpg?crop=1240:1240&width=300 "James Brown, ‘In the Jungle Groove’")
 
-###330: Neil Young, ‘Tonight’s the Night’
+### 330: Neil Young, ‘Tonight’s the Night’
 
 Reprise, 1975
 
@@ -2639,7 +2638,7 @@ Young made his darkest, most emotionally frayed album as a tribute to two friend
 
 ![Neil Young, ‘Tonight’s the Night’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137058-af69cbf1e44c4d4809ff12b8ce8bbc13f64361ed.jpg?crop=1240:1240&width=300 "Neil Young, ‘Tonight’s the Night’")
 
-###331: The Beatles, ‘Help!’
+### 331: The Beatles, ‘Help!’
 
 Capitol, 1965
 
@@ -2647,7 +2646,7 @@ The moptops' second movie was a Swinging London goof, but the soundtrack include
 
 ![The Beatles, ‘Help!’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137059-fed5e932be924acebe1af07120b149e7ca68b91d.jpg?crop=1240:1240&width=300 "The Beatles, ‘Help!’")
 
-###332: Richard and Linda Thompson, ‘Shoot Out the Lights’
+### 332: Richard and Linda Thompson, ‘Shoot Out the Lights’
 
 Hannibal, 1982
 
@@ -2655,7 +2654,7 @@ The British folk-rock duo's last album together is a harrowing portrait of a mar
 
 ![Richard and Linda Thompson, ‘Shoot Out the Lights’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137060-8509b66fd540b93e7bac5b8febc7bfcf553e00e1.jpg?crop=1240:1240&width=300 "Richard and Linda Thompson, ‘Shoot Out the Lights’")
 
-###333: X, ‘Wild Gift’
+### 333: X, ‘Wild Gift’
 
 Slash, 1981
 
@@ -2663,7 +2662,7 @@ John Doe and Exene Cervenka harmonize about doomed love over L.A. garage-rock th
 
 ![X, ‘Wild Gift’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137061-de29cc0bf00adde9dfda8038ce2a89c62ba44dd9.jpg?crop=1240:1240&width=300 "X, ‘Wild Gift’")
 
-###334: Graham Parker, ‘Squeezing Out Sparks’
+### 334: Graham Parker, ‘Squeezing Out Sparks’
 
 Arista, 1979
 
@@ -2671,7 +2670,7 @@ An angry young crank in the mode of Elvis Costello, this former gas-station atte
 
 ![Graham Parker, ‘Squeezing Out Sparks’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137062-bf6b6d453df24c802f8e50068f7f997f51aec34f.jpg?crop=1240:1240&width=300 "Graham Parker, ‘Squeezing Out Sparks’")
 
-###335: Soundgarden, ‘Superunknown’
+### 335: Soundgarden, ‘Superunknown’
 
 A&M, 1994
 
@@ -2679,7 +2678,7 @@ They were the Seattle punk scene's headbanging answer to Led Zeppelin II. But th
 
 ![Soundgarden, ‘Superunknown’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137063-5a7da984eb6de40bf549cb422860cb8cdb49bc9f.jpg?crop=1240:1240&width=300 "Soundgarden, ‘Superunknown’")
 
-###336: Radiohead, ‘In Rainbows’
+### 336: Radiohead, ‘In Rainbows’
 
 Self-released, 2007
 
@@ -2687,7 +2686,7 @@ After the pay-what-you-like release hoopla died down, what were fans left with? 
 
 ![Radiohead, ‘In Rainbows’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137064-d685efa5b778b2c19f76ed7fc97024a829c9f7ce.jpg?crop=1240:1240&width=300 "Radiohead, ‘In Rainbows’")
 
-###337: Jethro Tull, ‘Aqualung’
+### 337: Jethro Tull, ‘Aqualung’
 
 Chrysalis, 1971
 
@@ -2695,7 +2694,7 @@ Tull were hairy prog-rock philosophers who decried organized religion ("Hymn 43"
 
 ![Jethro Tull, ‘Aqualung’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137065-efaec9b9cc50a0fee84c31b8f4abfb92bbb9f9d9.jpg?crop=1240:1240&width=300 "Jethro Tull, ‘Aqualung’")
 
-###338: Big Brother and the Holding Company, ‘Cheap Thrills’
+### 338: Big Brother and the Holding Company, ‘Cheap Thrills’
 
 CBS, 1968
 
@@ -2703,7 +2702,7 @@ These San Francisco acid rockers were the most simpatico band Janis Joplin ever 
 
 ![Big Brother and the Holding Company, ‘Cheap Thrills’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137066-6c93f52ce8772d6deb5765af41f01367800704f2.jpg?crop=1240:1240&width=300 "Big Brother and the Holding Company, ‘Cheap Thrills’")
 
-###339: Tom Waits, ‘The Heart of Saturday Night’
+### 339: Tom Waits, ‘The Heart of Saturday Night’
 
 Asylum, 1974
 
@@ -2711,7 +2710,7 @@ By the time Waits made his second album, he'd fully developed his talent for gro
 
 ![Tom Waits, ‘The Heart of Saturday Night’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137022-497cd6fd5882f193c39336de6171cb62a19fbd52.jpg?crop=1240:1240&width=300 "Tom Waits, ‘The Heart of Saturday Night’")
 
-###340: Black Flag, ‘Damaged’
+### 340: Black Flag, ‘Damaged’
 
 SST, 1981
 
@@ -2719,7 +2718,7 @@ MCA Records refused to release this, denouncing it as "immoral" and "anti-parent
 
 ![Black Flag, ‘Damaged’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137023-f5cf0d9d0a640f67b23548429e9c612795d55eed.jpg?crop=1240:1240&width=300 "Black Flag, ‘Damaged’")
 
-###341: Moby, ‘Play’
+### 341: Moby, ‘Play’
 
 V2, 1999
 
@@ -2727,7 +2726,7 @@ Play was the techno album that proved a Mac could have a soul. Moby took ancient
 
 ![Moby, ‘Play’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137024-fb630e34d1a830646ecb43897b508c704522c0f6.jpg?crop=1240:1240&width=300 "Moby, ‘Play’")
 
-###342: Depeche Mode, ‘Violator’
+### 342: Depeche Mode, ‘Violator’
 
 Sire, 1990
 
@@ -2735,7 +2734,7 @@ For many Depeche Mode fans, Violator is the crowning glory of the boys' black-le
 
 ![Depeche Mode, ‘Violator’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137025-db8694845154db647271230401c11533470dde4b.jpg?crop=1240:1240&width=300 "Depeche Mode, ‘Violator’")
 
-###343: Meat Loaf, ‘Bat Out of Hell’
+### 343: Meat Loaf, ‘Bat Out of Hell’
 
 Epic, 1977
 
@@ -2743,7 +2742,7 @@ Meat Loaf's megaselling, megabombastic mega-album was written by pianist Jim Ste
 
 ![Meat Loaf, ‘Bat Out of Hell’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137026-f1b6703be10a9b0d6aa50c0a36c270abc7ffffd7.jpg?crop=1240:1240&width=300 "Meat Loaf, ‘Bat Out of Hell’")
 
-###344: Lou Reed, ‘Berlin’
+### 344: Lou Reed, ‘Berlin’
 
 RCA, 1973
 
@@ -2751,7 +2750,7 @@ Reed followed up his breakthrough album, Transformer, with "my version of Hamlet
 
 ![Lou Reed, ‘Berlin’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137027-386e1e7b0d919ff9546182b6985c878abb49d5d6.jpg?crop=1240:1240&width=300 "Lou Reed, ‘Berlin’")
 
-###345: Talking Heads, ‘Stop Making Sense’
+### 345: Talking Heads, ‘Stop Making Sense’
 
 Sire, 1984
 
@@ -2759,7 +2758,7 @@ This soundtrack to Jonathan Demme's 1984 concert film functions as a great band 
 
 ![Talking Heads, ‘Stop Making Sense’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137028-857c37b98c404e1b5d1b7c8dbe118e52aa354a59.jpg?crop=1240:1240&width=300 "Talking Heads, ‘Stop Making Sense’")
 
-###346: De La Soul, ‘3 Feet High and Rising’
+### 346: De La Soul, ‘3 Feet High and Rising’
 
 Tommy Boy, 1989
 
@@ -2767,7 +2766,7 @@ At the end of the Eighties, De La declared a "D.A.I.S.Y. Age," which stood for "
 
 ![De La Soul, ‘3 Feet High and Rising’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137029-82071ba43ef5893b11e5d3ca72d278f245ba1d19.jpg?crop=1240:1240&width=300 "De La Soul, ‘3 Feet High and Rising’")
 
-###347: Pink Floyd, ‘The Piper at the Gates of Dawn’
+### 347: Pink Floyd, ‘The Piper at the Gates of Dawn’
 
 Tower, 1967
 
@@ -2775,7 +2774,7 @@ Tower, 1967
 
 ![Pink Floyd, ‘The Piper at the Gates of Dawn’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137030-286dcc9a1b775c7fb167c778cd993b07e3a261bc.jpg?crop=1240:1240&width=300 "Pink Floyd, ‘The Piper at the Gates of Dawn’")
 
-###348: Muddy Waters, ‘At Newport 1960’
+### 348: Muddy Waters, ‘At Newport 1960’
 
 Chess, 1960
 
@@ -2783,7 +2782,7 @@ A stomping live document of the period when Waters' Chicago blues started reachi
 
 ![Muddy Waters, ‘At Newport 1960’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137031-334ebe654d7f14c902c0d59e6ed108083afcbd21.jpg?crop=1240:1240&width=300 "Muddy Waters, ‘At Newport 1960’")
 
-###349: Jay-Z, ‘The Black Album’
+### 349: Jay-Z, ‘The Black Album’
 
 Roc-A-Fella, 2003
 
@@ -2791,7 +2790,7 @@ Jay-Z's "farewell record" proves once again that he's "pound for pound . .�
 
 ![Jay-Z, ‘The Black Album’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137032-31ad7ad106b8bf768507532f83154096de5f8c3e.jpg?crop=1240:1240&width=300 "Jay-Z, ‘The Black Album’")
 
-###350: The Yardbirds, ‘Roger the Engineer (a.k.a. Over Under Sideways Down)’
+### 350: The Yardbirds, ‘Roger the Engineer (a.k.a. Over Under Sideways Down)’
 
 Epic, 1966
 
@@ -2799,7 +2798,7 @@ Jeff Beck was in the Yardbirds only briefly, but here he pushed the Brit blues r
 
 ![The Yardbirds, ‘Roger the Engineer (a.k.a. Over Under Sideways Down)’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137033-43df32bc9de636bde47e5352bf6263c02f6be512.jpg?crop=1240:1240&width=300 "The Yardbirds, ‘Roger the Engineer (a.k.a. Over Under Sideways Down)’")
 
-###351: Neil Young and Crazy Horse, ‘Rust Never Sleeps’
+### 351: Neil Young and Crazy Horse, ‘Rust Never Sleeps’
 
 Reprise, 1979
 
@@ -2807,7 +2806,7 @@ This live Rust is essential Young, full of delicate acoustic songs and ragged Cr
 
 ![Neil Young and Crazy Horse, ‘Rust Never Sleeps’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137034-55152a2702cc9634cf7820e629f4c8e4cd432b0c.jpg?crop=1240:1240&width=300 "Neil Young and Crazy Horse, ‘Rust Never Sleeps’")
 
-###352: Dire Straits, ‘Brothers in Arms’
+### 352: Dire Straits, ‘Brothers in Arms’
 
 Warner Bros., 1985
 
@@ -2815,7 +2814,7 @@ Mark Knopfler started writing "Money for Nothing" when he overheard a New York a
 
 ![Dire Straits, ‘Brothers in Arms’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137035-3f43d3a4d193d7990a6e3980a2574ab5d8b791c7.jpg?crop=1240:1240&width=300 "Dire Straits, ‘Brothers in Arms’")
 
-###353: Kanye West, ‘My Beautiful Dark Twisted Fantasy’
+### 353: Kanye West, ‘My Beautiful Dark Twisted Fantasy’
 
 Def Jam/Roc-A-Fella, 2010
 
@@ -2823,7 +2822,7 @@ Epic hip-hop as messily inspired as Kanye's life, with Elton John pianos, vocode
 
 ![Kanye West, ‘My Beautiful Dark Twisted Fantasy’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137036-e8b8728a681904cc2ae44662f645562dbc37cfdb.jpg?crop=1240:1240&width=300 "Kanye West, ‘My Beautiful Dark Twisted Fantasy’")
 
-###354: Billy Joel, ’52nd Street’
+### 354: Billy Joel, ’52nd Street’
 
 Columbia, 1978
 
@@ -2831,7 +2830,7 @@ The heavy roadwork dictated by the success of The Stranger produced a leaner, ro
 
 ![Billy Joel, ’52nd Street’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137037-dbe90ed210b2cfe577afff4a231fcec06eb1233d.jpg?crop=1240:1240&width=300 "Billy Joel, ’52nd Street’")
 
-###355: The Yardbirds, ‘Having a Rave Up With the Yardbirds’
+### 355: The Yardbirds, ‘Having a Rave Up With the Yardbirds’
 
 Epic, 1965
 
@@ -2839,7 +2838,7 @@ Freed from Eric Clapton's blues purism and spurred by Jeff Beck's reckless exhib
 
 ![The Yardbirds, ‘Having a Rave Up With the Yardbirds’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137038-ab0d5fbfdc77b40a24122ccb199f3a9248b3391a.jpg?crop=1240:1240&width=300 "The Yardbirds, ‘Having a Rave Up With the Yardbirds’")
 
-###356: Randy Newman, ’12 Songs’
+### 356: Randy Newman, ’12 Songs’
 
 Reprise, 1970
 
@@ -2847,7 +2846,7 @@ Newman's second disc was his artistic breakout, with Ry Cooder and a few of the 
 
 ![Randy Newman, ’12 Songs’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137039-b760b240d0788a4f18dcd3050f928d228257ecf5.jpg?crop=1240:1240&width=300 "Randy Newman, ’12 Songs’")
 
-###357: The Rolling Stones, ‘Between the Buttons’
+### 357: The Rolling Stones, ‘Between the Buttons’
 
 London, 1967
 
@@ -2855,7 +2854,7 @@ Andrew Loog Oldham called it their "most English" album. Music-hall piano abuts 
 
 ![The Rolling Stones, ‘Between the Buttons’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137018-ed197ada5aef46062f5382bb54184f9afbe2e164.jpg?crop=1240:1240&width=300 "The Rolling Stones, ‘Between the Buttons’")
 
-###358: Miles Davis, ‘Sketches of Spain’
+### 358: Miles Davis, ‘Sketches of Spain’
 
 Columbia, 1960
 
@@ -2863,7 +2862,7 @@ This collaboration between Davis and ­arranger Gil Evans took 15 orchestral ses
 
 ![Miles Davis, ‘Sketches of Spain’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137020-64c5eaaccb1a3ca7611f3db104573db274b903c8.jpg?crop=1240:1240&width=300 "Miles Davis, ‘Sketches of Spain’")
 
-###359: Elton John, ‘Honky Chateau’
+### 359: Elton John, ‘Honky Chateau’
 
 Uni, 1972
 
@@ -2871,7 +2870,7 @@ After a couple of weightier singer-songwriter outings, it was delightful to hear
 
 ![Elton John, ‘Honky Chateau’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136773-45944d1f98e10c631950530b66094c1ac421f485.jpg?crop=1240:1240&width=300 "Elton John, ‘Honky Chateau’")
 
-###360: Buzzcocks, ‘Singles Going Steady’
+### 360: Buzzcocks, ‘Singles Going Steady’
 
 I.R.S., 1979
 
@@ -2879,7 +2878,7 @@ Singles collects eight British 45s into a perfect punk album. This Manchester gr
 
 ![Buzzcocks, ‘Singles Going Steady’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136772-25002addf840fde6ea4d2e50ded57913d680149a.jpg?crop=1240:1240&width=300 "Buzzcocks, ‘Singles Going Steady’")
 
-###361: OutKast, ‘Stankonia’
+### 361: OutKast, ‘Stankonia’
 
 LaFace, 2000
 
@@ -2887,7 +2886,7 @@ LaFace, 2000
 
 ![OutKast, ‘Stankonia’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136771-da7e3f29f5fd9da7f9ecc99e42734aedf6153527.jpg?crop=1240:1240&width=300 "OutKast, ‘Stankonia’")
 
-###362: The Smashing Pumpkins, ‘Siamese Dream’
+### 362: The Smashing Pumpkins, ‘Siamese Dream’
 
 Virgin, 1993
 
@@ -2895,7 +2894,7 @@ On their second disc, the Pumpkins pushed further from alt-rock to a grander, or
 
 ![The Smashing Pumpkins, ‘Siamese Dream’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136770-f75a3defd32d772a37967368ca5144f349adff4f.jpg?crop=1240:1240&width=300 "The Smashing Pumpkins, ‘Siamese Dream’")
 
-###363: New Order, ‘Substance’
+### 363: New Order, ‘Substance’
 
 Qwest, 1987
 
@@ -2903,7 +2902,7 @@ This assemblage of 12-inch singles and remixes charts New Order's tranformation 
 
 ![New Order, ‘Substance’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136769-595630ef42badad77c0f79f25880c5f5379058bb.jpg?crop=1240:1240&width=300 "New Order, ‘Substance’")
 
-###364: The Doors, ‘L.A. Woman’
+### 364: The Doors, ‘L.A. Woman’
 
 Elektra, 1971
 
@@ -2911,7 +2910,7 @@ Jim Morrison said the Doors wanted to "get back to what we did originally: just 
 
 ![The Doors, ‘L.A. Woman’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136768-3a988ca1ad3de55c29438bb4e94b42bf8477eb50.jpg?crop=1240:1240&width=300 "The Doors, ‘L.A. Woman’")
 
-###365: Rage Against the Machine, ‘Rage Against the Machine’
+### 365: Rage Against the Machine, ‘Rage Against the Machine’
 
 Epic Associated, 1992
 
@@ -2919,7 +2918,7 @@ Singer Zack de la Rocha's radical politics found sympathetic muscle in Tom Morel
 
 ![Rage Against the Machine, ‘Rage Against the Machine’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136762-ead6973cfb00910e25c8fa6187d983ecf823088d.jpg?crop=1240:1240&width=300 "Rage Against the Machine, ‘Rage Against the Machine’")
 
-###366: Johnny Cash, ‘American Recordings’
+### 366: Johnny Cash, ‘American Recordings’
 
 American, 1994
 
@@ -2927,7 +2926,7 @@ After years of neglect from the country establishment, Cash returned with this s
 
 ![Johnny Cash, ‘American Recordings’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136766-73af6cda21873c965e49aba5525c5d5d2f30d6fd.jpg?crop=1240:1240&width=300 "Johnny Cash, ‘American Recordings’")
 
-###367: Madonna, ‘Ray of Light’
+### 367: Madonna, ‘Ray of Light’
 
 Maverick/Warner Bros., 1998
 
@@ -2935,7 +2934,7 @@ For her first disc as a mother, Madonna and producer William Orbit showed the wo
 
 ![Madonna, ‘Ray of Light’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136767-aa8907da9d426f8b9bf6644812760ae1bed73653.jpg?crop=1240:1240&width=300 "Madonna, ‘Ray of Light’")
 
-###368: The Eagles, ‘The Eagles’
+### 368: The Eagles, ‘The Eagles’
 
 Asylum, 1972
 
@@ -2943,7 +2942,7 @@ This debut created a new template for laid-back L.A. country rock. Behind the ba
 
 ![The Eagles, ‘The Eagles’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136756-d6dea808a538e3dbe7e57ee637e705d1e70b50bb.jpg?crop=1240:1240&width=300 "The Eagles, ‘The Eagles’")
 
-###369: The Smiths, ‘Louder Than Bombs’
+### 369: The Smiths, ‘Louder Than Bombs’
 
 Sire/Rough Trade, 1987
 
@@ -2951,7 +2950,7 @@ Designed to whet U.S. interest while the Smiths completed a new LP, this dazzlin
 
 ![The Smiths, ‘Louder Than Bombs’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136765-7b55788d237dc1e014b7ca688943f0d591eabed1.jpg?crop=1240:1240&width=300 "The Smiths, ‘Louder Than Bombs’")
 
-###370: Mott the Hoople, ‘Mott’
+### 370: Mott the Hoople, ‘Mott’
 
 Columbia, 1973
 
@@ -2959,7 +2958,7 @@ David Bowie's "All The Young Dudes" had revived Mott's career, but Ian Hunter "w
 
 ![Mott the Hoople, ‘Mott’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136764-78aeabeabc0a3e211dabf9ad2d95f100d713152d.jpg?crop=1240:1240&width=300 "Mott the Hoople, ‘Mott’")
 
-###371: Arctic Monkeys, ‘Whatever People Say I Am, That’s What I’m Not’
+### 371: Arctic Monkeys, ‘Whatever People Say I Am, That’s What I’m Not’
 
 Domino USA, 2006
 
@@ -2967,7 +2966,7 @@ Scrappy, lager-fueled tunes about being young and bored in a bleak Northern Engl
 
 ![Arctic Monkeys, ‘Whatever People Say I Am, That’s What I’m Not’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137021-d42156f4766f5144943b62c40c2c42a602139208.jpg?crop=1240:1240&width=300 "Arctic Monkeys, ‘Whatever People Say I Am, That’s What I’m Not’")
 
-###372: The Police, ‘Reggatta de Blanc’
+### 372: The Police, ‘Reggatta de Blanc’
 
 A&M, 1979
 
@@ -2975,7 +2974,7 @@ The Police may have been lumped in with U.K. punk, but Sting said the mission wa
 
 ![The Police, ‘Reggatta de Blanc’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136761-7c4e9b1a46e6dce7e011f56aa663741b7fbbed6b.jpg?crop=1240:1240&width=300 "The Police, ‘Reggatta de Blanc’")
 
-###373: Jefferson Airplane, ‘Volunteers’
+### 373: Jefferson Airplane, ‘Volunteers’
 
 RCA Victor, 1969
 
@@ -2983,7 +2982,7 @@ Guitarist Jorma Kaukonen called Paul Kantner's revolutionary cheerleading "naive
 
 ![Jefferson Airplane, ‘Volunteers’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136760-af859109d88b4c6ba2ab2b33f1a744eea103fdd5.jpg?crop=1240:1240&width=300 "Jefferson Airplane, ‘Volunteers’")
 
-###374: Roxy Music, ‘Siren’
+### 374: Roxy Music, ‘Siren’
 
 ATCO, 1975
 
@@ -2991,7 +2990,7 @@ ATCO, 1975
 
 ![Roxy Music, ‘Siren’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136759-c84c5d7cc793fa64fe6477fc0fab6d273c9cddc9.jpg?crop=1240:1240&width=300 "Roxy Music, ‘Siren’")
 
-###375: Jackson Browne, ‘Late for the Sky’
+### 375: Jackson Browne, ‘Late for the Sky’
 
 Asylum, 1974
 
@@ -2999,7 +2998,7 @@ On his dark third album, Browne explored, in the words of one Rolling Stone revi
 
 ![Jackson Browne, ‘Late for the Sky’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136758-dc22c1227a796a4aadf1fa09585e08e825be9d5d.jpg?crop=1240:1240&width=300 "Jackson Browne, ‘Late for the Sky’")
 
-###376: Björk, ‘Post’
+### 376: Björk, ‘Post’
 
 Elektra, 1995
 
@@ -3007,7 +3006,7 @@ Elektra, 1995
 
 ![Björk, ‘Post’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136757-827a9c428ae8bd5bdd22bb052bb78911394d1400.jpg?crop=1240:1240&width=300 "Björk, ‘Post’")
 
-###377: John Lee Hooker, ‘The Ultimate Collection 1948-1990’
+### 377: John Lee Hooker, ‘The Ultimate Collection 1948-1990’
 
 Rhino, 1991
 
@@ -3015,7 +3014,7 @@ Rhino, 1991
 
 ![John Lee Hooker, ‘The Ultimate Collection 1948-1990’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136755-46e505aaa6b3fbec81ea7e56d0142b34699e297d.jpg?crop=1240:1240&width=300 "John Lee Hooker, ‘The Ultimate Collection 1948-1990’")
 
-###378: Oasis, ‘(What’s the Story) Morning Glory?’
+### 378: Oasis, ‘(What’s the Story) Morning Glory?’
 
 Epic, 1995
 
@@ -3023,13 +3022,13 @@ With their second album, the fighting Gallagher brothers embraced the Stones and
 
 ![Oasis, ‘(What’s the Story) Morning Glory?’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136754-7fbd989b9a3b346ee696654d85ac3764828db9d7.jpg?crop=1240:1240&width=300 "Oasis, ‘(What’s the Story) Morning Glory?’")
 
-###379: TLC, ‘CrazySexyCool’
+### 379: TLC, ‘CrazySexyCool’
 
 Things were not well with TLC during the making of CrazySexyCool: Lisa "Left Eye" Lopes was lighting literal fires, and the trio would soon be filing for bankruptcy. But they emerged with the most effervescent and soulful girl-group R&B anyone had seen since the Supremes.
 
 ![TLC, ‘CrazySexyCool’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136753-cfda293e9e9fd4d48465512d443b5f76aed3e254.jpg?crop=1240:1240&width=300 "TLC, ‘CrazySexyCool’")
 
-###380: Toots and the Maytals, ‘Funky Kingston’
+### 380: Toots and the Maytals, ‘Funky Kingston’
 
 Island, 1975
 
@@ -3037,7 +3036,7 @@ Loose, funky, exuberant, Kingston is the quintessential document of Jamaica's gr
 
 ![Toots and the Maytals, ‘Funky Kingston’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136752-d4c3cffd5fb09b82c6d2a75a5f666affb704967d.jpg?crop=1240:1240&width=300 "Toots and the Maytals, ‘Funky Kingston’")
 
-###381: The Beach Boys, ‘Smile (2011 Version)’
+### 381: The Beach Boys, ‘Smile (2011 Version)’
 
 Capitol, 2011
 
@@ -3045,7 +3044,7 @@ The five-disc director's cut of the Greatest Pop Album Never Made is an unfinish
 
 ![The Beach Boys, ‘Smile (2011 Version)’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136902-c855ec81866eca28056323442bf6a2ec4c23aab9.jpg?crop=1240:1240&width=300 "The Beach Boys, ‘Smile (2011 Version)’")
 
-###382: Modern Lovers, ‘Modern Lovers’
+### 382: Modern Lovers, ‘Modern Lovers’
 
 Beserkly, 1976
 
@@ -3053,7 +3052,7 @@ Jonathan Richman moved from Boston to New York in the hopes of sleeping on Lou R
 
 ![Modern Lovers, ‘Modern Lovers’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136751-d733e6ff6d6cd3b3b299afe0d59d265757f73338.jpg?crop=1240:1240&width=300 "Modern Lovers, ‘Modern Lovers’")
 
-###383: Talking Heads, ‘More Songs About Buildings and Food’
+### 383: Talking Heads, ‘More Songs About Buildings and Food’
 
 Sire, 1978
 
@@ -3061,7 +3060,7 @@ The Heads' second album weaved funk and gospel (including a cover of Al Green's 
 
 ![Talking Heads, ‘More Songs About Buildings and Food’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136750-c0eff34e3dfdad26b00d7e840d45d797aa8d2106.jpg?crop=1240:1240&width=300 "Talking Heads, ‘More Songs About Buildings and Food’")
 
-###384: The Who, ‘A Quick One (Happy Jack)’
+### 384: The Who, ‘A Quick One (Happy Jack)’
 
 MCA, 1966
 
@@ -3069,7 +3068,7 @@ The Who were in the middle of an experimental phase, and the results were fascin
 
 ![The Who, ‘A Quick One (Happy Jack)’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136749-190a086aed550122c17439e5249cff7afbf88e68.jpg?crop=1240:1240&width=300 "The Who, ‘A Quick One (Happy Jack)’")
 
-###385: Bob Dylan, ‘Love and Theft’
+### 385: Bob Dylan, ‘Love and Theft’
 
 Columbia, 2001
 
@@ -3077,7 +3076,7 @@ Blood, desperation and wicked gallows humor are in the air as Dylan and his road
 
 ![Bob Dylan, ‘Love and Theft’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136680-b49ad91a64cd80be9f66a9df45193e5c095de331.jpg?crop=1240:1240&width=300 "Bob Dylan, ‘Love and Theft’")
 
-###386: Steely Dan, ‘Pretzel Logic’
+### 386: Steely Dan, ‘Pretzel Logic’
 
 ABC, 1974
 
@@ -3085,7 +3084,7 @@ Donald Fagen and Walter Becker make their love of jazz explicit, covering Duke E
 
 ![Steely Dan, ‘Pretzel Logic’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136748-ef3fd5470dc9d27fd9b898639ecacbedf3e49c6b.jpg?crop=1240:1240&width=300 "Steely Dan, ‘Pretzel Logic’")
 
-###387: Wu-Tang Clan, ‘Enter the Wu-Tang: 36 Chambers’
+### 387: Wu-Tang Clan, ‘Enter the Wu-Tang: 36 Chambers’
 
 Loud/RCA, 1993
 
@@ -3093,7 +3092,7 @@ East Coast hip-hop came back in 1993, thanks to a nine-man troupe of Staten Isla
 
 ![Wu-Tang Clan, ‘Enter the Wu-Tang: 36 Chambers’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136747-33166b125c154dc882cc752cfc3af2303ae7b640.jpg?crop=1240:1240&width=300 "Wu-Tang Clan, ‘Enter the Wu-Tang: 36 Chambers’")
 
-###388: Various Artists, ‘The Indestructible Beat of Soweto’
+### 388: Various Artists, ‘The Indestructible Beat of Soweto’
 
 Shanachia, 1985
 
@@ -3101,7 +3100,7 @@ The best album ever tagged as "world music," this compilation of South African p
 
 ![Various Artists, ‘The Indestructible Beat of Soweto’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136906-fd2989586cb9ebc9cd03c1281d530055b0d91639.jpg?crop=1240:1240&width=300 "Various Artists, ‘The Indestructible Beat of Soweto’")
 
-###389: Don Henley, ‘The End of the Innocence’
+### 389: Don Henley, ‘The End of the Innocence’
 
 Geffen, 1989
 
@@ -3109,7 +3108,7 @@ Returning to the theme of "Desperado," the former Eagle hitched some of his fine
 
 ![Don Henley, ‘The End of the Innocence’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136745-3d5832f04f13b597959487153a0f8a1a62819e68.jpg?crop=1240:1240&width=300 "Don Henley, ‘The End of the Innocence’")
 
-###390: The White Stripes, ‘Elephant’
+### 390: The White Stripes, ‘Elephant’
 
 V2, 2003
 
@@ -3117,7 +3116,7 @@ Jack and Meg White proved their minimalist garage rock had more depth and power 
 
 ![The White Stripes, ‘Elephant’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136744-41b915f494ce61a76562e0a6d97674a4d7c78ca8.jpg?crop=1240:1240&width=300 "The White Stripes, ‘Elephant’")
 
-###391: Jackson Browne, ‘The Pretender’
+### 391: Jackson Browne, ‘The Pretender’
 
 Asylum, 1976
 
@@ -3125,7 +3124,7 @@ Laid-back Southern California folk rock took on new weight with Browne's fourth 
 
 ![Jackson Browne, ‘The Pretender’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136743-2df32436c25076097429216ec29fa89e8dd32fe9.jpg?crop=1240:1240&width=300 "Jackson Browne, ‘The Pretender’")
 
-###392: The Beatles, ‘Let It Be’
+### 392: The Beatles, ‘Let It Be’
 
 Apple, 1970
 
@@ -3133,7 +3132,7 @@ The sound of the world's greatest pop group at war with itself. John Lennon is a
 
 ![The Beatles, ‘Let It Be’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-137222-c71163a3fdf7714caf3e6f53e056fa6ebbead066.jpg?crop=1240:1240&width=300 "The Beatles, ‘Let It Be’")
 
-###393: M.I.A., ‘Kala’
+### 393: M.I.A., ‘Kala’
 
 Interscope, 2007
 
@@ -3141,7 +3140,7 @@ The London-via-Sri Lanka art-punk funkateer came on like she knew she was kind o
 
 ![M.I.A., ‘Kala’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136892-e4d9f8a1093f9b73ca3290360081477da804b718.jpg?crop=1240:1240&width=300 "M.I.A., ‘Kala’")
 
-###394: Randy Newman, ‘Good Old Boys’
+### 394: Randy Newman, ‘Good Old Boys’
 
 Reprise, 1974
 
@@ -3149,7 +3148,7 @@ Newman draws on his roots in the blues and New Orleans boogie to uncorck this bl
 
 ![Randy Newman, ‘Good Old Boys’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136741-10b60c390feab0f32710923eeeecf2af5a1be53f.jpg?crop=1240:1240&width=300 "Randy Newman, ‘Good Old Boys’")
 
-###395: LCD Soundsystem, ‘Sound of Silver’
+### 395: LCD Soundsystem, ‘Sound of Silver’
 
 DFA/Capitol, 2007
 
@@ -3157,7 +3156,7 @@ New York electro-punk kingpin James Murphy makes his masterpiece: Every track so
 
 ![LCD Soundsystem, ‘Sound of Silver’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136894-1590edf1212b467d92c5be8468f00d1b3c2f184e.jpg?crop=1240:1240&width=300 "LCD Soundsystem, ‘Sound of Silver’")
 
-###396: Roxy Music, ‘For Your Pleasure’
+### 396: Roxy Music, ‘For Your Pleasure’
 
 Warner Bros., 1973
 
@@ -3165,7 +3164,7 @@ Keyboardist Brian Eno's last album with Roxy Music is the pop equivalent of Ultr
 
 ![Roxy Music, ‘For Your Pleasure’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136740-a5f49ec0083a5850fa2caa4b239bb9d46ea1309d.jpg?crop=1240:1240&width=300 "Roxy Music, ‘For Your Pleasure’")
 
-###397: Massive Attack, ‘Blue Lines’
+### 397: Massive Attack, ‘Blue Lines’
 
 Virgin, 1991
 
@@ -3173,7 +3172,7 @@ One of the most influential records of the Nineties, Lines was perhaps the first
 
 ![Massive Attack, ‘Blue Lines’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136739-3d19163287470cbd317dd4570309eca8106ddd84.jpg?crop=1240:1240&width=300 "Massive Attack, ‘Blue Lines’")
 
-###398: ZZ Top, ‘Eliminator’
+### 398: ZZ Top, ‘Eliminator’
 
 Warner Bros., 1983
 
@@ -3181,7 +3180,7 @@ Pure Americana: This song cycle about burning rubber, high heels and adrenaline 
 
 ![ZZ Top, ‘Eliminator’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136738-7a8fb96b7a41d8bc701d1073369ea92ed01baad5.jpg?crop=1240:1240&width=300 "ZZ Top, ‘Eliminator’")
 
-###399: Tom Waits, ‘Rain Dogs’
+### 399: Tom Waits, ‘Rain Dogs’
 
 Island, 1985
 
@@ -3189,7 +3188,7 @@ Island, 1985
 
 ![Tom Waits, ‘Rain Dogs’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136737-f5d277070b5132b4d8e6d8ebb1a587eb485aa5ad.jpg?crop=1240:1240&width=300 "Tom Waits, ‘Rain Dogs’")
 
-###400: The Temptations, ‘Anthology’
+### 400: The Temptations, ‘Anthology’
 
 Motown, 1995
 
@@ -3197,7 +3196,7 @@ Indisputably the greatest black vocal group of the modern era, this quintet cre
 
 ![The Temptations, ‘Anthology’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136896-2f8b220216e8d324b241a9bc2ab349530fb9b724.jpg?crop=1240:1240&width=300 "The Temptations, ‘Anthology’")
 
-###401: Red Hot Chili Peppers, ‘Californication’
+### 401: Red Hot Chili Peppers, ‘Californication’
 
 Warner Bros., 1999
 
@@ -3205,7 +3204,7 @@ Turning their focus to songs instead of jams, the Chilis steered frontman Anthon
 
 ![Red Hot Chili Peppers, ‘Californication’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136736-815e81c0c12a2447982ec2164f3f86872b15415c.jpg?crop=1240:1240&width=300 "Red Hot Chili Peppers, ‘Californication’")
 
-###402: Nas, ‘Illmatic’
+### 402: Nas, ‘Illmatic’
 
 Columbia, 1994
 
@@ -3213,7 +3212,7 @@ Other rappers were harder and better-armed, but nobody captured the creeping men
 
 ![Nas, ‘Illmatic’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136735-d5b63b58379af6c92ace0898d6fb06a1a93c4d81.jpg?crop=1240:1240&width=300 "Nas, ‘Illmatic’")
 
-###403: Lynyrd Skynyrd, ‘(Pronounced Leh-Nerd Skin-Nerd)’
+### 403: Lynyrd Skynyrd, ‘(Pronounced Leh-Nerd Skin-Nerd)’
 
 MCA, 1973
 
@@ -3221,7 +3220,7 @@ From the git-go, these Southern rockers played hard, lived hard and shot from th
 
 ![Lynyrd Skynyrd, ‘(Pronounced Leh-Nerd Skin-Nerd)’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136734-b41501275c94bc6794de329b5840d261d2a99c08.jpg?crop=1240:1240&width=300 "Lynyrd Skynyrd, ‘(Pronounced Leh-Nerd Skin-Nerd)’")
 
-###404: Dr John, ‘Dr. John’s Gumbo’
+### 404: Dr John, ‘Dr. John’s Gumbo’
 
 ATCO, 1972
 
@@ -3229,7 +3228,7 @@ After a series of eerie, voodoo-stoked records, pianist Mac Rebennack – a.k.a.
 
 ![Dr John, ‘Dr. John’s Gumbo’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136733-b4a4923b15393ebbc34b0fd2bbb7d06c75352aba.jpg?crop=1240:1240&width=300 "Dr John, ‘Dr. John’s Gumbo’")
 
-###405: Big Star, ‘Radio City’
+### 405: Big Star, ‘Radio City’
 
 Ardent, 1974
 
@@ -3237,7 +3236,7 @@ As with the Velvet Underground, Big Star's influence far outstripped their comme
 
 ![Big Star, ‘Radio City’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136732-35c0ce746af3e3d76571c9011b7aa9fcd2b6d3b1.jpg?crop=1240:1240&width=300 "Big Star, ‘Radio City’")
 
-###406: PJ Harvey, ‘Rid of Me’
+### 406: PJ Harvey, ‘Rid of Me’
 
 Island, 1993
 
@@ -3245,7 +3244,7 @@ Like Patti Smith, she wanted to be Bob Dylan. Unlike Patti Smith, she played gui
 
 ![PJ Harvey, ‘Rid of Me’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136730-610c6174a896d003777ce7af8ed8b2193872e6b6.jpg?crop=1240:1240&width=300 "PJ Harvey, ‘Rid of Me’")
 
-###407: The Clash, ‘Sandinista!’
+### 407: The Clash, ‘Sandinista!’
 
 Epic, 1980
 
@@ -3253,7 +3252,7 @@ The Clash's ballooning ambition peaked with this three-album set, named after th
 
 ![The Clash, ‘Sandinista!’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136731-ca9a65d59894fe510ca5f05d6fad033850da36b7.jpg?crop=1240:1240&width=300 "The Clash, ‘Sandinista!’")
 
-###408: Sinead O’Connor, ‘I Do Not Want What I haven’t Got’
+### 408: Sinead O’Connor, ‘I Do Not Want What I haven’t Got’
 
 Chrysalis, 1990
 
@@ -3261,7 +3260,7 @@ O'Connor's second LP delivers true originality and range, from "Nothing Compares
 
 ![Sinead O’Connor, ‘I Do Not Want What I haven’t Got’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136729-8e1450fbafc50b59aa669ae65a49cd43752b0d07.jpg?crop=1240:1240&width=300 "Sinead O’Connor, ‘I Do Not Want What I haven’t Got’")
 
-###409: The Doors, ‘Strange Days’
+### 409: The Doors, ‘Strange Days’
 
 Elektra, 1967
 
@@ -3269,7 +3268,7 @@ The Doors set out into darker territory on their second album. The catchy single
 
 ![The Doors, ‘Strange Days’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136728-8d68203601a7e4b712e98d5a6fcc6f4b290136dc.jpg?crop=1240:1240&width=300 "The Doors, ‘Strange Days’")
 
-###410: Bob Dylan, ‘Time Out of Mind’
+### 410: Bob Dylan, ‘Time Out of Mind’
 
 Columbia, 1997
 
@@ -3277,7 +3276,7 @@ The first of Dylan's three late-career triumphs. Producer Daniel Lanois' dark, a
 
 ![Bob Dylan, ‘Time Out of Mind’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136727-19ed8e700b963f5da4a354c25179a08b7fa7c22a.jpg?crop=1240:1240&width=300 "Bob Dylan, ‘Time Out of Mind’")
 
-###411: Eric Clapton, ‘461 Ocean Boulevard’
+### 411: Eric Clapton, ‘461 Ocean Boulevard’
 
 RSO, 1974
 
@@ -3285,7 +3284,7 @@ Clapton returned from heroin addiction with a disc of mellow, springy grooves mi
 
 ![Eric Clapton, ‘461 Ocean Boulevard’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136726-acf682a405f1c7766dbc78894c1b82c85b7c7381.jpg?crop=1240:1240&width=300 "Eric Clapton, ‘461 Ocean Boulevard’")
 
-###412: Wire, ‘Pink Flag’
+### 412: Wire, ‘Pink Flag’
 
 Harvest, 1977
 
@@ -3293,7 +3292,7 @@ This first-generation U.K. punk band made sparse tunes that erupted in combustib
 
 ![Wire, ‘Pink Flag’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136725-fb5d1bce77409b907a346a09303b68dfdf6c95d2.jpg?crop=1240:1240&width=300 "Wire, ‘Pink Flag’")
 
-###413: Minuteman, ‘Doubles Nickels on The Dime’
+### 413: Minuteman, ‘Doubles Nickels on The Dime’
 
 SST, 1984
 
@@ -3301,7 +3300,7 @@ SST, 1984
 
 ![Minuteman, ‘Doubles Nickels on The Dime’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136724-41869c0734a9669c6300d6c6aa89ecbad672c62e.jpg?crop=1240:1240&width=300 "Minuteman, ‘Doubles Nickels on The Dime’")
 
-###414: The Go- Go’s, ‘Beauty and The Beast’
+### 414: The Go- Go’s, ‘Beauty and The Beast’
 
 I.R.S., 1981
 
@@ -3309,7 +3308,7 @@ The most popular girl group of the New Wave surfed to the top of the charts with
 
 ![The Go- Go’s, ‘Beauty and The Beast’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136723-eb4dda489cf1bbe3a094aab6396a25638db67a21.jpg?crop=1240:1240&width=300 "The Go- Go’s, ‘Beauty and The Beast’")
 
-###415: Van Halen, ‘Van Halen’
+### 415: Van Halen, ‘Van Halen’
 
 Warner Bros., 1978
 
@@ -3317,7 +3316,7 @@ This debut gave the world a new guitar hero (Eddie Van Halen) and charismatic fr
 
 ![Van Halen, ‘Van Halen’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136722-d945f84215d6743d66f6c816d2f95ea41aae7ce1.jpg?crop=1240:1240&width=300 "Van Halen, ‘Van Halen’")
 
-###416: Tom Waits, ‘Mule Variations’
+### 416: Tom Waits, ‘Mule Variations’
 
 Anti-/Epitaph, 1999
 
@@ -3325,7 +3324,7 @@ After five silent years, Variations was the victorious return of Waits' rawboned
 
 ![Tom Waits, ‘Mule Variations’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136720-81f0ce6ad8b816a69ab8e43039028f8a068f3bf3.jpg?crop=1240:1240&width=300 "Tom Waits, ‘Mule Variations’")
 
-###417: U2, ‘Boy’
+### 417: U2, ‘Boy’
 
 Island, 1980
 
@@ -3333,7 +3332,7 @@ Too ingenuous for punk, too unironic for New Wave, U2 arrived on Boy as big-time
 
 ![U2, ‘Boy’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136721-fdbdd7851ff4f06d8b76ddd40843453fbb3fbaf7.jpg?crop=1240:1240&width=300 "U2, ‘Boy’")
 
-###418: Paul McCartney and Wings, ‘Band On The Run’
+### 418: Paul McCartney and Wings, ‘Band On The Run’
 
 Apple, 1973
 
@@ -3341,7 +3340,7 @@ Wings trekked to Lagos, Nigeria, for seven stressful weeks to make Band, regarde
 
 ![Paul McCartney and Wings, ‘Band On The Run’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136719-853b66a39a6a4a772846c0da49f1b5c5e7c807f3.jpg?crop=1240:1240&width=300 "Paul McCartney and Wings, ‘Band On The Run’")
 
-###419: Portishead, ‘Dummy’
+### 419: Portishead, ‘Dummy’
 
 Go! Discs, 1994
 
@@ -3349,7 +3348,7 @@ Portishead uses some of the same building blocks as fellow Bristol, England trip
 
 ![Portishead, ‘Dummy’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136718-ba3038a8eb3f8bae73a44f22b651a68ff652496d.jpg?crop=1240:1240&width=300 "Portishead, ‘Dummy’")
 
-###420: Buddy Holly and the Crickets, ‘The “Chirping” Crickets’
+### 420: Buddy Holly and the Crickets, ‘The “Chirping” Crickets’
 
 Brunswick, 1957
 
@@ -3357,7 +3356,7 @@ Holly was only 21 when he cut these tracks, some on an Oklahoma Air Force base. 
 
 ![Buddy Holly and the Crickets, ‘The “Chirping” Crickets’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136717-f98a7635a3722e7f7568e724109c6728c601fc29.jpg?crop=1240:1240&width=300 "Buddy Holly and the Crickets, ‘The “Chirping” Crickets’")
 
-###421: Various Artists, ‘The Best of Girl Groups Volumes 1 and 2’
+### 421: Various Artists, ‘The Best of Girl Groups Volumes 1 and 2’
 
 Rhino, 1990
 
@@ -3365,7 +3364,7 @@ In the lean years between Elvis and the Beatles, girl groups like the Shirelles 
 
 ![Various Artists, ‘The Best of Girl Groups Volumes 1 and 2’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136716-cbbaa618e1a73ecb8c1a8e4cfdaef83d56cdcb39.jpg?crop=1240:1240&width=300 "Various Artists, ‘The Best of Girl Groups Volumes 1 and 2’")
 
-###422: The Ronettes, ‘Presenting the Fabulous Ronettes’
+### 422: The Ronettes, ‘Presenting the Fabulous Ronettes’
 
 Philles, 1964
 
@@ -3373,7 +3372,7 @@ The Ronettes were pop goddesses dressed as Catholic schoolgirls gone to hell and
 
 ![The Ronettes, ‘Presenting the Fabulous Ronettes’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136715-53d90c0f45880a179e9a6d526a44d288afbf992b.jpg?crop=1240:1240&width=300 "The Ronettes, ‘Presenting the Fabulous Ronettes’")
 
-###423: Diana Ross and The Supremes, ‘Anthology’
+### 423: Diana Ross and The Supremes, ‘Anthology’
 
 Motown, 1973
 
@@ -3381,7 +3380,7 @@ In the heyday of Motown, the Supremes were their own hit factory, all glamour an
 
 ![Diana Ross and The Supremes, ‘Anthology’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136711-72bb1c9336f4fa748bc0f534ac83191016df317b.jpg?crop=1240:1240&width=300 "Diana Ross and The Supremes, ‘Anthology’")
 
-###424: Bruce Springsteen, ‘The Rising’
+### 424: Bruce Springsteen, ‘The Rising’
 
 Columbia, 2002
 
@@ -3389,7 +3388,7 @@ Springsteen's response to 9/11 was an extraordinary 15-song requiem that searche
 
 ![Bruce Springsteen, ‘The Rising’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136886-1ea07a2b8beaae3f3c28d484e9d8ca67ebb24a67.jpg?crop=1240:1240&width=300 "Bruce Springsteen, ‘The Rising’")
 
-###425: Gram Parsons, ‘Grievous Angel’
+### 425: Gram Parsons, ‘Grievous Angel’
 
 Reprise, 1974
 
@@ -3397,7 +3396,7 @@ Parsons helped invent country rock with the Byrds and the Flying Burrito Brother
 
 ![Gram Parsons, ‘Grievous Angel’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136713-c966ac94055a62214d1fb4ef401973098753ad89.jpg?crop=1240:1240&width=300 "Gram Parsons, ‘Grievous Angel’")
 
-###426: Cheap Trick, ‘At Budokan’
+### 426: Cheap Trick, ‘At Budokan’
 
 Epic, 1979
 
@@ -3405,7 +3404,7 @@ After three studio albums, Cheap Trick were bigger in Japan than in America. But
 
 ![Cheap Trick, ‘At Budokan’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136712-76b2b8e283d3e70f9c0b9f3d7c321cee35a76f2b.jpg?crop=1240:1240&width=300 "Cheap Trick, ‘At Budokan’")
 
-###427: Peter Wolf, ‘Sleepless’
+### 427: Peter Wolf, ‘Sleepless’
 
 Artemis, 2002
 
@@ -3413,7 +3412,7 @@ Wolf accomplishes a rare feat on this modern blues album: He sings about adult r
 
 ![Peter Wolf, ‘Sleepless’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136710-5b9e8c60dde91e1cd1ce4f9014a849e06ae3dbb5.jpg?crop=1240:1240&width=300 "Peter Wolf, ‘Sleepless’")
 
-###428: The Police, ‘Outlandos D’Amour’
+### 428: The Police, ‘Outlandos D’Amour’
 
 A&M, 1978
 
@@ -3421,7 +3420,7 @@ The Police got bigger but they never sounded fresher, absorbing reggae into the 
 
 ![The Police, ‘Outlandos D’Amour’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136708-f0f74fecec08efb2b24d0ce736fe8878563d04e9.jpg?crop=1240:1240&width=300 "The Police, ‘Outlandos D’Amour’")
 
-###429: Brian Eno, ‘Another Green World’
+### 429: Brian Eno, ‘Another Green World’
 
 Island, 1975
 
@@ -3429,7 +3428,7 @@ After years as a rock eccentric, Eno said goodbye to pop-song form with this alb
 
 ![Brian Eno, ‘Another Green World’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136709-d71ae15551fbe659eb0a75b827e9145fb9da1d03.jpg?crop=1240:1240&width=300 "Brian Eno, ‘Another Green World’")
 
-###430: Vampire Weekend, ‘Vampire Weekend’
+### 430: Vampire Weekend, ‘Vampire Weekend’
 
 XL, 2009
 
@@ -3437,7 +3436,7 @@ Vampire Weekend came out of Columbia University displaying an affinity for boat 
 
 ![Vampire Weekend, ‘Vampire Weekend’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136887-bd3931e1d2c2854bef5aae8c6dfbdf4d204be898.jpg?crop=1240:1240&width=300 "Vampire Weekend, ‘Vampire Weekend’")
 
-###431: PJ Harvey, ‘Stories From the City, Stories From the Sea’
+### 431: PJ Harvey, ‘Stories From the City, Stories From the Sea’
 
 Island, 2000
 
@@ -3445,7 +3444,7 @@ Polly Harvey, happy? It was a surprise: But album number five found her in New Y
 
 ![PJ Harvey, ‘Stories From the City, Stories From the Sea’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136888-8ad83747cb2008b1a6d03e20ff543852b6d35d71.jpg?crop=1240:1240&width=300 "PJ Harvey, ‘Stories From the City, Stories From the Sea’")
 
-###432: Brian Eno, ‘Here Come The Warm Jets’
+### 432: Brian Eno, ‘Here Come The Warm Jets’
 
 Island, 1975
 
@@ -3453,7 +3452,7 @@ Eno's first solo album pioneered a new kind of glammy art rock: jagged, free-for
 
 ![Brian Eno, ‘Here Come The Warm Jets’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136707-4d92d4059890f766e5ded5134541c36e8c94e675.jpg?crop=1240:1240&width=300 "Brian Eno, ‘Here Come The Warm Jets’")
 
-###433: George Harrison, ‘All Things Must Pass’
+### 433: George Harrison, ‘All Things Must Pass’
 
 Apple, 1970
 
@@ -3461,7 +3460,7 @@ Harrison had almost enough songs stored up from his Beatles days for a triple LP
 
 ![George Harrison, ‘All Things Must Pass’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136706-e0570b4dd7064b17ab89a0097dab03fcbdfae5c9.jpg?crop=1240:1240&width=300 "George Harrison, ‘All Things Must Pass’")
 
-###434: Big Star, ‘#1 Record’
+### 434: Big Star, ‘#1 Record’
 
 Ardent/Stax, 1972
 
@@ -3469,7 +3468,7 @@ Alex Chilton and Chris Bell were the Memphis whiz kids at the heart of Big Star.
 
 ![Big Star, ‘#1 Record’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136705-61ea1bd53d9d1a3710e4ff8d2fa6e92fd678813c.jpg?crop=1240:1240&width=300 "Big Star, ‘#1 Record’")
 
-###435: Nirvana, ‘In Utero’
+### 435: Nirvana, ‘In Utero’
 
 Geffen, 1993
 
@@ -3477,7 +3476,7 @@ Nirvana hired hard-nosed Steve Albini to record the follow-up to Nevermind. Geff
 
 ![Nirvana, ‘In Utero’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136704-c4b390f3b814e8ab8e6a4aa939f3632269ef8121.jpg?crop=1240:1240&width=300 "Nirvana, ‘In Utero’")
 
-###436: Beck, ‘Sea Change’
+### 436: Beck, ‘Sea Change’
 
 DGC, 2002
 
@@ -3485,7 +3484,7 @@ Breakup records are rarely this lovely. Sea Change is the pristine sound of ever
 
 ![Beck, ‘Sea Change’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136703-2db46c65f260992f718e621b828782bcdc768224.jpg?crop=1240:1240&width=300 "Beck, ‘Sea Change’")
 
-###437: Lil Wayne, ‘Tha Carter III’
+### 437: Lil Wayne, ‘Tha Carter III’
 
 Cash Money/Universal Motown, 2008
 
@@ -3493,7 +3492,7 @@ Cash Money/Universal Motown, 2008
 
 ![Lil Wayne, ‘Tha Carter III’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136889-d1592d826a0fe5bd19021d15a46fb07f0c573131.jpg?crop=1240:1240&width=300 "Lil Wayne, ‘Tha Carter III’")
 
-###438: The Cure, ‘Boys Don’t Cry’
+### 438: The Cure, ‘Boys Don’t Cry’
 
 PVC, 1980
 
@@ -3501,7 +3500,7 @@ Before they became a goth-punk group, the Cure were a minimalist, inventive post
 
 ![The Cure, ‘Boys Don’t Cry’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136702-2ee61387fb50efc38b003d13cae18374e4b0157b.jpg?crop=1240:1240&width=300 "The Cure, ‘Boys Don’t Cry’")
 
-###439: Sam Cooke, ‘Live At The Harlem Square Club, 1963’
+### 439: Sam Cooke, ‘Live At The Harlem Square Club, 1963’
 
 RCA, 1985
 
@@ -3509,7 +3508,7 @@ Cooke was elegance personified, but he works this Florida club until it's hotter
 
 ![Sam Cooke, ‘Live At The Harlem Square Club, 1963’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136701-e7e727eaf37e1a1c7fc920aacd88d14b58b29677.jpg?crop=1240:1240&width=300 "Sam Cooke, ‘Live At The Harlem Square Club, 1963’")
 
-###440: The Pogues, ‘Rum Sodomy and The Lash’
+### 440: The Pogues, ‘Rum Sodomy and The Lash’
 
 MCA, 1985
 
@@ -3517,7 +3516,7 @@ With a voice like an ashtray, Shane MacGowan led this fabulous disaster of an Ir
 
 ![The Pogues, ‘Rum Sodomy and The Lash’](https://www.rollingstone.com/wp-content/uploads/2018/06/rum_sodomy_and_the_lash-ee9a725e-410d-4a92-bb6f-6a543f53a329.jpg?crop=1240:1240&width=300 "The Pogues, ‘Rum Sodomy and The Lash’")
 
-###441: Suicide, ‘Suicide’
+### 441: Suicide, ‘Suicide’
 
 Red Star, 1977
 
@@ -3525,7 +3524,7 @@ These New York synth punks evoke everything from the Velvet Underground to rocka
 
 ![Suicide, ‘Suicide’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-suicide-suicide-bb630ff5-aad2-44c2-b2b6-9a9a85414078.jpg?crop=1240:1240&width=300 "Suicide, ‘Suicide’")
 
-###442: Devo, ‘Q: Are We Not Men? A: We Are Devo!’
+### 442: Devo, ‘Q: Are We Not Men? A: We Are Devo!’
 
 Warner Bros., 1978
 
@@ -3533,7 +3532,7 @@ They came from Akron, Ohio, wore matching jumpsuits and had a sinister theory of
 
 ![Devo, ‘Q: Are We Not Men? A: We Are Devo!’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-devo-q-are-we-not-men-a-we-are-devo-c4207947-2748-4eb4-a964-f2e4b62f892f.jpg?crop=1240:1240&width=300 "Devo, ‘Q: Are We Not Men? A: We Are Devo!’")
 
-###443: Cheap Trick, ‘In Color’
+### 443: Cheap Trick, ‘In Color’
 
 Epic, 1977
 
@@ -3541,7 +3540,7 @@ They were down-home Midwestern boys from Rockford, Illinois, but Cheap Trick had
 
 ![Cheap Trick, ‘In Color’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-cheap-trick-in-color-1ef4f243-d005-412e-810f-9cdad233af2a.jpg?crop=1240:1240&width=300 "Cheap Trick, ‘In Color’")
 
-###444: War, ‘The World Is A Ghetto’
+### 444: War, ‘The World Is A Ghetto’
 
 United Artists, 1972
 
@@ -3549,7 +3548,7 @@ A badass Latin-funk band doing a song about a Latino TV show from the Fifities �
 
 ![War, ‘The World Is A Ghetto’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-war-the-world-is-a-ghetto-dcf915aa-8daa-444b-b0b3-75aae7639cfa.jpg?crop=1240:1240&width=300 "War, ‘The World Is A Ghetto’")
 
-###445: Steve Miller Band, ‘Fly Like an Eagle’
+### 445: Steve Miller Band, ‘Fly Like an Eagle’
 
 Capitol, 1976
 
@@ -3557,7 +3556,7 @@ After a 1972 car accident sidelined him for nearly a year, Miller returned with 
 
 ![Steve Miller Band, ‘Fly Like an Eagle’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-steve-miller-band-fly-like-an-eagle-f32e7248-0279-4e0b-b63f-f465467094e9.jpg?crop=1240:1240&width=300 "Steve Miller Band, ‘Fly Like an Eagle’")
 
-###446: MC5, ‘Back in the USA’
+### 446: MC5, ‘Back in the USA’
 
 Atlantic, 1970
 
@@ -3565,7 +3564,7 @@ In the late Sixties, the Motor City Five were the house band for the White Panth
 
 ![MC5, ‘Back in the USA’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136694-c9be837ed998ba01e7e79691e4cc14720085f29d.jpg?crop=1240:1240&width=300 "MC5, ‘Back in the USA’")
 
-###447: Stan Getz and Joao Gilberto, ‘Getz/Gilberto’
+### 447: Stan Getz and Joao Gilberto, ‘Getz/Gilberto’
 
 Verve, 1964
 
@@ -3573,7 +3572,7 @@ Brazilian bossa nova met American jazz, as saxman Getz teamed up with guitarist-
 
 ![Stan Getz and Joao Gilberto, ‘Getz/Gilberto’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-136693-9e41183410b706cadf485877106a469c2acac60b.jpg?crop=1240:1240&width=300 "Stan Getz and Joao Gilberto, ‘Getz/Gilberto’")
 
-###448: The Police, ‘Synchronicity’
+### 448: The Police, ‘Synchronicity’
 
 A&M, 1983
 
@@ -3581,7 +3580,7 @@ A&M, 1983
 
 ![The Police, ‘Synchronicity’](https://www.rollingstone.com/wp-content/uploads/2018/06/the-police-synchronicity-16ba97a3-6be6-4834-8844-a63c29e34d80.jpg?crop=1240:1240&width=300 "The Police, ‘Synchronicity’")
 
-###449: Big Star, ‘Third/Sister Lovers’
+### 449: Big Star, ‘Third/Sister Lovers’
 
 PVC, 1978
 
@@ -3589,7 +3588,7 @@ Big Star recorded their third and final album in 1974, but it didn't get release
 
 ![Big Star, ‘Third/Sister Lovers’](https://www.rollingstone.com/wp-content/uploads/2018/06/big-star-third-sister-lovers-2df15c34-b6ad-43fa-98fe-a25aa7fbc7c2.jpg?crop=1240:1240&width=300 "Big Star, ‘Third/Sister Lovers’")
 
-###450: Jackson Browne, ‘For Everyman’
+### 450: Jackson Browne, ‘For Everyman’
 
 Asylum, 1973
 
@@ -3597,7 +3596,7 @@ On his second album, Browne emerged as the J.D. Salinger of the L.A. singer-song
 
 ![Jackson Browne, ‘For Everyman’](https://www.rollingstone.com/wp-content/uploads/2018/06/jackson-browne-for-everyman-e11347ab-7a22-49e1-8ce8-16cb9cdbeb50.jpg?crop=1240:1240&width=300 "Jackson Browne, ‘For Everyman’")
 
-###451: Amy Winehouse, ‘Back to Black’
+### 451: Amy Winehouse, ‘Back to Black’
 
 Universal, 2007
 
@@ -3605,7 +3604,7 @@ It's sad to think back on how fresh this record sounded at the time – funny an
 
 ![Amy Winehouse, ‘Back to Black’](https://www.rollingstone.com/wp-content/uploads/2018/06/amy-winehouse-back-to-black-7579fe06-2dab-496a-a510-3ff389357194.jpg?crop=1240:1240&width=300 "Amy Winehouse, ‘Back to Black’")
 
-###452: John Prine, ‘John Prine’
+### 452: John Prine, ‘John Prine’
 
 Atlantic, 1971
 
@@ -3613,7 +3612,7 @@ Prine was a mailman-turned-folk-singer, and his debut is unique in how it views 
 
 ![John Prine, ‘John Prine’](https://www.rollingstone.com/wp-content/uploads/2018/06/john-prine-john-prine-f1ac668e-e5a2-47d9-88c9-de74957a6050.jpg?crop=1240:1240&width=300 "John Prine, ‘John Prine’")
 
-###453: EPMD, ‘Strictly Business’
+### 453: EPMD, ‘Strictly Business’
 
 Priority, 1988
 
@@ -3621,7 +3620,7 @@ In the summer of '88, Erick Sermon and Parrish Smith, a.k.a. EPMD (Erick and Par
 
 ![EPMD, ‘Strictly Business’](https://www.rollingstone.com/wp-content/uploads/2018/06/epmd-strictly-business-9bcb17c5-3f1f-4f1c-b8db-ca698b7815dd.jpg?crop=1240:1240&width=300 "EPMD, ‘Strictly Business’")
 
-###454: Alice Cooper, ‘Love It to Death’
+### 454: Alice Cooper, ‘Love It to Death’
 
 Warner Bros., 1971
 
@@ -3629,7 +3628,7 @@ Onstage, Cooper was the shock-rock king who decapitated baby dolls, but his earl
 
 ![Alice Cooper, ‘Love It to Death’](https://www.rollingstone.com/wp-content/uploads/2018/06/alice-cooper-love-it-to-death-ea4570ab-67df-4b1f-b199-c1dba2dc016c.jpg?crop=1240:1240&width=300 "Alice Cooper, ‘Love It to Death’")
 
-###455: Los Lobos, ‘How Will the Wolf Survive?’
+### 455: Los Lobos, ‘How Will the Wolf Survive?’
 
 Slash/Warner Bros., 1984
 
@@ -3637,7 +3636,7 @@ Slash/Warner Bros., 1984
 
 ![Los Lobos, ‘How Will the Wolf Survive?’](https://www.rollingstone.com/wp-content/uploads/2018/06/los-lobos-how-will-the-wolf-survive-f8beaa7f-a2e5-4606-9ef2-5cf851f1a3b4.jpg?crop=1240:1240&width=300 "Los Lobos, ‘How Will the Wolf Survive?’")
 
-###456: Marvin Gaye, ‘Here, My Dear’
+### 456: Marvin Gaye, ‘Here, My Dear’
 
 Motown, 1978
 
@@ -3645,7 +3644,7 @@ It's one of the weirdest Motown records ever. Gaye's divorce settlement required
 
 ![Marvin Gaye, ‘Here, My Dear’](https://www.rollingstone.com/wp-content/uploads/2018/06/marvin-gaye-here-my-dear-0811056b-7368-4c36-9339-ed12ed2398f9.jpg?crop=1240:1240&width=300 "Marvin Gaye, ‘Here, My Dear’")
 
-###457: My Morning Jacket, ‘Z’
+### 457: My Morning Jacket, ‘Z’
 
 RCA, 2005
 
@@ -3653,13 +3652,13 @@ These Kentucky boys took a giant leap forward on their fourth album – giant en
 
 ![My Morning Jacket, ‘Z’](https://www.rollingstone.com/wp-content/uploads/2018/06/z-cover-4e588ef3-de67-4a6a-b569-debea2c5379d.jpg?crop=1240:1240&width=300 "My Morning Jacket, ‘Z’")
 
-###458: Elton John, ‘Tumbleweed Connection’
+### 458: Elton John, ‘Tumbleweed Connection’
 
 John has always had a jones for the myth of the American West. Along with lyricist Bernie Taupin, he fully indulges those cowboy fantasies here. "Amoreena" plays unforgettably in the opening scene of the Al Pacino film Dog Day Afternoon.
 
 ![Elton John, ‘Tumbleweed Connection’](https://www.rollingstone.com/wp-content/uploads/2018/06/elton_john_-_tumbleweed_connection_-_front-979f16e5-361a-48c6-9ea1-934ea402a886.jpg?crop=1240:1240&width=300 "Elton John, ‘Tumbleweed Connection’")
 
-###459: The Drifters, ‘Golden Hits’
+### 459: The Drifters, ‘Golden Hits’
 
 Atlantic, 1968
 
@@ -3667,7 +3666,7 @@ By the early 1960s, the Drifters had evolved into the most suave soul group on t
 
 ![The Drifters, ‘Golden Hits’](https://www.rollingstone.com/wp-content/uploads/2018/06/golden-hits-5515a273d8f59-210fff2e-feaf-43c9-8ace-a30b6d3c5e4e.jpg?crop=1240:1240&width=300 "The Drifters, ‘Golden Hits’")
 
-###460: Hole, ‘Live Through This’
+### 460: Hole, ‘Live Through This’
 
 DGC, 1994
 
@@ -3675,7 +3674,7 @@ On Hole's breakthrough album, Courtney Love wants to be "the girl with the most 
 
 ![Hole, ‘Live Through This’](https://www.rollingstone.com/wp-content/uploads/2018/06/74b78cb40fa2ccef729620805d9861941000x1000x1-50fa67b8-c2b1-44ca-9332-1fb90c520baf.jpg?crop=1240:1240&width=300 "Hole, ‘Live Through This’")
 
-###461: Public Image Ltd., ‘Metal Box’
+### 461: Public Image Ltd., ‘Metal Box’
 
 Virgin, 1979
 
@@ -3683,7 +3682,7 @@ After the Sex Pistols imploded, Johnny Rotten reclaimed his real name  – John
 
 ![Public Image Ltd., ‘Metal Box’](https://www.rollingstone.com/wp-content/uploads/2018/06/piccit_public_image_ltd___metal_box_1700139204-46248b44-4c5d-4699-aafc-cfd355091d39.jpg?crop=1240:1240&width=300 "Public Image Ltd., ‘Metal Box’")
 
-###462: R.E.M., ‘Document’
+### 462: R.E.M., ‘Document’
 
 I.R.S., 1987
 
@@ -3691,7 +3690,7 @@ R.E.M. were trying something new with each album in the Eighties, but this strai
 
 ![R.E.M., ‘Document’](https://www.rollingstone.com/wp-content/uploads/2018/06/789bf1d2-f8357134-f473-4ae3-b2c3-8931e4d98171.jpg?crop=1240:1240&width=300 "R.E.M., ‘Document’")
 
-###463: Echo and the Bunnymen, ‘Heaven Up Here’
+### 463: Echo and the Bunnymen, ‘Heaven Up Here’
 
 Sire, 1981
 
@@ -3699,7 +3698,7 @@ The Bunnymen refresh psychedelia for the New Wave era with an arena of foggy gui
 
 ![Echo and the Bunnymen, ‘Heaven Up Here’](https://www.rollingstone.com/wp-content/uploads/2018/06/echo-the-bunnymen-heaven-up-here-ed971d5c-7beb-422c-88a3-816d677266b3.jpg?crop=1240:1240&width=300 "Echo and the Bunnymen, ‘Heaven Up Here’")
 
-###464: Def Leppard, ‘Hysteria’
+### 464: Def Leppard, ‘Hysteria’
 
 Mercury, 1987
 
@@ -3707,7 +3706,7 @@ Def Leppard had a run of bad luck in the Eighties, especially when drummer Rick 
 
 ![Def Leppard, ‘Hysteria’](https://www.rollingstone.com/wp-content/uploads/2018/06/8560698_f1024-a994fb27-87cf-46f0-9d8e-aba23729aa1f.jpg?crop=1240:1240&width=300 "Def Leppard, ‘Hysteria’")
 
-###465: The Magnetic Fields, ’69 Love Songs’
+### 465: The Magnetic Fields, ’69 Love Songs’
 
 Merge, 1999
 
@@ -3715,7 +3714,7 @@ The title says it all: three discs of brilliantly turned tunes about pop's signa
 
 ![The Magnetic Fields, ’69 Love Songs’](https://www.rollingstone.com/wp-content/uploads/2018/06/10_700_700_169_magfields_69-1a38388b-a376-43b2-8365-5b4efe9618ec.jpg?crop=1240:1240&width=300 "The Magnetic Fields, ’69 Love Songs’")
 
-###466: Coldplay, ‘A Rush of Blood to the Head’
+### 466: Coldplay, ‘A Rush of Blood to the Head’
 
 Capitol, 2002
 
@@ -3723,7 +3722,7 @@ Coldplay churn out bighearted British guitar rock on their second album – what
 
 ![Coldplay, ‘A Rush of Blood to the Head’](https://www.rollingstone.com/wp-content/uploads/2018/06/coldplay-a-rush-of-blood-to-the-head-b994b5e3-9684-43b7-af44-f0a23154c100.jpg?crop=1240:1240&width=300 "Coldplay, ‘A Rush of Blood to the Head’")
 
-###467: Bruce Springsteen, ‘Tunnel of Love’
+### 467: Bruce Springsteen, ‘Tunnel of Love’
 
 Columbia, 1987
 
@@ -3731,7 +3730,7 @@ After the big-scale Born in the U.S.A., this came as a shock – an album of sta
 
 ![Bruce Springsteen, ‘Tunnel of Love’](https://www.rollingstone.com/wp-content/uploads/2018/06/bruce-springsteen-tunnel-of-love-delantera-24a384d9-9eec-4b9d-9987-74aa31ed0d6d.jpg?crop=1240:1240&width=300 "Bruce Springsteen, ‘Tunnel of Love’")
 
-###468: The Paul Butterfield Blues Band, ‘The Paul Butterfield Blues Band’
+### 468: The Paul Butterfield Blues Band, ‘The Paul Butterfield Blues Band’
 
 Elektra, 1965
 
@@ -3739,7 +3738,7 @@ Where American white kids got the notion they could play the blues. This band ha
 
 ![The Paul Butterfield Blues Band, ‘The Paul Butterfield Blues Band’](https://www.rollingstone.com/wp-content/uploads/2018/06/cs498050-01a-big-c9162c3e-36e4-4323-86b2-2e4f28aac696.jpg?crop=1240:1240&width=300 "The Paul Butterfield Blues Band, ‘The Paul Butterfield Blues Band’")
 
-###469: The Fugees, ‘The Score’
+### 469: The Fugees, ‘The Score’
 
 Ruffhouse/Columbia, 1996
 
@@ -3747,7 +3746,7 @@ Led by Wyclef Jean, the Fugees created eclectic, politically aware R&B hip-hop, 
 
 ![The Fugees, ‘The Score’](https://www.rollingstone.com/wp-content/uploads/2018/06/maxresdefault-3b0ebfbe-ff73-49f3-847f-d49a03672c29.jpg?crop=1240:1240&width=300 "The Fugees, ‘The Score’")
 
-###470: LL Cool J, ‘Radio’
+### 470: LL Cool J, ‘Radio’
 
 Def Jam, 1985
 
@@ -3755,7 +3754,7 @@ L.L. Cool J was only 16 when he released his first single, "I Need a Beat." A ye
 
 ![LL Cool J, ‘Radio’](https://www.rollingstone.com/wp-content/uploads/2018/06/radio-53c118257ccf5-4f6092f2-b9b4-4fc2-8ab3-360b5a69465b.jpg?crop=1240:1240&width=300 "LL Cool J, ‘Radio’")
 
-###471: Richard and Linda Thompson, ‘I Want to See the Bright Lights Tonight’
+### 471: Richard and Linda Thompson, ‘I Want to See the Bright Lights Tonight’
 
 Island, 1974
 
@@ -3763,7 +3762,7 @@ Richard played guitar like a Sufi-mystic Neil Young; wife Linda had the voice of
 
 ![Richard and Linda Thompson, ‘I Want to See the Bright Lights Tonight’](https://www.rollingstone.com/wp-content/uploads/2018/06/album04-f83b5716-7b2a-4f0e-8539-05efcf61e40d.jpg?crop=1240:1240&width=300 "Richard and Linda Thompson, ‘I Want to See the Bright Lights Tonight’")
 
-###472: George Michael, ‘Faith’
+### 472: George Michael, ‘Faith’
 
 Columbia, 1987
 
@@ -3771,7 +3770,7 @@ When Michael left Wham!, he signified his new maturity by not shaving. Thankfull
 
 ![George Michael, ‘Faith’](https://www.rollingstone.com/wp-content/uploads/2018/06/faithcd-a06ce12d-15c5-4bc9-a9c2-3e6bd205382e.jpg?crop=1240:1240&width=300 "George Michael, ‘Faith’")
 
-###473: The Smiths, ‘The Smiths’
+### 473: The Smiths, ‘The Smiths’
 
 Sire, 1984
 
@@ -3779,7 +3778,7 @@ Sire, 1984
 
 ![The Smiths, ‘The Smiths’](https://www.rollingstone.com/wp-content/uploads/2018/06/the_smiths_-_1984_the_smiths_joe_dallesandro-e0440f23-a933-4208-b67f-75d6f22b4e54.jpg?crop=1240:1240&width=300 "The Smiths, ‘The Smiths’")
 
-###474: Manu Chao, ‘Próxima Estación: Esperanza’
+### 474: Manu Chao, ‘Próxima Estación: Esperanza’
 
 Virgin, 2001
 
@@ -3787,7 +3786,7 @@ Globally, Chao had long been a Marley-size figure. But this gem gave Americans a
 
 ![Manu Chao, ‘Próxima Estación: Esperanza’](https://www.rollingstone.com/wp-content/uploads/2018/06/manu_chao-proxima_estacion_esperanza-frontal-83c07861-2847-44a0-94c0-06270b213796.jpg?crop=1240:1240&width=300 "Manu Chao, ‘Próxima Estación: Esperanza’")
 
-###475: Elvis Costello and the Attractions, ‘Armed Forces’
+### 475: Elvis Costello and the Attractions, ‘Armed Forces’
 
 Columbia, 1979
 
@@ -3795,7 +3794,7 @@ Costello's third album is all tightly wound paranoia. The concept is personal po
 
 ![Elvis Costello and the Attractions, ‘Armed Forces’](https://www.rollingstone.com/wp-content/uploads/2018/06/armed-forces-53dffbc88be87-6568d655-8bb8-4cc6-b804-8f506fd8509d.jpg?crop=1240:1240&width=300 "Elvis Costello and the Attractions, ‘Armed Forces’")
 
-###476: The Notorious B.I.G., ‘Life After Death’
+### 476: The Notorious B.I.G., ‘Life After Death’
 
 Bad Boy, 1997
 
@@ -3803,7 +3802,7 @@ Released less than a month after Biggie's murder, the prophetic Life After Death
 
 ![The Notorious B.I.G., ‘Life After Death’](https://www.rollingstone.com/wp-content/uploads/2018/06/notorious-big-life-after-death-e80ddc0d-b0e9-436c-aef9-4812afdd3d24.jpg?crop=1240:1240&width=300 "The Notorious B.I.G., ‘Life After Death’")
 
-###477: Merle Haggard, ‘Down Every Road’
+### 477: Merle Haggard, ‘Down Every Road’
 
 Capitol, 1996
 
@@ -3811,7 +3810,7 @@ Haggard's tough country sound was born in Bakersfield, California, a.k.a. Nashvi
 
 ![Merle Haggard, ‘Down Every Road’](https://www.rollingstone.com/wp-content/uploads/2018/06/unnamed-1f798254-f22d-4978-bfea-e0b1a4114afb.jpg?crop=1240:1240&width=300 "Merle Haggard, ‘Down Every Road’")
 
-###478: Loretta Lynn, ‘All Time Greatest Hits’
+### 478: Loretta Lynn, ‘All Time Greatest Hits’
 
 MCA Nashville, 2002
 
@@ -3819,7 +3818,7 @@ Anyone who thinks a woman singing country music is cute should listen to "Fist C
 
 ![Loretta Lynn, ‘All Time Greatest Hits’](https://www.rollingstone.com/wp-content/uploads/2018/06/48353-4422068b-0d3f-4f8f-b7ee-edf01a0206f6.jpg?crop=1240:1240&width=300 "Loretta Lynn, ‘All Time Greatest Hits’")
 
-###479: Funkadelic, ‘Maggot Brain’
+### 479: Funkadelic, ‘Maggot Brain’
 
 Westbound, 1971
 
@@ -3827,7 +3826,7 @@ Westbound, 1971
 
 ![Funkadelic, ‘Maggot Brain’](https://www.rollingstone.com/wp-content/uploads/2018/06/maggot-brain-72dpi-e6055166-6578-4584-9e2e-643634f5fcf4.jpg?crop=1240:1240&width=300 "Funkadelic, ‘Maggot Brain’")
 
-###480: Raekwon, ‘Only Built 4 Cuban Linx
+### 480: Raekwon, ‘Only Built 4 Cuban Linx
 
 Loud, 1995
 
@@ -3835,7 +3834,7 @@ The best Wu-Tang solo joint is a study in understated cool and densely woven ver
 
 ![Raekwon, ‘Only Built 4 Cuban Linx](https://www.rollingstone.com/wp-content/uploads/2018/06/raekwon-only-built-2-cuban-linx-649d9e3f-2aaf-4663-ba60-200c8f418567.jpg?crop=1240:1240&width=300 "Raekwon, ‘Only Built 4 Cuban Linx")
 
-###481: D’Angelo, ‘Voodoo’
+### 481: D’Angelo, ‘Voodoo’
 
 Virgin, 2000
 
@@ -3843,7 +3842,7 @@ D'Angelo recorded his second album at Electric Lady, the Manhattan studio built 
 
 ![D’Angelo, ‘Voodoo’](https://www.rollingstone.com/wp-content/uploads/2018/06/dangelo-voodoo-ltd-white-vinyl-65138e6e-2239-4d15-a149-08757d3212ec.jpg?crop=1240:1240&width=300 "D’Angelo, ‘Voodoo’")
 
-###482: Steve Earle, ‘Guitar Town’
+### 482: Steve Earle, ‘Guitar Town’
 
 MCA, 1986
 
@@ -3851,7 +3850,7 @@ MCA, 1986
 
 ![Steve Earle, ‘Guitar Town’](https://www.rollingstone.com/wp-content/uploads/2018/06/00602547849625-cover-zoom-de91d20a-6cdb-4cc6-8511-5b2e4bee6408.jpg?crop=1240:1240&width=300 "Steve Earle, ‘Guitar Town’")
 
-###483: Gang of Four, ‘Entertainment!’
+### 483: Gang of Four, ‘Entertainment!’
 
 Warner Bros., 1979
 
@@ -3859,7 +3858,7 @@ Formed in 1977, Gang of Four combined Marxist politics with punk rock. They play
 
 ![Gang of Four, ‘Entertainment!’](https://www.rollingstone.com/wp-content/uploads/2018/06/mi0000476655-6ad2d47c-ed58-48e9-8aa3-2ebfed7b45b1.jpg?crop=1240:1240&width=300 "Gang of Four, ‘Entertainment!’")
 
-###484: Mott the Hoople, ‘All the Young Dudes’
+### 484: Mott the Hoople, ‘All the Young Dudes’
 
 Columbia, 1972
 
@@ -3867,7 +3866,7 @@ Mott were a hard-rock band with a Dylan fixation until David Bowie got ahold of 
 
 ![Mott the Hoople, ‘All the Young Dudes’](https://www.rollingstone.com/wp-content/uploads/2018/06/be043798-66f55cfa-7ee3-4dc0-872c-d48ccc5678f3.jpg?crop=1240:1240&width=300 "Mott the Hoople, ‘All the Young Dudes’")
 
-###485: Pearl Jam, ‘Vitalogy’
+### 485: Pearl Jam, ‘Vitalogy’
 
 Epic, 1994
 
@@ -3875,7 +3874,7 @@ Their previous album, Vs., made Pearl Jam the most successful band in the world.
 
 ![Pearl Jam, ‘Vitalogy’](https://www.rollingstone.com/wp-content/uploads/2018/06/pearljamvitalogy-f2ac08df-4f1c-4d33-bab7-dd271b43c784.jpg?crop=1240:1240&width=300 "Pearl Jam, ‘Vitalogy’")
 
-###486: Earth, Wind and Fire, ‘That’s the Way of the World’
+### 486: Earth, Wind and Fire, ‘That’s the Way of the World’
 
 Columbia, 1975
 
@@ -3883,7 +3882,7 @@ Before he got into African thumb pianos and otherworldly philosophizing, EWF fou
 
 ![Earth, Wind and Fire, ‘That’s the Way of the World’](https://www.rollingstone.com/wp-content/uploads/2018/06/51gf-gwqjcl-1-7dd90fad-40da-488d-99f2-494085a9e2b3.jpg?crop=1240:1240&width=300 "Earth, Wind and Fire, ‘That’s the Way of the World’")
 
-###487: Cyndi Lauper ,’She’s So Unusual’
+### 487: Cyndi Lauper ,’She’s So Unusual’
 
 Portrait, 1983
 
@@ -3891,7 +3890,7 @@ Lauper's first band had broken up and she was singing in a Japanese restaurant. 
 
 ![Cyndi Lauper ,’She’s So Unusual’](https://www.rollingstone.com/wp-content/uploads/2018/06/cl1-38c98251-3411-45e0-8d16-94c5891c023c.jpg?crop=1240:1240&width=300 "Cyndi Lauper ,’She’s So Unusual’")
 
-###488: Hüsker Dü, ‘New Day Rising’
+### 488: Hüsker Dü, ‘New Day Rising’
 
 SST, 1985
 
@@ -3899,7 +3898,7 @@ These three Minneapolis dudes played savagely emotional hardcore punk that becam
 
 ![Hüsker Dü, ‘New Day Rising’](https://www.rollingstone.com/wp-content/uploads/2018/06/screen-shot-2015-01-31-at-5-09-42-pm-e223ce1c-9e9a-4592-9200-b5402283b945.png?crop=1240:1240&width=300 "Hüsker Dü, ‘New Day Rising’")
 
-###489: Kiss, ‘Destroyer’
+### 489: Kiss, ‘Destroyer’
 
 Casablanca, 1976
 
@@ -3907,7 +3906,7 @@ By their fifth album, Kiss were the most popular band in America, with sold-out 
 
 ![Kiss, ‘Destroyer’](https://www.rollingstone.com/wp-content/uploads/2018/06/kiss_destroy_coverar_4000dpi300rgb1000147352-d045b89a-36f1-406a-b737-a290887c6e16.jpg?crop=1240:1240&width=300 "Kiss, ‘Destroyer’")
 
-###490: ZZ Top, ‘Tres Hombres’
+### 490: ZZ Top, ‘Tres Hombres’
 
 London, 1973
 
@@ -3915,7 +3914,7 @@ A decade before the Texas blues trio became MTV stars, ZZ Top got their first ta
 
 ![ZZ Top, ‘Tres Hombres’](https://www.rollingstone.com/wp-content/uploads/2018/06/zz-1-d7ce94f9-3011-478b-bde8-29caa6b515d8.jpg?crop=1240:1240&width=300 "ZZ Top, ‘Tres Hombres’")
 
-###491: Albert King, ‘Born Under a Bad Sign’
+### 491: Albert King, ‘Born Under a Bad Sign’
 
 Stax, 1967
 
@@ -3923,7 +3922,7 @@ King's first album for the Stax label combines his hard, unflashy guitar playing
 
 ![Albert King, ‘Born Under a Bad Sign’](https://www.rollingstone.com/wp-content/uploads/2018/06/born-under-a-bad-sign-cover-dcf0f101-8c1f-45ee-9826-aaf4836f12e3.jpg?crop=1240:1240&width=300 "Albert King, ‘Born Under a Bad Sign’")
 
-###492: Eurythmics, ‘Touch’
+### 492: Eurythmics, ‘Touch’
 
 RCA, 1984
 
@@ -3931,7 +3930,7 @@ Annie Lennox looked like a gender-bending cybor, but she sang with soul; produce
 
 ![Eurythmics, ‘Touch’](https://www.rollingstone.com/wp-content/uploads/2018/06/eurythmics-touch-900-15cccb6a-78ae-4ffe-beaf-1a24dfc3a9df.jpg?crop=1240:1240&width=300 "Eurythmics, ‘Touch’")
 
-###493: Wilco, ‘Yankee Hotel Foxtrot’
+### 493: Wilco, ‘Yankee Hotel Foxtrot’
 
 Nonesuch, 2002
 
@@ -3939,7 +3938,7 @@ Wilco's great leap forward was a mix of rock tradition, electronics, oddball rhy
 
 ![Wilco, ‘Yankee Hotel Foxtrot’](https://www.rollingstone.com/wp-content/uploads/2018/06/wilco-yankee-hotel-foxtrot-07232015-bec17e21-bf8d-4045-bee5-9737327ca979.jpg?crop=1240:1240&width=300 "Wilco, ‘Yankee Hotel Foxtrot’")
 
-###494: MGMT, ‘Oracular Spectacular’
+### 494: MGMT, ‘Oracular Spectacular’
 
 Columbia, 2008
 
@@ -3947,7 +3946,7 @@ Two hipster geeks get some rad vintage keyboards and compose a suite of synthesi
 
 ![MGMT, ‘Oracular Spectacular’](https://www.rollingstone.com/wp-content/uploads/2018/06/orcular-spectacular-69875e28-db4d-4b4b-a804-8597bf0b2fec.jpg?crop=1240:1240&width=300 "MGMT, ‘Oracular Spectacular’")
 
-###495: Bonnie Raitt, ‘Give It Up’
+### 495: Bonnie Raitt, ‘Give It Up’
 
 Warner Bros., 1972
 
@@ -3955,7 +3954,7 @@ California darling Raitt headed to Woodstock to cut her second LP – only to fa
 
 ![Bonnie Raitt, ‘Give It Up’](https://www.rollingstone.com/wp-content/uploads/2018/06/1280x1280-f478d514-66e9-4eaf-8c1a-9b27c8f4d8f9.jpg?crop=1240:1240&width=300 "Bonnie Raitt, ‘Give It Up’")
 
-###496: Boz Scaggs, ‘Boz Scaggs’
+### 496: Boz Scaggs, ‘Boz Scaggs’
 
 Atlantic, 1969
 
@@ -3963,7 +3962,7 @@ The stone-solid grooves on this underrated gem come courtesy of the Muscle Shoal
 
 ![Boz Scaggs, ‘Boz Scaggs’](https://www.rollingstone.com/wp-content/uploads/2018/06/81zygxunhil_sl1076_-ace9e62c-8cc9-41dd-9711-8da2fd700422.jpg?crop=1240:1240&width=300 "Boz Scaggs, ‘Boz Scaggs’")
 
-###497: The White Stripes, ‘White Blood Cells’
+### 497: The White Stripes, ‘White Blood Cells’
 
 Sympathy for the Record Industry, 2001
 
@@ -3971,7 +3970,7 @@ The third album by Jack and Meg White was the right dynamite for a mainstream br
 
 ![The White Stripes, ‘White Blood Cells’](https://www.rollingstone.com/wp-content/uploads/2018/06/jbwswbc-a82c0360-1d89-40cb-8b75-5cbcb11c9ae1.jpg?crop=1240:1240&width=300 "The White Stripes, ‘White Blood Cells’")
 
-###498: The Stone Roses, ‘The Stone Roses’
+### 498: The Stone Roses, ‘The Stone Roses’
 
 Silvertone, 1989
 
@@ -3979,7 +3978,7 @@ For a few glorious moments, the Stone Roses looked like they might lead another 
 
 ![The Stone Roses, ‘The Stone Roses’](https://www.rollingstone.com/wp-content/uploads/2018/06/stoneroses-4bbdd32d-bf9c-4a78-bb41-dfd2484a3001.jpg?crop=1240:1240&width=300 "The Stone Roses, ‘The Stone Roses’")
 
-###499: B.B. King, ‘Live in Cook County Jail’
+### 499: B.B. King, ‘Live in Cook County Jail’
 
 ABC, 1971
 
@@ -3987,7 +3986,7 @@ King was enjoying a career renaissance when he played this Chicago jail in 1970.
 
 ![B.B. King, ‘Live in Cook County Jail’](https://www.rollingstone.com/wp-content/uploads/2018/06/81guooei4dl_sl1109_-b0b72075-24e3-4a98-a8d5-a9c32b1e3d79.jpg?crop=1240:1240&width=300 "B.B. King, ‘Live in Cook County Jail’")
 
-###500: OutKast, ‘Aquemini’
+### 500: OutKast, ‘Aquemini’
 
 LaFace, 1998
 
