@@ -1558,8 +1558,6 @@ Blondie singer Harry and guitarist Stein, her boyfriend, wrote the song as "Once
 
 Dylan first recorded "Mississippi" for 1997’s Time Out of Mind, but he hated producer Daniel Lanois’ busy arrangement. This version, produced pseudonymously by Dylan, has a sturdy, straightforward groove. "Polyrhythm doesn’t work for knifelike lyrics about majesty and heroism," he said.
 
-![Blondie, ‘Heart of Glass’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-135391-18f49ead2fa115ad4520fd066492cfe12d498df5.jpg?crop=1240:1240&width=300 "Blondie, ‘Heart of Glass’")
-
 ### 261: The Troggs, ‘Wild Thing’
 
 When Taylor demo’d this three-chord monster in 1965, he didn’t take it too seriously: "I was on the floor laughing when I was through." But after a new U.K. band called the Troggs got hold of it, "Wild Thing" became a bar-band standard. Said Taylor, "It’s still inspired, even in its own dumbness."
@@ -2812,8 +2810,6 @@ Stax singer Ingram, frustrated with the state of the world, told house songwrite
 
 The B side of “Paperback Writer” was Lennon‘s response to people moaning about the wet British weather. It featured one of the earliest uses of backward tape, which Lennon said was the result of being stoned and spooling up the tape wrong. It also included virtuoso drumming from Ringo Starr. “I feel as though that was someone else playing,” Starr said. “I was possessed!”
 
-![The Staple Singers, ‘Respect Yourself’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-135680-275ff870a50466b646ca8aa8f5c87c83d8495879.jpg?crop=1240:1240&width=300 "The Staple Singers, ‘Respect Yourself’")
-
 ### 470: The Four Tops, ‘Standing in the Shadows of Love’
 
 Like so many other Motown hits, "Standing" features the popping bass of James Jamerson. He was such a monster player, his fellow musicians called him "Igor"; Marvin Gaye called him a genius.
@@ -2937,8 +2933,6 @@ A staple of beach-town jukeboxes every summer since its release, "Under the Boar
 ### 490: Coldplay, ‘Clocks’
 
 Coldplay were scrambling to finish their second album and wanted to save "Clocks," with a churning piano riff inspired by the band Muse, for a later album. Luckily, a friend intervened. "He said, 'You're going on [in the lyrics] about urgency, and you're talking about keeping this song back,' " said Chris Martin. " 'That doesn't make sense.' "
-
-![The Drifters, ‘Under the Boardwalk’](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-135701-95c10a16add4158e238c1ae07a9df1518e428b11.jpg?crop=1240:1240&width=300 "The Drifters, ‘Under the Boardwalk’")
 
 ### 491: Joan Jett and the Blackhearts, ‘I Love Rock ‘N Roll’
 
