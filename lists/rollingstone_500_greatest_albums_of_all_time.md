@@ -1,6 +1,7 @@
-# Rolling Stone: 500 Greatest Albums of All Time
-### Rolling Stone’s definitive list of the 500 greatest albums of all time.
-### 1: The Beatles, ‘Sgt. Pepper’s Lonely Hearts Club Band’
+# [Rolling Stone: 500 Greatest Albums of All Time](http://www.vinylworld.org/list/77)
+### [Rolling Stone’s definitive list of the 500 greatest albums of all time.](http://www.vinylworld.org/list/77)
+
+### [1: The Beatles, ‘Sgt. Pepper’s Lonely Hearts Club Band’](http://www.vinylworld.org/album/12602/1)
 
 Capitol, 1967
 
